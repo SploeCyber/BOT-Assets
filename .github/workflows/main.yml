@@ -7,18 +7,29 @@ on:
         description: 'Sheet range to download (e.g., 1-5, 1). Leave empty for default (1-21).'
         required: false
         default: '1-21'
+      upload_method:
+        description: 'Upload method: "artifact" (default) or "commit" (update repo)'
+        required: false
+        default: 'artifact'
+        type: choice
+        options:
+        - artifact
+        - commit
+
+permissions:
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v3
+    - uses: actions/checkout@v6
 
-    - name: Set up Python 3.10
-      uses: actions/setup-python@v3
+    - name: Set up Latest Python
+      uses: actions/setup-python@v6
       with:
-        python-version: "3.10"
+        python-version: 'latest'
 
     - name: Install dependencies
       run: |
@@ -29,15 +40,24 @@ jobs:
       env:
         GOOGLE_CREDENTIALS_JSON: ${{ secrets.GOOGLE_CREDENTIALS_JSON }}
       run: |
-        # Run the script to download sheets using the input range.
         python download_sheets.py --input "${{ github.event.inputs.sheet_range }}"
 
     - name: Generate JSON and Images
       run: |
         python generate_info_json.py
 
+    - name: Commit and Push Changes
+      if: github.event.inputs.upload_method == 'commit'
+      run: |
+        git config --global user.name 'github-actions[bot]'
+        git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+        git add Assets/
+        git commit -m "Update card assets [skip ci]" || echo "No changes to commit"
+        git push
+
     - name: Upload Artifacts
-      uses: actions/upload-artifact@v4
+      if: github.event.inputs.upload_method == 'artifact'
+      uses: actions/upload-artifact@v5
       with:
         name: card-assets
         path: Assets/
