@@ -101,8 +101,6 @@ def download_sheets(user_input_arg=None):
 
         print(f"\nStarting download of {len(valid_indices)} sheets...")
 
-        print(f"\nStarting download of {len(valid_indices)} sheets...")
-
         for idx in tqdm(valid_indices, unit="sheet"):
             target_sheet = filtered_worksheets[idx]
             while True:
