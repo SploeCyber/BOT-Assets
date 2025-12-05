@@ -1,0 +1,407 @@
+[
+  {
+    "ImagePath": "SD01-001-SR.png",
+    "Name": "พระอิศวร",
+    "Type": "Avatar",
+    "Cost": 6,
+    "Gem": 2,
+    "Power": 5,
+    "Symbol": "เทพ",
+    "Color": "#FF0000",
+    "ซอย": 1,
+    "Print": "SD01-001",
+    "Rare": "SR",
+    "Details": {
+      "Main Effect": "จุติ (เมื่อ Avatar ตัวนี้ถูกอัญเชิญลงสนามแบบจ่าย Cost) : เลือก Avatar 1 ใบ POWER -4 จนจบเทิร์น"
+    }
+  },
+  {
+    "ImagePath": "SD01-002-SR.png",
+    "Name": "พระนารายณ์ ",
+    "Type": "Avatar",
+    "Cost": 4,
+    "Gem": 1,
+    "Power": 4,
+    "Symbol": "เทพ",
+    "Color": "#FF0000",
+    "ซอย": 1,
+    "Print": "SD01-002",
+    "Rare": "SR",
+    "Details": {
+      "Main Effect": "อัตโนมัติ เมื่อ Avatar ใบนี้โจมตี : POWER +2 จนจบเทิร์น"
+    }
+  },
+  {
+    "ImagePath": "SD01-003-C.png",
+    "Name": "พระอินทร์",
+    "Type": "Avatar",
+    "Cost": 2,
+    "Gem": 2,
+    "Power": 2,
+    "Symbol": "เทพ",
+    "Color": "#FF0000",
+    "ซอย": 1,
+    "Print": "SD01-003",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "จุติ (เมื่อ Avatar ตัวนี้ถูกอัญเชิญลงสนามแบบจ่าย Cost) : เลือก Avatar 1 ใบ POWER +3 จนจบเทิร์น"
+    }
+  },
+  {
+    "ImagePath": "SD01-004-C.png",
+    "Name": "นนทก",
+    "Type": "Avatar",
+    "Cost": 1,
+    "Gem": 2,
+    "Power": 1,
+    "Symbol": "ยักษ์",
+    "Color": "#FF0000",
+    "ซอย": 1,
+    "Print": "SD01-004",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "ต่อเนื่อง ตราบเท่าที่ Avatar ใบนี้อยู่บน Avatar Zone POWER +1 ให้ Avatar {รูป symbol เทพ} ทุกใบบน Avatar Zone ฝ่ายเรา"
+    }
+  },
+  {
+    "ImagePath": "SD01-005-UR.png",
+    "Name": "เมียพระอิศวร",
+    "Type": "Avatar",
+    "Cost": 3,
+    "Gem": 4,
+    "Power": 5,
+    "Symbol": "เทพ",
+    "Color": "#FF0000",
+    "Ex": "Only #1",
+    "ซอย": 1,
+    "Print": "SD01-005",
+    "Rare": "UR",
+    "Details": {
+      "Main Effect": "จุติ (เมื่อ Avatar ตัวนี้ถูกอัญเชิญลงสนามแบบจ่าย Cost) : จั่วการ์ด 3 ใบ"
+    }
+  },
+  {
+    "ImagePath": "SD01-005-PR.png",
+    "Name": "เมียพระอิศวร",
+    "Type": "Avatar",
+    "Cost": 3,
+    "Gem": 4,
+    "Power": 5,
+    "Symbol": "เทพ",
+    "Color": "#FF0000",
+    "Ex": "Only #1",
+    "ซอย": 1,
+    "Print": "SD01-005",
+    "Rare": "PR",
+    "Details": {
+      "Main Effect": "จุติ (เมื่อ Avatar ตัวนี้ถูกอัญเชิญลงสนามแบบจ่าย Cost) : จั่วการ์ด 3 ใบ"
+    }
+  },
+  {
+    "ImagePath": "SD01-005-CBR.png",
+    "Name": "เมียพระอิศวร",
+    "Type": "Avatar",
+    "Cost": 3,
+    "Gem": 4,
+    "Power": 5,
+    "Symbol": "เทพ",
+    "Color": "#FF0000",
+    "Ex": "Only #1",
+    "ซอย": 1,
+    "Print": "SD01-005",
+    "Rare": "CBR",
+    "Details": {
+      "Main Effect": "จุติ (เมื่อ Avatar ตัวนี้ถูกอัญเชิญลงสนามแบบจ่าย Cost) : จั่วการ์ด 3 ใบ"
+    }
+  },
+  {
+    "ImagePath": "SD01-006-C.png",
+    "Name": "ช่างแอร์ดวงซวย",
+    "Type": "Avatar",
+    "Cost": 0,
+    "Gem": 4,
+    "Power": 0,
+    "Symbol": "เทพ",
+    "Color": "#FF0000",
+    "ซอย": 1,
+    "Print": "SD01-006",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": null
+    }
+  },
+  {
+    "ImagePath": "SD01-007-C.png",
+    "Name": "เทวดานักมวย",
+    "Type": "Avatar",
+    "Cost": 1,
+    "Gem": 1,
+    "Power": 3,
+    "Symbol": "เทพ",
+    "Color": "#FF0000",
+    "ซอย": 1,
+    "Print": "SD01-007",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": null
+    }
+  },
+  {
+    "ImagePath": "SD01-008-C.png",
+    "Name": "เทวดาแบงค์",
+    "Type": "Avatar",
+    "Cost": 1,
+    "Gem": 0,
+    "Power": 4,
+    "Symbol": "เทพ",
+    "Color": "#FF0000",
+    "ซอย": 1,
+    "Print": "SD01-008",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": null
+    }
+  },
+  {
+    "ImagePath": "SD01-009-C.png",
+    "Name": "เด็กถ่ายเอกสาร",
+    "Type": "Avatar",
+    "Cost": 2,
+    "Gem": 3,
+    "Power": 2,
+    "Symbol": "เทพ",
+    "Color": "#FF0000",
+    "ซอย": 1,
+    "Print": "SD01-009",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": null
+    }
+  },
+  {
+    "ImagePath": "SD01-010-C.png",
+    "Name": "เทวดาตัวเปิด",
+    "Type": "Avatar",
+    "Cost": 0,
+    "Gem": 0,
+    "Power": 3,
+    "Symbol": "เทพ",
+    "Color": "#FF0000",
+    "ซอย": 1,
+    "Print": "SD01-010",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": null
+    }
+  },
+  {
+    "ImagePath": "SD01-011-C.png",
+    "Name": "ยักษ์ล้างส้วม",
+    "Type": "Avatar",
+    "Cost": 0,
+    "Gem": 1,
+    "Power": 1,
+    "Symbol": "ยักษ์",
+    "Color": "#FF0000",
+    "ซอย": 1,
+    "Print": "SD01-011",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": null
+    }
+  },
+  {
+    "ImagePath": "SD01-012-C.png",
+    "Name": "ยักษ์แบกปูน",
+    "Type": "Avatar",
+    "Cost": 1,
+    "Gem": 2,
+    "Power": 2,
+    "Symbol": "ยักษ์",
+    "Color": "#FF0000",
+    "ซอย": 1,
+    "Print": "SD01-012",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": null
+    }
+  },
+  {
+    "ImagePath": "SD01-013-C.png",
+    "Name": "เทวดาจิตบำบัด",
+    "Type": "Avatar",
+    "Cost": 1,
+    "Gem": 3,
+    "Power": 1,
+    "Symbol": "เทพ",
+    "Color": "#FF0000",
+    "ซอย": 1,
+    "Print": "SD01-013",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": null
+    }
+  },
+  {
+    "ImagePath": "SD01-014-C.png",
+    "Name": "เทวดาเลื่อยยนต์",
+    "Type": "Avatar",
+    "Cost": 4,
+    "Gem": 2,
+    "Power": 4,
+    "Symbol": "เทพ",
+    "Color": "#FF0000",
+    "ซอย": 1,
+    "Print": "SD01-014",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": null
+    }
+  },
+  {
+    "ImagePath": "SD01-015-C.png",
+    "Name": "วิรุฬหก",
+    "Type": "Avatar",
+    "Cost": 5,
+    "Gem": 3,
+    "Power": 5,
+    "Symbol": "เทพ",
+    "Color": "#FF0000",
+    "ซอย": 1,
+    "Print": "SD01-015",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": null
+    }
+  },
+  {
+    "ImagePath": "SD01-016-C.png",
+    "Name": "น้ำแดง",
+    "Type": "Magic",
+    "SubType": "Modification",
+    "Gem": 1,
+    "Symbol": "จอมเวทย์",
+    "ซอย": 1,
+    "Print": "SD01-016",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": " Avatar ที่สวมใส่การ์ดใบนี้ POWER +1"
+    }
+  },
+  {
+    "ImagePath": "SD01-017-C.png",
+    "Name": "อุบัติเหตุ!!!",
+    "Type": "Magic",
+    "SubType": "React",
+    "Gem": 1,
+    "Symbol": "จอมเวทย์",
+    "ซอย": 1,
+    "Print": "SD01-017",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "เมื่อมี Avatar อัญเชิญลงมาบนสนาม : ทำลาย Avatar ตัวนั้น"
+    }
+  },
+  {
+    "ImagePath": "SD01-018-C.png",
+    "Name": "ความยุติธรรมสำหรับนนทก",
+    "Type": "Magic",
+    "SubType": "Normal",
+    "Gem": 1,
+    "Symbol": "จอมเวทย์",
+    "ซอย": 1,
+    "Print": "SD01-018",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "ทิ้ง Avatar {รูป symbol เทพ} จากบนมือ 1 ใบ : จั่วการ์ด 2 ใบ"
+    }
+  },
+  {
+    "ImagePath": "SD01-019-C.png",
+    "Name": "ฮ่า ฮ่า ฮ่า ผมได้เลื่อนขั้น",
+    "Type": "Magic",
+    "SubType": "Normal",
+    "Gem": 2,
+    "Symbol": "จอมเวทย์",
+    "ซอย": 1,
+    "Print": "SD01-019",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "เลือก Avatar {รูป symbol เทพ} 1 ใบ : POWER +2 จนจบเทิร์น"
+    }
+  },
+  {
+    "ImagePath": "SD01-020-C.png",
+    "Name": "เขาไกรลาส",
+    "Type": "Magic",
+    "SubType": "Land",
+    "Gem": 2,
+    "Symbol": "จอมเวทย์",
+    "ซอย": 1,
+    "Print": "SD01-020",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": " POWER +1 ให้ Avatar {รูป symbol เทพ} บนสนามทุกใบ"
+    }
+  },
+  {
+    "ImagePath": "SD01-021-C.png",
+    "Name": "ไม่นะ อิศวร !",
+    "Type": "Life",
+    "ซอย": 1,
+    "Print": "SD01-021",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "เมื่อการ์ดใบนี้ถูกหงายจากการโจมตี : ใน main phase ถัดไป จั่วการ์ด 1 ใบ",
+      "Favor Text": "คุณปล่อยให้พระอิศวรเจ้าแห่ง3โลกตาย ทำให้สมดุลเศรษฐกิจบนสวรรค์กำลังล่มสลาย ตอนนี้ปลาประเภทเดียวที่มึงจะได้บุญจากการปล่อยปลาคือปลาฉลามขาว\n"
+    }
+  },
+  {
+    "ImagePath": "SD01-022-C.png",
+    "Name": "ไม่นะ นนทก !",
+    "Type": "Life",
+    "ซอย": 1,
+    "Print": "SD01-022",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "เมื่อการ์ดใบนี้ถูกหงายจากการโจมตี : ใน main phase ถัดไป จั่วการ์ด 1 ใบ",
+      "Favor Text": "นนทกก็แค่ยักษ์ล้างเท้าตนนึงอ่ะเนอะ ตายไปก็แค่เท้าดำขึ้นหน่อย โลกไม่ได้แตกไร ก็เนอะในมุมชนชั้นกลางของคุณ นนทกก็เป็นแค่ตัวถ่วงGDPอยู่แล้ว \n"
+    }
+  },
+  {
+    "ImagePath": "SD01-023-C.png",
+    "Name": " ไม่นะ อัปสร !",
+    "Type": "Life",
+    "ซอย": 1,
+    "Print": "SD01-023",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "เมื่อการ์ดใบนี้ถูกหงายจากการโจมตี : ใน main phase ถัดไป จั่วการ์ด 1 ใบ",
+      "Favor Text": "นางอัปสรเทพธิดานางฟ้ายอดนักเต้น เมื่อขาดเธอไป บนสวงสวรรค์ก็งดงามน้อยลงแล้วคนก็คงทำบาปมากขึ้นขอบคุณเว้ยมึง\n"
+    }
+  },
+  {
+    "ImagePath": "SD01-024-C.png",
+    "Name": "ไม่นะ ซาร่า !",
+    "Type": "Life",
+    "ซอย": 1,
+    "Print": "SD01-024",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "เมื่อการ์ดใบนี้ถูกหงายจากการโจมตี : ใน main phase ถัดไป จั่วการ์ด 1 ใบ",
+      "Favor Text": "ซาร่าแอบชอบคุณมานานแล้ว แต่ก็ไม่เคยเลยที่คุณจะหันไปยิ้มให้เธอหรือรับรู้ว่าเธอมีตัวตนซักครั้ง และวันนี้ก็คงสมใจคุณแล้วสินะที่ซาร่าจะไม่อยู่ในโลกนี้อีก \n"
+    }
+  },
+  {
+    "ImagePath": "SD01-025-C.png",
+    "Name": "ไม่นะ หลวงพ่อ !",
+    "Type": "Life",
+    "ซอย": 1,
+    "Print": "SD01-025",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "เมื่อการ์ดใบนี้ถูกหงายจากการโจมตี : ใน main phase ถัดไป จั่วการ์ด 1 ใบ",
+      "Favor Text": "สั้นๆ…ผมไม่มีอะไรจะพูดกับไอ้บาปที่ปล่อยหลวงพ่อตาย\n"
+    }
+  }
+]
