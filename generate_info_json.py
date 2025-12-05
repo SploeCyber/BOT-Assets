@@ -160,6 +160,35 @@ def process_card_image(idx, image, ws, merged_lookup, args, output_folder, card_
         return None, None
 
 
+def generate_assets_index(assets_folder):
+    """Scans the Assets folder and generates a root-level index JSON."""
+    print(f"\nGenerating asset index...")
+    asset_list = []
+    
+    if os.path.exists(assets_folder):
+        for folder_name in sorted(os.listdir(assets_folder)):
+            folder_path = os.path.join(assets_folder, folder_name)
+            if os.path.isdir(folder_path):
+                dataset_path = os.path.join(folder_path, "dataset.json")
+                if os.path.exists(dataset_path):
+                    # Create the entry
+                    # Use forward slashes for path consistency
+                    relative_path = f"{ASSETS_FOLDER}/{folder_name}/dataset.json"
+                    asset_list.append({
+                        "name": folder_name,
+                        "path": relative_path
+                    })
+    
+    output_path = "asset-map.json"
+    try:
+        with open(output_path, "w", encoding="utf-8") as f:
+            json.dump(asset_list, f, ensure_ascii=False, indent=2)
+        print(f"✅ Asset map saved to: {output_path}")
+        print(f"📦 Total Asset Packs: {len(asset_list)}")
+    except Exception as e:
+        print(f"❌ Error saving asset map: {e}")
+
+
 def main():
     parser = argparse.ArgumentParser(description="Generate JSON from Excel with card data.")
     parser.add_argument("--no-image", action="store_true", help="Skip image extraction and saving.")
@@ -221,6 +250,9 @@ def main():
 
         except Exception as e:
             print(f"❌ Critical Error reading {xlsx_path}: {e}")
+
+    # Generate the root index file after processing all sheets
+    generate_assets_index(ASSETS_FOLDER)
 
 if __name__ == "__main__":
     main()

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "SD01 - ตัวตึงไกรลาส",
+    "path": "Assets/SD01 - ตัวตึงไกรลาส/dataset.json"
+  },
+  {
+    "name": "SD02 - วีรบุรุษปากซอย",
+    "path": "Assets/SD02 - วีรบุรุษปากซอย/dataset.json"
+  },
+  {
+    "name": "SD03 - นรกก็แค่น้ำพริก",
+    "path": "Assets/SD03 - นรกก็แค่น้ำพริก/dataset.json"
+  }
+]
