@@ -1,0 +1,1188 @@
+[
+  {
+    "ImagePath": "BT03-001-C.png",
+    "Name": "พระลักษมี",
+    "Type": "Avatar",
+    "Cost": 1,
+    "Gem": 4,
+    "Power": 1,
+    "Symbol": "เทพ",
+    "Color": "#FF0000",
+    "ซอย": 1,
+    "Print": "BT03-001",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "\nเมื่อการ์ดใบนี้ถูกใช้เป็น Cost เพื่ออัญเชิญ Avatar \"พระนารายณ์\" : POWER + 3 ให้กับ Avatar ที่อัญเชิญ จนจบเทิร์น\n#การ์ดใบนี้ใช้เป็น Cost การอัญเชิญได้เฉพาะ Avatar {symbol เทพ} เท่านั้น"
+    }
+  },
+  {
+    "ImagePath": "BT03-002-R.png",
+    "Name": "นางอัปสร",
+    "Type": "Avatar",
+    "Cost": 4,
+    "Gem": 1,
+    "Power": 3,
+    "Symbol": "เทพ",
+    "Color": "#FF0000",
+    "ซอย": 1,
+    "Print": "BT03-002",
+    "Rare": "R",
+    "Details": {
+      "Main Effect": "อัตโนมัติ เมื่อการ์ดใบนี้สั่งโจมตี : ฝ่ายตรงข้ามไม่สามารถสั่งใช้งาน React Magic จนจบการต่อสู้ \n#การ์ดใบนี้นับเป็นชื่อ \"พระนารายณ์\""
+    }
+  },
+  {
+    "ImagePath": "BT03-003-R.png",
+    "Name": "อินทรีย์แมน",
+    "Type": "Avatar",
+    "Cost": 3,
+    "Gem": 1,
+    "Power": 3,
+    "Symbol": "คน",
+    "Color": "#FF0000",
+    "Ex": "Only#1",
+    "ซอย": 1,
+    "Print": "BT03-003",
+    "Rare": "R",
+    "Details": {
+      "Main Effect": "จุติ : นำ Modification Magic จากใน Deck ฝ่ายเรา 1 ใบมาสวมให้กับ Avatar ใบนี้หลังจากนั้นสับ Deck \nต่อเนื่อง POWER ของ Avatar ใบนี้จะเพิ่มตาม Modification Magic ทั้งหมดบนสนาม ใบละ 1 "
+    }
+  },
+  {
+    "ImagePath": "BT03-004-UR.png",
+    "Name": " หุ่นนักรบผู้กล้า : ไมเกรน",
+    "Type": "Avatar",
+    "Cost": 5,
+    "Gem": 2,
+    "Power": 4,
+    "Symbol": "เครื่องจักร",
+    "Color": "#FF0000",
+    "ซอย": 1,
+    "Print": "BT03-004",
+    "Rare": "UR",
+    "Details": {
+      "Main Effect": "จุติ : สอดแนม 5 ใบ เลือกการ์ด \"อาวุธหุ่นนักรบผู้กล้า\" 1 ใบจากที่ สอดแนม และนำขึ้นมือ การ์ดที่เหลือเรียงและนำไว้ใต้ Deck\nเทิร์นละครั้ง อัตโนมัติ เมื่อมีการใช้ Modification Magic \"อาวุธหุ่นนักรบผู้กล้า\" : จั่วการ์ด 1 ใบ"
+    }
+  },
+  {
+    "ImagePath": "BT03-004-2-SCR.png",
+    "Name": " หุ่นนักรบผู้กล้า : ไมเกรน",
+    "Type": "Avatar",
+    "Cost": 5,
+    "Gem": 2,
+    "Power": 4,
+    "Symbol": "เครื่องจักร",
+    "Color": "#FF0000",
+    "ซอย": 1,
+    "Print": "BT03-004-2",
+    "Rare": "SCR",
+    "Details": {
+      "Main Effect": "จุติ : สอดแนม 5 ใบ เลือกการ์ด \"อาวุธหุ่นนักรบผู้กล้า\" 1 ใบจากที่สอดแนม  นำขึ้นมือ การ์ดที่เหลือเรียงและนำไว้ใต้ Deck\nอัตโนมัติ เทิร์นละครั้ง เมื่อมีการใช้ Modification Magic \"อาวุธหุ่นนักรบผู้กล้า\" : จั่วการ์ด 1 ใบ"
+    }
+  },
+  {
+    "ImagePath": "BT03-005-R.png",
+    "Name": "โดรนสอดแนมผู้กล้า : เก๊าท์",
+    "Type": "Avatar",
+    "Cost": 4,
+    "Gem": 1,
+    "Power": 4,
+    "Symbol": "เครื่องจักร",
+    "Color": "#FF0000",
+    "ซอย": 1,
+    "Print": "BT03-005",
+    "Rare": "R",
+    "Details": {
+      "Main Effect": "จุติ และ บน Avatar Zone ฝ่ายเรา มี Avatar Symbol {หุ่นยนต์} \"ผู้กล้า\" : สอดแนม 1 ใบของ Deck อีกฝ่าย ถ้าเป็น Avatar นำใบนั้นลงนรก แต่ถ้าไม่ใช่ ให้นำไว้ใต้ Deck "
+    }
+  },
+  {
+    "ImagePath": "BT03-006-C.png",
+    "Name": "ยานเกราะผู้กล้า : ไดบาเรีย",
+    "Type": "Avatar",
+    "Cost": 0,
+    "Gem": 4,
+    "Power": 0,
+    "Symbol": "เครื่องจักร",
+    "Color": "#FF0000",
+    "ซอย": 1,
+    "Print": "BT03-006",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "\nถ้าการ์ดใบนี้ถูกใช้เป็น Cost ในการอัญเชิญ : จั่วการ์ด 1 ใบ\n#การ์ดใบนี้ใช้เป็น Cost การอัญเชิญได้เฉพาะ Avatar {Symbol หุ่นยนต์}  ที่มีสีของ Avatar เป็นสีแดงเท่านั้น"
+    }
+  },
+  {
+    "ImagePath": "BT03-007-C.png",
+    "Name": "อากาศยานผู้กล้า : แอร์ซิด รีฟลักซ์",
+    "Type": "Avatar",
+    "Cost": 1,
+    "Gem": 2,
+    "Power": 1,
+    "Symbol": "เครื่องจักร",
+    "Color": "#FF0000",
+    "ซอย": 1,
+    "Print": "BT03-007",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "อัตโนมัติ สั่งใช้ เมื่อ \"หุ่นนักรบผู้กล้า : ไม้ท์เกรน\" ที่เราควบคุมอยู่บนสนามกำลังจะถูกทำลาย : ทำลายการ์ดใบนี้แทนได้"
+    }
+  },
+  {
+    "ImagePath": "BT03-008-SR.png",
+    "Name": "กาฬสินธุ์แมน",
+    "Type": "Avatar",
+    "Cost": 4,
+    "Gem": 3,
+    "Power": 3,
+    "Symbol": "คน",
+    "Color": "#FF0000",
+    "ซอย": 1,
+    "Print": "BT03-008",
+    "Rare": "SR",
+    "Details": {
+      "Main Effect": "อัตโนมัติ เมื่อ Avatar ใบนี้ทำลาย Avatar อีกฝ่ายจากการต่อสู้สำเร็จ : POWER ของการ์ดใบนี้ +1"
+    }
+  },
+  {
+    "ImagePath": "BT03-008-2-SCR.png",
+    "Name": "กาฬสินธุ์แมน ",
+    "Type": "Avatar",
+    "Cost": 1,
+    "Gem": 2,
+    "Power": 1,
+    "Symbol": "คน",
+    "Color": "#FF0000",
+    "ซอย": 1,
+    "Print": "BT03-008-2",
+    "Rare": "SCR",
+    "Details": {
+      "Main Effect": "อัตโนมัติ เมื่อ Avatar ใบนี้ทำลาย Avatar อีกฝ่ายจากการต่อสู้สำเร็จ : POWER ของการ์ดใบนี้ +1"
+    }
+  },
+  {
+    "ImagePath": "BT03-009-UR.png",
+    "Name": "จีสัส",
+    "Type": "Avatar",
+    "Cost": 4,
+    "Gem": 2,
+    "Power": 5,
+    "Symbol": "สัตว์",
+    "Color": "#FF0000",
+    "ซอย": 1,
+    "Print": "BT03-009",
+    "Rare": "UR",
+    "Details": {
+      "Main Effect": "ต่อเนื่อง การ์ดใบนี้สามารถสั่งโจมตีได้ เมื่อเราไม่มีการ์ดบนมือเหลืออยู่ "
+    }
+  },
+  {
+    "ImagePath": "BT03-009-2-SCR.png",
+    "Name": "จีสัส",
+    "Type": "Avatar",
+    "Cost": 4,
+    "Gem": 2,
+    "Power": 5,
+    "Symbol": "สัตว์",
+    "Color": "#FF0000",
+    "ซอย": 1,
+    "Print": "BT03-009-2",
+    "Rare": "SCR",
+    "Details": {
+      "Main Effect": "ต่อเนื่อง การ์ดใบนี้สามารถสั่งโจมตีได้ เมื่อเราไม่มีการ์ดบนมือเหลืออยู่ "
+    }
+  },
+  {
+    "ImagePath": "BT03-010-R.png",
+    "Name": "ไดโนกาฬสินธุ์ - ภูเวียงสิรินเน",
+    "Type": "Avatar",
+    "Cost": 4,
+    "Gem": 2,
+    "Power": 4,
+    "Symbol": "กะปอม",
+    "Color": "#00FFFF",
+    "ซอย": 1,
+    "Print": "BT03-010",
+    "Rare": "R"
+  },
+  {
+    "ImagePath": "BT03-011-SR.png",
+    "Name": "ไดโนกาฬสินธุ์ - กินรีมิมัส",
+    "Type": "Avatar",
+    "Cost": 3,
+    "Gem": 2,
+    "Power": 3,
+    "Symbol": "กะปอม",
+    "Color": "#00FFFF",
+    "ซอย": 1,
+    "Print": "BT03-011",
+    "Rare": "SR",
+    "Details": {
+      "Main Effect": "จุติ สอดแนม 5 ใบ : เลือก Avatar symbol กะปอม 1 ใบที่มี Cost 3 หรือต่ำกว่า จากที่ สอดแนม อัญเชิญลง Avatar zone ฝ่ายเรานำที่เหลือกลับเข้า Deck แล้วสับ"
+    }
+  },
+  {
+    "ImagePath": "BT03-011-2-SCR.png",
+    "Name": "ไดโนกาฬสินธุ์ - กินรีมิมัส",
+    "Type": "Avatar",
+    "Cost": 3,
+    "Gem": 2,
+    "Power": 3,
+    "Symbol": "กะปอม",
+    "Color": "#00FFFF",
+    "ซอย": 1,
+    "Print": "BT03-011-2",
+    "Rare": "SCR",
+    "Details": {
+      "Main Effect": "จุติ สอดแนม 5 ใบ : เลือก Avatar symbol กะปอม 1 ใบที่มี Cost 3 หรือต่ำกว่า จากที่ สอดแนม อัญเชิญลง Avatar zone ฝ่ายเรานำที่เหลือกลับเข้า Deck แล้วสับ"
+    }
+  },
+  {
+    "ImagePath": "BT03-012-C.png",
+    "Name": "ไดโนกาฬสินธุ์ - อิสานโนซอรัส",
+    "Type": "Avatar",
+    "Cost": 1,
+    "Gem": 4,
+    "Power": 1,
+    "Symbol": "กะปอม",
+    "Color": "#00FFFF",
+    "ซอย": 1,
+    "Print": "BT03-012",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "\nเมื่อถูกทิ้งเป็นค่า Cost ให้กับ Avatar  {symbol กะปอม} : สอดแนม 1 ใบ แล้วสามารถเลือกได้ว่า ให้การ์ดใบนั้นอยู่ที่เดิม หรือไว้ใต้ Deck \n#การ์ดใบนี้ใช้เป็น Cost การอัญเชิญได้เฉพาะ Avatar {symbol กะปอม} เท่านั้น]"
+    }
+  },
+  {
+    "ImagePath": "BT03-013-C.png",
+    "Name": "ไดโนกาฬสินธุ์ - สัตยาซอรัส",
+    "Type": "Avatar",
+    "Cost": 1,
+    "Gem": 2,
+    "Power": 1,
+    "Symbol": "กะปอม",
+    "Color": "#00FFFF",
+    "ซอย": 1,
+    "Print": "BT03-013",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "ต่อเนื่อง ตราบเท่าที่ Avatar ใบนี้อยู่บน Avatar Zone POWER + 1 ให้ Avatar {รูป symbol กะปอม} ทุกใบบน Avatar Zone ฝ่ายเรา"
+    }
+  },
+  {
+    "ImagePath": "BT03-014-C.png",
+    "Name": "โอตะปุส",
+    "Type": "Avatar",
+    "Cost": 1,
+    "Gem": 2,
+    "Power": 1,
+    "Symbol": "ปลา",
+    "Color": "#00FFFF",
+    "ซอย": 1,
+    "Print": "BT03-014",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "เทิร์นละครั้ง เลือกปฏิบัติ \n  1) นำการ์ดใบนี้ที่อยู่ใน Avatar Zone ไปสวมใส่ให้ Avatar ชื่อ\"ไอดอล\" บน Avatar Zone ฝ่ายเรา \n  2) อัญเชิญการ์ดใบนี้ที่อยู่ในสภาพสวมใส่ไปที่ Avatar Zone \nคำสั่งเสีย : จั่วการ์ด 1 ใบ "
+    }
+  },
+  {
+    "ImagePath": "BT03-015-R.png",
+    "Name": "ตุ๊กตารัททาทุย",
+    "Type": "Avatar",
+    "Cost": 1,
+    "Gem": 3,
+    "Power": 0,
+    "Symbol": "รัททาทุย",
+    "Color": "#00FFFF",
+    "ซอย": 1,
+    "Print": "BT03-015",
+    "Rare": "R",
+    "Details": {
+      "Main Effect": "\nเมื่อการ์ดใบนี้ถูกทิ้งเป็นค่า Cost ให้กับ Avatar \"รัททาทุย\" : อัญเชิญ Avatar รัททาทุย ที่มี Cost 1 GEM 1 POWER 1 1ใบ จากใน Deck ลงบน Avatar Zone ฝ่ายเรา\n#การ์ดใบนี้ใช้เป็น Cost การอัญเชิญได้เฉพาะ Avatar {symbol รัททาทุย} เท่านั้น "
+    }
+  },
+  {
+    "ImagePath": "BT03-016-C.png",
+    "Name": "รัททาทุยแม่วัว",
+    "Type": "Avatar",
+    "Cost": 1,
+    "Gem": 2,
+    "Power": 0,
+    "Symbol": "รัททาทุย",
+    "Color": "#00FFFF",
+    "ซอย": 1,
+    "Print": "BT03-016",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "ต่อเนื่อง ตราบเท่าที่ Avatar ใบนี้อยู่บน Avatar Zone  POWER +1 ให้ Avatar {รูป symbol \"รัททาทุย\"}  ใบอื่นบนสนามฝ่ายเรา"
+    }
+  },
+  {
+    "ImagePath": "BT03-017-SR.png",
+    "Name": "มนุษย์รัททาทุย",
+    "Type": "Avatar",
+    "Cost": 4,
+    "Gem": 1,
+    "Power": 1,
+    "Symbol": "รัททาทุย",
+    "Color": "#00FFFF",
+    "ซอย": 1,
+    "Print": "BT03-017",
+    "Rare": "SR",
+    "Details": {
+      "Main Effect": "POWER ของการ์ดใบนี้จะเพิ่มขึ้นตามจำนวน Avatar {รูป symbol \"รัททาทุย\"} บน Avatar Zone ฝ่ายเราตัวละ 1 "
+    }
+  },
+  {
+    "ImagePath": "BT03-018-UR.png",
+    "Name": "จ่างู อสรพิษพิฆาตจักรกล",
+    "Type": "Avatar",
+    "Cost": 4,
+    "Gem": 1,
+    "Power": 3,
+    "Symbol": "คน",
+    "Color": "#00FFFF",
+    "ซอย": 1,
+    "Print": "BT03-018",
+    "Rare": "UR",
+    "Details": {
+      "Main Effect": "อัตโนมัติ เมื่อการ์ดใบนี้ประกาศโจมตี Avatar {symbol เครื่องจักร} : ทำลาย Avatar ใบที่เป็นเป้าการโจมตี"
+    }
+  },
+  {
+    "ImagePath": "BT03-018-2-SRC.png",
+    "Name": "จ่างู อสรพิษพิฆาตจักรกล",
+    "Type": "Avatar",
+    "Cost": 4,
+    "Gem": 1,
+    "Power": 3,
+    "Symbol": "คน",
+    "Color": "#00FFFF",
+    "ซอย": 1,
+    "Print": "BT03-018-2",
+    "Rare": "SRC",
+    "Details": {
+      "Main Effect": "อัตโนมัติ เมื่อการ์ดใบนี้ประกาศโจมตี Avatar {symbol เครื่องจักร} : ทำลาย Avatar ใบที่เป้าการโจมตี"
+    }
+  },
+  {
+    "ImagePath": "BT03-019-C.png",
+    "Name": "ด็อคเตอร์แบงค์",
+    "Type": "Avatar",
+    "Cost": 2,
+    "Gem": 2,
+    "Power": 1,
+    "Symbol": "คน",
+    "Color": "#9900FF",
+    "ซอย": 1,
+    "Print": "BT03-019",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "จุติ ทำลาย Avatar \"ศาลพระภูมิ\" บน Avatar Zone ฝ่ายเรา 1 ใบ : อัญเชิญ Avatar {Symbol ผี} จากในนรกของฝ่ายเรา 1 ใบ "
+    }
+  },
+  {
+    "ImagePath": "BT03-020-UR.png",
+    "Name": "แดรกคูลา",
+    "Type": "Avatar",
+    "Cost": 6,
+    "Gem": 2,
+    "Power": 4,
+    "Symbol": "ผี",
+    "Color": "#9900FF",
+    "Ex": "Only#1",
+    "ซอย": 1,
+    "Print": "BT03-020",
+    "Rare": "UR",
+    "Details": {
+      "Main Effect": "จุติ : Avatar ใบนี้ ได้รับ \"เมื่อ Avatar ใบนี้ ถูกทำลาย ในเทิร์นถัดมาของเรา อัญเชิญ Avatar ใบนี้จากนรกลงบน Avatar Zone ฝ่ายเราในช่วง Battle Phase ของเทิร์นนั้น\""
+    }
+  },
+  {
+    "ImagePath": "BT03-020-2-SCR.png",
+    "Name": "แดรกคูลา",
+    "Type": "Avatar",
+    "Cost": 6,
+    "Gem": 2,
+    "Power": 4,
+    "Symbol": "ผี",
+    "Color": "#9900FF",
+    "Ex": "Only#1",
+    "ซอย": 1,
+    "Print": "BT03-020-2",
+    "Rare": "SCR",
+    "Details": {
+      "Main Effect": "จุติ : เมื่อการ์ดใบนี้อัญเชิญจากบนมือ และใช้ความสามารถจุติสำเร็จ ถูกทำลายแล้วถูกส่งลงนรก ในเทิร์นถัดมาของเรา อัญเชิญ Avatar ตัวนี้จากนรกในสภาพตื่นมาบน Avatar Zone ฝ่ายเราใน Battle Phase "
+    }
+  },
+  {
+    "ImagePath": "BT03-021-C.png",
+    "Name": "อีแป๋ม ผีกระสือ RGB",
+    "Type": "Avatar",
+    "Cost": 2,
+    "Gem": 0,
+    "Power": 0,
+    "Symbol": "ผี",
+    "Color": "#9900FF",
+    "ซอย": 1,
+    "Print": "BT03-021",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "คำสั่งเสีย จากบน Avatar Zone เลือก Avatar บนสนามอีกฝ่าย 1 ใบ : นำการ์ดใบนี้ไปสวมให้กับ Avatar ใบนั้น Avatar ใบที่สวมการ์ดใบนี้ จะถูกเปลี่ยน Symbol เป็น {Symbol ผี} และ POWER - 2 "
+    }
+  },
+  {
+    "ImagePath": "BT03-022-R.png",
+    "Name": "แม่นาค พระประแดง",
+    "Type": "Avatar",
+    "Cost": 3,
+    "Gem": 1,
+    "Power": 2,
+    "Symbol": "ผี",
+    "Color": "#9900FF",
+    "ซอย": 1,
+    "Print": "BT03-022",
+    "Rare": "R",
+    "Details": {
+      "Main Effect": "เมื่อการ์ดใบนี้ถูกอัญเชิญ เลือกการ์ดในนรกของฝ่ายตรงข้าม 1 ใบ : นำการ์ดใบนั้นกลับเข้าใต้ Deck ฝ่ายตรงข้าม ถ้าทำสำเร็จ เลือก Avatar 1ใบ ของอีกฝ่าย POWER - 2 "
+    }
+  },
+  {
+    "ImagePath": "BT03-023-SR.png",
+    "Name": "โลกิ เทพแอสการ์ดแห่งการหลอกลวง ",
+    "Type": "Avatar",
+    "Cost": 3,
+    "Gem": 2,
+    "Power": 2,
+    "Symbol": "เทพ",
+    "Color": "#9900FF",
+    "ซอย": 1,
+    "Print": "BT03-023",
+    "Rare": "SR",
+    "Details": {
+      "Main Effect": "อัตโนมัติ ในทุกๆ End Phase : การ์ดใบนี้จะย้ายไปอยู่ใน Avatar Zone ของฝ่ายตรงข้าม \n อัตโนมัติ เมื่อการ์ดใบนี้เปลี่ยนการควบคุม : Avatar ตัวนี้ไม่สามารถสั่งโจมตีได้ "
+    }
+  },
+  {
+    "ImagePath": "BT03-023-2-SCR.png",
+    "Name": "โลกิ เทพแอสการ์ดแห่งการหลอกลวง",
+    "Type": "Avatar",
+    "Cost": 3,
+    "Gem": 2,
+    "Power": 2,
+    "Symbol": "เทพ",
+    "Color": "#9900FF",
+    "ซอย": 1,
+    "Print": "BT03-023-2",
+    "Rare": "SCR",
+    "Details": {
+      "Main Effect": "อัตโนมัติ ในทุกๆ End Phase : การ์ดใบนี้จะย้ายไปอยู่ใน Avatar Zone ของฝ่ายตรงข้าม \n อัตโนมัติ เมื่อการ์ดใบนี้เปลี่ยนการควบคุม : Avatar ตัวนี้ไม่สามารถสั่งโจมตีได้ "
+    }
+  },
+  {
+    "ImagePath": "BT03-024-R.png",
+    "Name": "บัลเดอร์ เทพแสง แห่งแอสการ์ด",
+    "Type": "Avatar",
+    "Cost": 4,
+    "Gem": 1,
+    "Power": 4,
+    "Symbol": "เทพ",
+    "Color": "#9900FF",
+    "ซอย": 1,
+    "Print": "BT03-024",
+    "Rare": "R",
+    "Details": {
+      "Main Effect": "อัตโนมัติ เทิร์นละครั้ง ถ้า Avatar ตัวนี้จะถูกทำลาย : ธณีสูบ 9 ใบ แทนการทำลายได้"
+    }
+  },
+  {
+    "ImagePath": "BT03-025-SR.png",
+    "Name": "ฮามดัล เทพผู้รู้เห็น แห่งแอสการ์ด",
+    "Type": "Avatar",
+    "Cost": 4,
+    "Gem": 0,
+    "Power": 5,
+    "Symbol": "เทพ",
+    "Color": "#9900FF",
+    "ซอย": 1,
+    "Print": "BT03-025",
+    "Rare": "SR",
+    "Details": {
+      "Main Effect": "ต่อเนื่อง ตราบเท่าที่ Avatar ใบนี้อยู่บน Avatar Zone การ์ดใบบนสุดของ Deck ทั้ง2ฝ่าย จะถูกหงายหน้า"
+    }
+  },
+  {
+    "ImagePath": "BT03-025-2-SCR.png",
+    "Name": "ฮามดัล เทพผู้รู้เห็น แห่งแอสการ์ด",
+    "Type": "Avatar",
+    "Cost": 4,
+    "Gem": 0,
+    "Power": 5,
+    "Symbol": "เทพ",
+    "Color": "#9900FF",
+    "ซอย": 1,
+    "Print": "BT03-025-2",
+    "Rare": "SCR",
+    "Details": {
+      "Main Effect": "ต่อเนื่อง ตราบเท่าที่ Avatar ใบนี้อยู่บน Avatar Zone การ์ดใบบนสุดของ Deck ทั้ง2ฝ่าย จะถูกหงายหน้า"
+    }
+  },
+  {
+    "ImagePath": "BT03-026-R.png",
+    "Name": " แบมบูจัง ไอดอลสองขั้ว",
+    "Type": "Avatar",
+    "Cost": 4,
+    "Gem": 2,
+    "Power": 2,
+    "Symbol": "คน",
+    "Color": "#9900FF",
+    "ซอย": 1,
+    "Print": "BT03-026",
+    "Rare": "R",
+    "Details": {
+      "Main Effect": "เทิร์นละครั้ง สั่งใช้ ทำลายการ์ด \"โอตะ\" ที่สวมใส่อยู่ให้กับการ์ด Avatar \"ไอดอล\" บน Avatar Zone ฝ่ายเรา 1 ใบ  : ทำลายการ์ดบนสนาม 1 ใบ "
+    }
+  },
+  {
+    "ImagePath": "BT03-027-C.png",
+    "Name": "แมลงปอมีพิษ",
+    "Type": "Avatar",
+    "Cost": 3,
+    "Gem": 3,
+    "Power": 1,
+    "Symbol": "แมลง",
+    "Color": "#9900FF",
+    "ซอย": 1,
+    "Print": "BT03-027",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "คำสั่งเสีย (เมื่อAvatarตัวนี้ถูกทำลาย): ทำลาย Avatar ที่ Cost เท่ากับ 4 หรือต่ำกว่า บน Avatar Zone 1 ใบ"
+    }
+  },
+  {
+    "ImagePath": "BT03-028-UR.png",
+    "Name": "ราชาอาณาจักรของแพง  พระเจ้านิโคไล",
+    "Type": "Avatar",
+    "Cost": 4,
+    "Gem": 3,
+    "Power": 3,
+    "Symbol": "คน",
+    "Color": "#00FF00",
+    "ซอย": 1,
+    "Print": "BT03-028",
+    "Rare": "UR",
+    "Details": {
+      "Main Effect": "ต่อเนื่อง Avatar ใบนี้จะไม่ถูกทำลายจากการต่อสู้ กับ Avatar ที่ Cost น้อยกว่าการ์ดใบนี้"
+    }
+  },
+  {
+    "ImagePath": "BT03-028-2-SCR.png",
+    "Name": "ราชาอาณาจักรของแพง  พระเจ้านิโคไล",
+    "Type": "Avatar",
+    "Cost": 4,
+    "Gem": 3,
+    "Power": 3,
+    "Symbol": "คน",
+    "Color": "#00FF00",
+    "ซอย": 1,
+    "Print": "BT03-028-2",
+    "Rare": "SCR",
+    "Details": {
+      "Main Effect": "ต่อเนื่อง Avatar ใบนี้จะไม่ถูกทำลายจากการต่อสู้ กับ Avatar ที่ Cost น้อยกว่าการ์ดใบนี้"
+    }
+  },
+  {
+    "ImagePath": "BT03-028-3-PR.png",
+    "Name": "ราชาอาณาจักรของแพง  พระเจ้านิโคไล",
+    "Type": "Avatar",
+    "Cost": 4,
+    "Gem": 3,
+    "Power": 3,
+    "Symbol": "คน",
+    "Color": "#00FF00",
+    "ซอย": 1,
+    "Print": "BT03-028-3",
+    "Rare": "PR",
+    "Details": {
+      "Main Effect": "ต่อเนื่อง Avatar ใบนี้จะไม่ถูกทำลายจากการต่อสู้ กับ Avatar ที่ Cost น้อยกว่าการ์ดใบนี้"
+    }
+  },
+  {
+    "ImagePath": "BT03-028-4-CBR.png",
+    "Name": "ราชาอาณาจักรของแพง  พระเจ้านิโคไล",
+    "Type": "Avatar",
+    "Cost": 4,
+    "Gem": 3,
+    "Power": 3,
+    "Symbol": "คน",
+    "Color": "#00FF00",
+    "ซอย": 1,
+    "Print": "BT03-028-4",
+    "Rare": "CBR",
+    "Details": {
+      "Main Effect": "ต่อเนื่อง Avatar ใบนี้จะไม่ถูกทำลายจากการต่อสู้ กับ Avatar ที่ Cost น้อยกว่าการ์ดใบนี้"
+    }
+  },
+  {
+    "ImagePath": "BT03-029-C.png",
+    "Name": "ทหารอาณาจักรของแพง",
+    "Type": "Avatar",
+    "Cost": 0,
+    "Gem": 2,
+    "Power": 0,
+    "Symbol": "คน",
+    "Color": "#00FF00",
+    "ซอย": 1,
+    "Print": "BT03-029",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "ต่อเนื่อง Avatar ทุกตัวบนสนามอีกฝ่าย Cost -1\nต่อเนื่อง ตราบเท่าที่ Avatar Zone ฝ่ายเรามี Avatar \"ราชาอาณาจักรของแพง  พระเจ้านิโคไล\" POWER ของการ์ดใบนี้จะเป็น 2 "
+    }
+  },
+  {
+    "ImagePath": "BT03-030-R.png",
+    "Name": "ช่างตัดเสื้อ อาณาจักรของแพง",
+    "Type": "Avatar",
+    "Cost": 2,
+    "Gem": 2,
+    "Power": 1,
+    "Symbol": "คน",
+    "Color": "#00FF00",
+    "ซอย": 1,
+    "Print": "BT03-030",
+    "Rare": "R",
+    "Details": {
+      "Main Effect": "จุติ เลือก Avatar \"ราชาอาณาจักรของแพง พระเจ้านิโคไล\" บน Avatar Zone ฝ่ายเรา 1 ใบ : Avatar ตัวนั้นได้รับ Cost +1 และ POWER +1"
+    }
+  },
+  {
+    "ImagePath": "BT03-031-C.png",
+    "Name": "จอมเวทย์ดอคู่",
+    "Type": "Avatar",
+    "Cost": 4,
+    "Gem": 2,
+    "Power": 3,
+    "Symbol": "คน",
+    "Color": "#00FF00",
+    "ซอย": 1,
+    "Print": "BT03-031",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "เทิร์นละครั้ง สั่งใช้ : ทำลาย Modification Magic บน Magic Zone 1 ใบ"
+    }
+  },
+  {
+    "ImagePath": "BT03-032-R.png",
+    "Name": "ตั๊กแตนพันธ์ุ X",
+    "Type": "Avatar",
+    "Cost": 5,
+    "Gem": 3,
+    "Power": 3,
+    "Symbol": "เอเลี่ยน",
+    "Color": "#00FF00",
+    "ซอย": 1,
+    "Print": "BT03-032",
+    "Rare": "R",
+    "Details": {
+      "Main Effect": "ต่อเนื่อง ตราบเท่า Avatar ใบนี้อยู่บน Avatar Zone จะนับเป็น Avatar {symbol แมลง} ด้วย \nต่อเนื่อง Avatar ใบนี้จะ เพื่ม POWER ตามจำนวน Avatar symbol แมลง บน Avatar Zone ใบละ 1"
+    }
+  },
+  {
+    "ImagePath": "BT03-033-C.png",
+    "Name": "แมลงปอ บรรพบุรุษ",
+    "Type": "Avatar",
+    "Cost": 0,
+    "Gem": 1,
+    "Power": 1,
+    "Symbol": "แมลง",
+    "Color": "#00FF00",
+    "ซอย": 1,
+    "Print": "BT03-033",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "คำสั่งเสีย (เมื่อAvatarใบนี้ถูกทำลาย) เลือก Avatar {symbol แมลง} Cost ไม่เกิน 4 และไม่ได้ชื่อ แมลงปอ บรรพบุรุษ จากนรกของฝ่ายเรา : อัญเชิญแบบ จุติ บน Avatar Zone ฝ่ายเรา"
+    }
+  },
+  {
+    "ImagePath": "BT03-034-UR.png",
+    "Name": "พาลี",
+    "Type": "Avatar",
+    "Cost": 7,
+    "Gem": 2,
+    "Power": 4,
+    "Symbol": "สัตว์",
+    "Color": "#00FF00",
+    "ซอย": 1,
+    "Print": "BT03-034",
+    "Rare": "UR",
+    "Details": {
+      "Main Effect": "อัตโนมัติ เมื่อการ์ดใบนี้ต่อสู้ : Avatar ที่ต่อสู้ด้วย POWER - 2 และ Avatar ตัวนี้ POWER + 2 จนจบการต่อสู้นั้น  "
+    }
+  },
+  {
+    "ImagePath": "BT03-034-2-SCR.png",
+    "Name": "พาลี",
+    "Type": "Avatar",
+    "Cost": 7,
+    "Gem": 2,
+    "Power": 4,
+    "Symbol": "สัตว์",
+    "Color": "#00FF00",
+    "ซอย": 1,
+    "Print": "BT03-034-2",
+    "Rare": "SCR",
+    "Details": {
+      "Main Effect": "อัตโนมัติ เมื่อการ์ดใบนี้ต่อสู้ : Avatar ที่ต่อสู้ด้วย POWER - 2 และ Avatar ตัวนี้ POWER + 2 จนจบการต่อสู้นั้น  "
+    }
+  },
+  {
+    "ImagePath": "BT03-035-SR.png",
+    "Name": "นางมณโฑ",
+    "Type": "Avatar",
+    "Cost": 4,
+    "Gem": 2,
+    "Power": 3,
+    "Symbol": "คน",
+    "Color": "#00FF00",
+    "ซอย": 1,
+    "Print": "BT03-035",
+    "Rare": "SR",
+    "Details": {
+      "Main Effect": "จุติ เลือก Avatar Symbol {ยักษ์} ที่ POWER ไม่เกิน 3 ในนรกฝ่ายเรา 1 ใบ : อัญเชิญ Avatar ใบนั้นลงบน Avatar Zone ฝ่ายเรา"
+    }
+  },
+  {
+    "ImagePath": "BT03-035-2-SCR.png",
+    "Name": "นางมณโฑ",
+    "Type": "Avatar",
+    "Cost": 4,
+    "Gem": 2,
+    "Power": 3,
+    "Symbol": "คน",
+    "Color": "#00FF00",
+    "ซอย": 1,
+    "Print": "BT03-035-2",
+    "Rare": "SCR",
+    "Details": {
+      "Main Effect": "จุติ เลือก Avatar Symbol {ยักษ์} ที่ POWER ไม่เกิน 3 ในนรกฝ่ายเรา 1 ใบ : อัญเชิญ Avatar ใบนั้นลงบน Avatar Zone ฝ่ายเรา"
+    }
+  },
+  {
+    "ImagePath": "BT03-036-C.png",
+    "Name": "จอน ชาวดาวอังคาร",
+    "Type": "Avatar",
+    "Cost": 5,
+    "Gem": 3,
+    "Power": 4,
+    "Symbol": "เอเลี่ยน",
+    "Color": "#FF0000",
+    "ซอย": 1,
+    "Print": "BT03-036",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": null
+    }
+  },
+  {
+    "ImagePath": "BT03-037-C.png",
+    "Name": "แมลงปอนา",
+    "Type": "Avatar",
+    "Cost": 0,
+    "Gem": 4,
+    "Power": 0,
+    "Symbol": "แมลง",
+    "Color": "#00FFFF",
+    "ซอย": 1,
+    "Print": "BT03-037",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": null
+    }
+  },
+  {
+    "ImagePath": "BT03-038-C.png",
+    "Name": "ตัวอ่อนรัททาทุย",
+    "Type": "Avatar",
+    "Cost": 0,
+    "Gem": 3,
+    "Power": 0,
+    "Symbol": "รัททาทุย",
+    "Color": "#00FFFF",
+    "ซอย": 1,
+    "Print": "BT03-038",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": null
+    }
+  },
+  {
+    "ImagePath": "BT03-039-R.png",
+    "Name": "จอมเวทย์ดำ",
+    "Type": "Avatar",
+    "Cost": 3,
+    "Gem": 1,
+    "Power": 4,
+    "Symbol": "คน",
+    "Color": "#9900FF",
+    "ซอย": 1,
+    "Print": "BT03-039",
+    "Rare": "R",
+    "Details": {
+      "Main Effect": null
+    }
+  },
+  {
+    "ImagePath": "BT03-040-SR.png",
+    "Name": "มหิตัน",
+    "Type": "Avatar",
+    "Cost": 3,
+    "Gem": 3,
+    "Power": 3,
+    "Symbol": "ยักษ์",
+    "Color": "#00FF00",
+    "ซอย": 1,
+    "Print": "BT03-040",
+    "Rare": "SR",
+    "Details": {
+      "Main Effect": null
+    }
+  },
+  {
+    "ImagePath": "BT03-041-R.png",
+    "Name": "เก็บค่าคุ้มครอง",
+    "Type": "Magic",
+    "SubType": "Normal",
+    "Gem": 1,
+    "Symbol": "จอมเวทย์",
+    "ซอย": 1,
+    "Print": "BT03-041",
+    "Rare": "R",
+    "Details": {
+      "Main Effect": "เมื่อมีการ์ด Land Magic หงายหน้าอยู่บน Land Magic Zone ทิ้งการ์ดบนมือ 1 ใบ : จั่วการ์ด 2 ใบ"
+    }
+  },
+  {
+    "ImagePath": "BT03-042-C.png",
+    "Name": "ตู้โชว์ไอดอล",
+    "Type": "Magic",
+    "SubType": "Normal",
+    "Gem": 2,
+    "Symbol": "จอมเวทย์",
+    "ซอย": 1,
+    "Print": "BT03-042",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "สามารถใช้การ์ดใบนี้ได้ต่อเมื่อควบคุม Avatar \"ไอดอล\" บน Avatar Zone ฝ่ายเราเท่านั้น : นำการ์ด Avatar \"โอตะ\" จากใน Deck ฝ่ายเรา 1 ใบขึ้นมือ จากนั้นสับ Deck"
+    }
+  },
+  {
+    "ImagePath": "BT03-043-C.png",
+    "Name": "   ผมขอค้าน !!",
+    "Type": "Magic",
+    "SubType": "Normal",
+    "Gem": 1,
+    "Symbol": "จอมเวทย์",
+    "ซอย": 1,
+    "Print": "BT03-043",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "เลือก Avatar 1 Symbol : สุ่มเลือกการ์ดบนมือของอีกฝ่าย 1 ใบ ถ้าใบที่เลือกเป็น Avatar ที่มี Symbol ตรงกับที่ประกาศไปข้างต้นให้ทิ้งการ์ด Avatar ใบนั้นลงนรก"
+    }
+  },
+  {
+    "ImagePath": "BT03-044-UR.png",
+    "Name": "เยี่ยวรดศาล",
+    "Type": "Magic",
+    "SubType": "Normal",
+    "Gem": 2,
+    "Symbol": "ผี",
+    "ซอย": 1,
+    "Print": "BT03-044",
+    "Rare": "UR",
+    "Details": {
+      "Main Effect": "เมื่อ Avatar Zone ฝ่ายเรามี Avatar {symbol มนุษย์} ที่มีค่า Cost เป็น 3 หรือ มากกว่า : อัญเชิญแบบ จุติ Avatar {Symbol ผี} ค่า Cost ไม่เกิน 4 จาก Deck เรา ลงบน Avatar Zone ฝ่ายเรา หลังจากนั้นสับ Deck"
+    }
+  },
+  {
+    "ImagePath": "BT03-044-2-SCR.png",
+    "Name": "เยี่ยวรดศาล",
+    "Type": "Magic",
+    "SubType": "Normal",
+    "Gem": 2,
+    "Symbol": "ผี",
+    "ซอย": 1,
+    "Print": "BT03-044-2",
+    "Rare": "SCR",
+    "Details": {
+      "Main Effect": "เมื่อ Avatar Zone ฝ่ายเรามี Avatar {symbol มนุษย์} ที่มีค่า Cost เป็น 3 หรือ มากกว่า : อัญเชิญแบบ จุติ Avatar {Symbol ผี} ค่า Cost ไม่เกิน 4 จาก Deck เรา ลงบน Avatar Zone ฝ่ายเรา หลังจากนั้นสับ Deck"
+    }
+  },
+  {
+    "ImagePath": "BT03-045-SR.png",
+    "Name": "ซุปเปอร์สแน็ค !! ",
+    "Type": "Magic",
+    "SubType": "Normal",
+    "Gem": 1,
+    "Symbol": "สัตว์",
+    "ซอย": 1,
+    "Print": "BT03-045",
+    "Rare": "SR",
+    "Details": {
+      "Main Effect": "เลือก Avatar {รูป symbol สัตว์} 1 ใบ : POWER + 6 แล้วทำลาย Avatar ตัวนั้นในช่วง End phase"
+    }
+  },
+  {
+    "ImagePath": "BT03-045-2-SCR.png",
+    "Name": "ซุปเปอร์สแน็ค !! ",
+    "Type": "Magic",
+    "SubType": "Normal",
+    "Gem": 1,
+    "Symbol": "สัตว์",
+    "ซอย": 1,
+    "Print": "BT03-045-2",
+    "Rare": "SCR",
+    "Details": {
+      "Main Effect": "เลือก Avatar {รูป symbol สัตว์} 1 ใบ : POWER + 6 แล้วทำลาย Avatar ตัวนั้นในช่วง End phase"
+    }
+  },
+  {
+    "ImagePath": "BT03-046-C.png",
+    "Name": "จมน้ำ",
+    "Type": "Magic",
+    "SubType": "Normal",
+    "Gem": 1,
+    "Symbol": "แมลง",
+    "ซอย": 1,
+    "Print": "BT03-046",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "ผู้เล่นทุกคนต่างเลือก Avatar บน Avatar Zone ของตนเอง 1 ใบ นำกลับเข้าใต้ Deck เจ้าของ"
+    }
+  },
+  {
+    "ImagePath": "BT03-047-R.png",
+    "Name": "ไม่เจ้ายังไม่พร้อม",
+    "Type": "Magic",
+    "SubType": "React",
+    "Gem": 2,
+    "Symbol": "ฤษี",
+    "ซอย": 1,
+    "Print": "BT03-047",
+    "Rare": "R",
+    "Details": {
+      "Main Effect": "เมื่อมี Avatar อัญเชิญลงมาบน Avatar Zone : เปลี่ยน Avatar ใบนั้นเป็นสภาพนอน"
+    }
+  },
+  {
+    "ImagePath": "BT03-048-C.png",
+    "Name": "เอาเสื้อมาหมุนๆแล้วตบ",
+    "Type": "Magic",
+    "SubType": "React",
+    "Gem": 1,
+    "Symbol": "จอมเวทย์",
+    "ซอย": 1,
+    "Print": "BT03-048",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "นำการ์ด 1 ใบจากบนมือกลับเข้า Deck จากนั้นสับ Deck : ทำลาย Avatar {Symbol แมลง} บนสนามอีกฝ่าย 1 ใบ"
+    }
+  },
+  {
+    "ImagePath": "BT03-049-C.png",
+    "Name": "คว้าปืนมายิงหมี",
+    "Type": "Magic",
+    "SubType": "React",
+    "Gem": 2,
+    "Symbol": "จอมเวทย์",
+    "ซอย": 1,
+    "Print": "BT03-049",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "เมื่อ Avatar ฝ่ายเราต่อสู้ เลือก Modification Magic จากในนรกฝ่ายเรา 1 ใบ : นำการ์ดใบนั้นขึ้นมือ และ Avatar ที่ต่อสู้ด้วย POWER - 1 "
+    }
+  },
+  {
+    "ImagePath": "BT03-050-SR.png",
+    "Name": "งับ",
+    "Type": "Magic",
+    "SubType": "React",
+    "Gem": 1,
+    "Symbol": "กะปอม",
+    "ซอย": 1,
+    "Print": "BT03-050",
+    "Rare": "SR",
+    "Details": {
+      "Main Effect": "เมื่อ Avatar ฝ่ายตรงข้ามโจมตี : สอดแนม (เปิดการ์ดใบบนสุดของ Deck) 2 ใบ : เลือกการ์ด Avatar {Symbol กะปอม} 1 ใบ จากที่สอดแนม และนำขึ้นมือ ถ้ามีการนำการ์ดจากความสามารถข้างต้นขึ้นมือ ทำลาย Avatar ที่สั่งโจมตีอยู่ ณ ขณะนั้น และ นำการ์ดที่เหลือกลับเข้า Deck แล้วสับ  "
+    }
+  },
+  {
+    "ImagePath": "BT03-050-2-SCR.png",
+    "Name": "งับ",
+    "Type": "Magic",
+    "SubType": "React",
+    "Gem": 1,
+    "Symbol": "กะปอม",
+    "ซอย": 1,
+    "Print": "BT03-050-2",
+    "Rare": "SCR",
+    "Details": {
+      "Main Effect": "เมื่อ Avatar ฝ่ายตรงข้ามโจมตี : สอดแนม (เปิดการ์ดใบบนสุดของ Deck) 2 ใบ : เลือกการ์ด Avatar {Symbol กะปอม} 1 ใบ จากที่สอดแนม และนำขึ้นมือ ถ้ามีการนำการ์ดจากความสามารถข้างต้นขึ้นมือ ทำลาย Avatar ที่สั่งโจมตีอยู่ ณ ขณะนั้น และ นำการ์ดที่เหลือกลับเข้า Deck แล้วสับ  "
+    }
+  },
+  {
+    "ImagePath": "BT03-051-C.png",
+    "Name": "อาวุธหุ่นนักรบผู้กล้า \"อีโบล่า ซอร์ด\"",
+    "Type": "Magic",
+    "SubType": "Modification",
+    "Gem": 2,
+    "Symbol": "เครื่องจักร",
+    "ซอย": 1,
+    "Print": "BT03-051",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "สวมใส่ได้เฉพาะ Avatar {Symbol หุ่นยนต์} เท่านั้น \nAvatar ที่สวมใส่การ์ดใบนี้ POWER + 1 แต่ถ้า Avatar ที่สวมใส่การ์ดใบนี้ชื่อ \"หุ่นนักรบผู้กล้า\" POWER + 3 แทน"
+    }
+  },
+  {
+    "ImagePath": "BT03-052-C.png",
+    "Name": "แผนการ : แกงส้มตะปูเสียบ",
+    "Type": "Magic",
+    "SubType": "Modification",
+    "Gem": 1,
+    "Symbol": "จอมเวทย์",
+    "ซอย": 1,
+    "Print": "BT03-052",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "Avatar ที่สวมใส่การ์ดใบนี้ POWER - 2 \nถ้า Avatar ที่สวมใส่การ์ดใบนี้ POWER = 0 ทำลาย Avatar ตัวที่สวมใส่ การ์ดใบนี้"
+    }
+  },
+  {
+    "ImagePath": "BT03-053-C.png",
+    "Name": "ยาแก้ไอน้ำดำ ",
+    "Type": "Magic",
+    "SubType": "Modification",
+    "Gem": 1,
+    "Symbol": "จอมเวทย์",
+    "ซอย": 1,
+    "Print": "BT03-053",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "Avatar ที่่สวมใส่การ์ดใบนี้จะไม่รับผลความสามารถในการลด POWER หาก Avatar ที่สวมใส่การ์ดใบนี้ถูกลด POWER อยู่ก่อนหน้า จะเพิ่ม POWER เท่ากับที่ลดไปทั้งหมด"
+    }
+  },
+  {
+    "ImagePath": "BT03-054-C.png",
+    "Name": "ขวานไม้เน่าๆเหม็นๆ",
+    "Type": "Magic",
+    "SubType": "Modification",
+    "Gem": 2,
+    "Symbol": "ต้นไม้",
+    "ซอย": 1,
+    "Print": "BT03-054",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": " Avatar ที่สวมใส่การ์ดใบนี้ Cost -1"
+    }
+  },
+  {
+    "ImagePath": "BT03-055-R.png",
+    "Name": "ขวานทอง",
+    "Type": "Magic",
+    "SubType": "Modification",
+    "Gem": 2,
+    "Symbol": "เทพ",
+    "ซอย": 1,
+    "Print": "BT03-055",
+    "Rare": "R",
+    "Details": {
+      "Main Effect": "เมื่อ Avatar ที่สวมใส่การ์ดใบนี้ สั่งโจมตี : ผู้ควบคุม Avatar ตัวนั้นๆ จั่วการ์ดจาก Deck  1 ใบ"
+    }
+  },
+  {
+    "ImagePath": "BT03-056-UR.png",
+    "Name": "สายฟ้า วัชระ",
+    "Type": "Magic",
+    "SubType": "Modification",
+    "Gem": 4,
+    "Symbol": "เทพ",
+    "Ex": "Only#1",
+    "ซอย": 1,
+    "Print": "BT03-056",
+    "Rare": "UR",
+    "Details": {
+      "Main Effect": "เมื่อ Avatar ที่สวมใส่ โจมตี : ทำลาย Avatar ใบที่ต่อสู้ด้วย"
+    }
+  },
+  {
+    "ImagePath": "BT03-056-2-SCR.png",
+    "Name": "สายฟ้า วัชระ",
+    "Type": "Magic",
+    "SubType": "Modification",
+    "Gem": 4,
+    "Symbol": "เทพ",
+    "Ex": "Only#1",
+    "ซอย": 1,
+    "Print": "BT03-056-2",
+    "Rare": "SCR",
+    "Details": {
+      "Main Effect": "เมื่อ Avatar ที่สวมใส่ โจมตี : ทำลาย Avatar ใบที่ต่อสู้ด้วย"
+    }
+  },
+  {
+    "ImagePath": "BT03-057-R.png",
+    "Name": "อาณาจักรของแพง ",
+    "Type": "Magic",
+    "SubType": "Land",
+    "Gem": 4,
+    "Symbol": "จอมเวทย์",
+    "ซอย": 1,
+    "Print": "BT03-057",
+    "Rare": "R",
+    "Details": {
+      "Main Effect": "สั่งใช้ เมื่อ ผลรวมของ Cost ของ Avatar บน Avatar Zone ของฝ่ายตรงข้ามรวมกันเป็น 4 หรือ น้อยกว่า ทิ้งการ์ดจากบนมือเรา 1 ใบ : นำ \"ราชาอาณาจักรของแพง  พระเจ้านิโคไล\" จากใน Deck ขึ้นมือเรา 1 ใบ หลังจากนั้น สับ Deck"
+    }
+  },
+  {
+    "ImagePath": "BT03-058-C.png",
+    "Name": "ยุคกาฬสินธุ์โซอิค",
+    "Type": "Magic",
+    "SubType": "Land",
+    "Gem": 1,
+    "Symbol": "ต้นไม้",
+    "ซอย": 1,
+    "Print": "BT03-058",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "เทิร์นละครั้ง สั่งใช้ ทิ้ง Gem รวมกันให้ได้ 3 หรือมากกว่า : สอดแนม 5 ใบ เลือกหยิบการ์ด Avatar {รูป symbol กะปอม} 1 ใบขึ้นมือ หาก Avatar ใบนั้นมี Cost 3 หรือต่ำกว่า สามารถอัญเชิญลงสนามแทนได้ นำที่เหลือกลับเข้ากองแล้วสับ Deck \nถ้าการ์ดนี้ถูก \"สอดแนม\" (ดูการ์ดใบบนสุดของDeck) จาก Avatar {รูป symbol กะปอม} สามารถใช้งานการ์ดใบนี้บน Land Magic Zone"
+    }
+  },
+  {
+    "ImagePath": "BT03-059-C.png",
+    "Name": "ราชธานีสามัคคี ",
+    "Type": "Magic",
+    "SubType": "Land",
+    "Gem": 2,
+    "Symbol": "จอมเวทย์",
+    "ซอย": 1,
+    "Print": "BT03-059",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "เทิร์นละครั้ง สั่งใช้ เลือก Avatar 1 ใบบน Avatar Zone : ได้รับความสามารถ สามัคคี จนจบเทิร์น"
+    }
+  },
+  {
+    "ImagePath": "BT03-060-R.png",
+    "Name": "ปราสาทแดรก ",
+    "Type": "Magic",
+    "SubType": "Land",
+    "Gem": 2,
+    "Symbol": "ผี",
+    "ซอย": 1,
+    "Print": "BT03-060",
+    "Rare": "R",
+    "Details": {
+      "Main Effect": "Avatar ชื่อ แดรกคูลา บน Avatar Zone POWER +1 \nเทิร์นละครั้ง สั่งใช้ ทิ้งการ์ดจากบนมือเรา 1 ใบ และ เลือก แดรกคูลา 1 ใบจากในนรกฝ่ายเรา 1 ใบ : อัญเชิญการ์ดใบนั้นมาบน Avatar Zone ฝ่ายเรา"
+    }
+  }
+]

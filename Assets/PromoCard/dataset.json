@@ -873,7 +873,7 @@
     }
   },
   {
-    "ImagePath": "PRMO-056-C Promo.png",
+    "ImagePath": "PRMO-056-2-C Promo-2.png",
     "Name": "อีช่า - สาวน้อยคนเก่ง",
     "Type": "Avatar",
     "Cost": 3,
@@ -882,8 +882,8 @@
     "Symbol": "คน",
     "Color": "#FF0000",
     "ซอย": 1,
-    "Print": "PRMO-056",
-    "Rare": "C Promo",
+    "Print": "PRMO-056-2",
+    "Rare": "C Promo-2",
     "Details": {
       "Main Effect": "จุติ : เซ่นไหว้ Avatar ใบอื่นใน Avatar Zone 1 ใบ : เลือก Avatar symbol {คน} , {เทพ} , {นรก} บน Avatar Zone ของฝ่ายตรงข้าม 1 ใบ เปลี่ยนการควบคุมมาบน Avatar Zone ฝ่ายเรา"
     }

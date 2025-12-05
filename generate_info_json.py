@@ -1,4 +1,5 @@
 import os
+import re
 import json
 import argparse
 from collections import OrderedDict
@@ -9,6 +10,16 @@ from io import BytesIO
 # Configuration
 INPUT_FOLDER = "Downloads"
 ASSETS_FOLDER = "Assets"
+
+def sanitize_filename(name):
+    """Removes non-printable characters and slashes."""
+    if not name:
+        return ""
+    # Remove non-printable characters (0-31, 127-159)
+    name = re.sub(r'[\x00-\x1f\x7f-\x9f]', '', str(name))
+    # Replace slashes
+    name = name.replace("/", "-").replace("\\", "-")
+    return name.strip()
 
 def to_int_if_possible(value):
     """Converts value to int if it's a whole number, otherwise returns original."""
@@ -45,7 +56,7 @@ class MergedCellLookup:
         return self.sheet.cell(row=row, column=col).value
 
 
-def process_card_image(idx, image, ws, merged_lookup, args, output_folder, card_count_so_far):
+def process_card_image(idx, image, ws, merged_lookup, args, output_folder, card_count_so_far, seen_prints):
     """Extracts data and image for a single card."""
     try:
         # The image anchor gives the top-left placement.
@@ -110,6 +121,9 @@ def process_card_image(idx, image, ws, merged_lookup, args, output_folder, card_
         if "Ex" in card_temp and card_temp["Ex"] is None:
             del card_temp["Ex"]
 
+        if card_temp.get("Type") == "Construct":
+            card_temp.pop("Color", None)
+
         if card_temp.get("Type") == "Magic":
             card_temp.pop("Power", None)
             card_temp.pop("Color", None)
@@ -118,6 +132,50 @@ def process_card_image(idx, image, ws, merged_lookup, args, output_folder, card_
 
         card_temp.pop("Drop Rate", None)
 
+        # Define Filename & Duplicate Logic
+        print_code = str(card_temp.get("Print", f"card_{card_count_so_far+1}")).strip()
+        rarity = str(card_temp.get("Rare", "")).strip()
+        
+        original_print = print_code
+        original_rare = rarity
+
+        if print_code not in seen_prints:
+            seen_prints[print_code] = [original_rare]
+            
+            # Normal Filename
+            if original_rare:
+                file_name = f"{original_print}-{original_rare}.png"
+            else:
+                file_name = f"{original_print}.png"
+        else:
+            # It's a duplicate Print
+            seen_prints[print_code].append(original_rare)
+            count = len(seen_prints[print_code])
+            
+            # Modify Print: {Print}-{Count}
+            new_print = f"{original_print}-{count}"
+            card_temp["Print"] = new_print
+            
+            # Check if Rare is also a duplicate for this Print
+            # We check if original_rare appeared in the list BEFORE this current insertion
+            previous_rares = seen_prints[print_code][:-1]
+            
+            if original_rare in previous_rares:
+                new_rare = f"{original_rare}-{count}"
+                card_temp["Rare"] = new_rare
+            else:
+                new_rare = original_rare
+            
+            # Modify Filename: {NewPrint}-{NewRare}.png
+            if new_rare:
+                file_name = f"{new_print}-{new_rare}.png"
+            else:
+                file_name = f"{new_print}.png"
+
+        # Sanitize Filename
+        file_name = sanitize_filename(file_name)
+
+        # Old Logic (to be removed)
         # Define Filename
         print_code = str(card_temp.get("Print", f"card_{card_count_so_far+1}")).strip()
         rarity = str(card_temp.get("Rare", "")).strip()
@@ -211,6 +269,8 @@ def main():
         
         file_name = os.path.basename(xlsx_path)
         folder_name = os.path.splitext(file_name)[0]
+        # Sanitize folder name
+        folder_name = sanitize_filename(folder_name)
         output_folder = os.path.join(ASSETS_FOLDER, folder_name)
         os.makedirs(output_folder, exist_ok=True)
 
@@ -230,11 +290,14 @@ def main():
 
             # 3. Build Merged Cell Lookup
             merged_lookup = MergedCellLookup(ws)
+            
+            # Track seen prints for duplicate handling
+            seen_prints = {}
 
             # 4. Process each image as a card entry
             for i, image in enumerate(sorted_images):
                 card_data, card_name = process_card_image(
-                    i, image, ws, merged_lookup, args, output_folder, len(cards)
+                    i, image, ws, merged_lookup, args, output_folder, len(cards), seen_prints
                 )
                 if card_data:
                     cards.append(card_data)
