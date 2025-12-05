@@ -1,14 +1,12 @@
 name: Generate Card Data
 
 on:
-  push:
-    branches: [ "main" ]
   workflow_dispatch:
     inputs:
       sheet_range:
         description: 'Sheet range to download (e.g., 1-5, 1). Leave empty for default (1-21).'
         required: false
-        default: '1-221'
+        default: '1-21'
 
 jobs:
   build:
