@@ -32,6 +32,26 @@
     "path": "Assets/BT08 เพราะ Warrior is นักรบ/dataset.json"
   },
   {
+    "name": "CC01 - Community Collection",
+    "path": "Assets/CC01 - Community Collection/dataset.json"
+  },
+  {
+    "name": "CC02 - Community Collection",
+    "path": "Assets/CC02 - Community Collection/dataset.json"
+  },
+  {
+    "name": "ODY1 - Odenya",
+    "path": "Assets/ODY1 - Odenya/dataset.json"
+  },
+  {
+    "name": "PRE0",
+    "path": "Assets/PRE0/dataset.json"
+  },
+  {
+    "name": "PromoCard",
+    "path": "Assets/PromoCard/dataset.json"
+  },
+  {
     "name": "SD01 - ตัวตึงไกรลาส",
     "path": "Assets/SD01 - ตัวตึงไกรลาส/dataset.json"
   },
@@ -58,5 +78,9 @@
   {
     "name": "SD07 - VS 18 หัวเมือง",
     "path": "Assets/SD07 - VS 18 หัวเมือง/dataset.json"
+  },
+  {
+    "name": "SL01 - Selection",
+    "path": "Assets/SL01 - Selection/dataset.json"
   }
 ]

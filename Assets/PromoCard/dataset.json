@@ -1,0 +1,1253 @@
+[
+  {
+    "ImagePath": "PRMO-001-C Promo.png",
+    "Name": "รัททาทุย",
+    "Type": "Avatar",
+    "Cost": 1,
+    "Gem": 1,
+    "Power": 1,
+    "Symbol": "รัททาทุย",
+    "Color": "#00FFFF",
+    "ซอย": 1,
+    "Print": "PRMO-001",
+    "Rare": "C Promo",
+    "Details": {
+      "Main Effect": "สามัคคี (เปลี่ยนการ์ดนี้เป็นสภาพนอนและนำ POWER การ์ดนี้ไปเพิ่มให้กับ Avatar ที่สั่งโจมตี) \n#การ์ดใบนี้ สามารถใส่ในเด็คจำนวนได้มากสุด 50 ใบ"
+    }
+  },
+  {
+    "ImagePath": "PRMO-002-C Promo.png",
+    "Name": "นายนิรยบาล ปฎิรูป",
+    "Type": "Avatar",
+    "Cost": 1,
+    "Gem": 4,
+    "Power": 1,
+    "Symbol": "นรก",
+    "Color": "#9900FF",
+    "ซอย": 1,
+    "Print": "PRMO-002",
+    "Rare": "C Promo",
+    "Details": {
+      "Main Effect": null
+    }
+  },
+  {
+    "ImagePath": "PRMO-003-SR Promo.png",
+    "Name": "อุบัติเหตุ!!!",
+    "Type": "Magic",
+    "SubType": "React",
+    "Gem": 1,
+    "Symbol": "จอมเวทย์",
+    "ซอย": 1,
+    "Print": "PRMO-003",
+    "Rare": "SR Promo",
+    "Details": {
+      "Main Effect": "เมื่อมี Avatar อัญเชิญลงมาบนสนาม : ทำลาย Avatar ตัวนั้น"
+    }
+  },
+  {
+    "ImagePath": "PRMO-004-C Promo.png",
+    "Name": "น้ำชูกำลัง",
+    "Type": "Magic",
+    "SubType": "Modification",
+    "Gem": 1,
+    "Symbol": "จอมเวทย์ ",
+    "ซอย": 1,
+    "Print": "PRMO-004",
+    "Rare": "C Promo",
+    "Details": {
+      "Main Effect": "Avatar ที่สวมใส่การ์ดใบนี้จะกลับมาเป็นสภาพตื่น ตอน End Phase "
+    }
+  },
+  {
+    "ImagePath": "PRMO-005-C Promo.png",
+    "Name": "ไม้เกาหลัง",
+    "Type": "Magic",
+    "SubType": "Modification",
+    "Gem": 2,
+    "Symbol": "รัททาทุย",
+    "ซอย": 1,
+    "Print": "PRMO-005",
+    "Rare": "C Promo",
+    "Details": {
+      "Main Effect": "Avatar ที่สวมใส่การ์ดใบนี้ได้รับความสามารถ เตะไข่ (Avatar ใบนี้สามารถโจมตีไปที่ LIFE Card ได้โดยตรง แม้ว่า Avatar Zone ของอีกฝ่ายจะมี Avatar อยู่ก็ตาม)"
+    }
+  },
+  {
+    "ImagePath": "PRMO-006-SR Promo.png",
+    "Name": "ลูกแม่ศรีนวล",
+    "Type": "Avatar",
+    "Cost": 2,
+    "Gem": 2,
+    "Power": 1,
+    "Symbol": "สัตว์ ",
+    "Color": "#00FFFF",
+    "ซอย": 1,
+    "Print": "PRMO-006",
+    "Rare": "SR Promo",
+    "Details": {
+      "Main Effect": "คำสั่งเสีย (เมื่อAvatarใบนี้ถูกทำลาย) : นำ LIFE Card ที่หงายอยู่ใบบนสุด กลับมาคว่ำ 1 ใบ"
+    }
+  },
+  {
+    "ImagePath": "PRMO-007-C Promo.png",
+    "Name": "ตีพ่อ",
+    "Type": "Magic",
+    "SubType": "Modification",
+    "Gem": 3,
+    "Symbol": "คน",
+    "ซอย": 1,
+    "Print": "PRMO-007",
+    "Rare": "C Promo",
+    "Details": {
+      "Main Effect": "ใน Battle Phase ถ้า Avatar ที่สวมใส่การ์ดใบนี้ทำลาย Avatar อีกฝ่ายสำเร็จ : สามารถกลับมาสภาพตื่นได้ 1 ครั้ง \nเมื่อการ์ดใบนี้ตกลงสู่นรก เมื่อการ์ดใบนี้ตกลงสู่นรก หงาย LIFE Card ใบบนสุดฝ่ายเรา 1 ใบ"
+    }
+  },
+  {
+    "ImagePath": "PRMO-008-C Promo.png",
+    "Name": "ตีแม่",
+    "Type": "Magic",
+    "SubType": "Modification",
+    "Gem": 2,
+    "Symbol": "คน",
+    "ซอย": 1,
+    "Print": "PRMO-008",
+    "Rare": "C Promo",
+    "Details": {
+      "Main Effect": "POWER +2 ให้กับ Avatar ที่สวมใส่การ์ดใบนี้ \nเมื่อการ์ดใบนี้ตกลงสู่นรก หงาย LIFE Card ใบบนสุดฝ่ายเรา 1 ใบ"
+    }
+  },
+  {
+    "ImagePath": "PRMO-009-SR Promo.png",
+    "Name": "พระอิศวร",
+    "Type": "Avatar",
+    "Cost": 6,
+    "Gem": 2,
+    "Power": 5,
+    "Symbol": "เทพ",
+    "Color": "#FF0000",
+    "ซอย": 1,
+    "Print": "PRMO-009",
+    "Rare": "SR Promo",
+    "Details": {
+      "Main Effect": "จุติ (เมื่อ Avatar ตัวนี้ถูกอัญเชิญลงสนามแบบจ่าย Cost) : เลือก Avatar 1 ใบ POWER -4 จนจบเทิร์น"
+    }
+  },
+  {
+    "ImagePath": "PRMO-010-C Promo.png",
+    "Name": "ช่วยโลกใบนี้ไว้",
+    "Type": "Avatar",
+    "Cost": "Normal",
+    "Gem": 1,
+    "Power": null,
+    "Symbol": "เปรต",
+    "Color": null,
+    "ซอย": 1,
+    "Print": "PRMO-010",
+    "Rare": "C Promo",
+    "Details": {
+      "Main Effect": "หงาย LIFE ของเราทุกใบ : เงื่อนไขการแพ้เมื่อ Life Card ของเราโดนหงายทั้งหมด จะไม่ทำงานจนจบเทิร์น ในเทิร์นนี้ Avatar Symbol {เปรต} ที่อัญเชิญในเทิร์นนี้จะได้รับความสามารถ ไม่รับผลจากความสามารถของการ์ดทุกประเภท , ได้รับความสามารถ เตะไข่ โดยที่ความสามารถ \"โล่มนุษย์\" จะไม่สามารถใช้ได้ "
+    }
+  },
+  {
+    "ImagePath": "PRMO-011-C Promo.png",
+    "Name": "มีมมิจัง ไอดอลหน้าใหม่",
+    "Type": "Avatar",
+    "Cost": 4,
+    "Gem": 2,
+    "Power": 2,
+    "Symbol": "คน",
+    "Color": "#00FFFF",
+    "ซอย": 1,
+    "Print": "PRMO-011",
+    "Rare": "C Promo",
+    "Details": {
+      "Main Effect": "จุติ (เมื่อ Avatar ตัวนี้ถูกอัญเชิญลงสนามแบบจ่ายCost) : เลือก Avatar ที่ติดชื่อ \"โอตะ\" จาก Deck 1 ใบ มาสวมใส่ให้ Avatar ใบนี้ จากนั้นสับ Deck"
+    }
+  },
+  {
+    "ImagePath": "PRMO-012-SR Promo.png",
+    "Name": "แบงค์ ผู้รู้ความจริง",
+    "Type": "Avatar",
+    "Cost": 2,
+    "Gem": 1,
+    "Power": 2,
+    "Symbol": "คน",
+    "Color": "#9900FF",
+    "ซอย": 1,
+    "Print": "PRMO-012",
+    "Rare": "SR Promo",
+    "Details": {
+      "Main Effect": "จุติ (เมื่อ Avatar ตัวนี้ถูกอัญเชิญลงสนามแบบจ่ายCost) : สอดแนม (แสดงการ์ดใบบนสุดของ Deck ) 3 ใบของเรา เรียงลำดับตามใจชอบ"
+    }
+  },
+  {
+    "ImagePath": "PRMO-013-C Promo.png",
+    "Name": "สตีฟ Tank Ranger",
+    "Type": "Avatar",
+    "Cost": 3,
+    "Gem": 3,
+    "Power": 1,
+    "Symbol": "คน",
+    "Color": "#00FF00",
+    "ซอย": 1,
+    "Print": "PRMO-013",
+    "Rare": "C Promo",
+    "Details": {
+      "Main Effect": "เทิร์นละครั้ง สั่งใช้ นำ Avatar ใบนี้บน Avatar Zone ไปสวมให้ Avatar \"รถถัง\" ที่อยู่บน Avatar Zone ฝ่ายเรา \nAvatar \"รถถัง\" ที่สวมใส่การ์ดใบนี้ POWER +2 \nใน Battle Phase: Avatar ชื่อ \"รถถัง\" ที่สวมใส่การ์ดใบนี้จะต้องโจมตี ถ้าโจมตีได้"
+    }
+  },
+  {
+    "ImagePath": "PRMO-014-C Promo.png",
+    "Name": "ฉุบสั่งตาย",
+    "Type": "Magic",
+    "SubType": "Normal",
+    "Gem": 1,
+    "Symbol": "จอมเวทย์ ",
+    "ซอย": 1,
+    "Print": "PRMO-014",
+    "Rare": "C Promo",
+    "Details": {
+      "Main Effect": "เป่ายิ้งฉุบกับฝ่ายตรงข้าม : ผู้ชนะ เลือกทำลาย Avatar บนสนาม 1 ใบ"
+    }
+  },
+  {
+    "ImagePath": "PRMO-015-SR Promo.png",
+    "Name": "อรุณีย์ ข้าวมันไก่เมียจ่า",
+    "Type": "Avatar",
+    "Cost": 0,
+    "Gem": 4,
+    "Power": 0,
+    "Symbol": "คน",
+    "Color": "#00FF00",
+    "ซอย": 1,
+    "Print": "PRMO-015",
+    "Rare": "SR Promo",
+    "Details": {
+      "Main Effect": null
+    }
+  },
+  {
+    "ImagePath": "PRMO-016-C Promo.png",
+    "Name": "เอเลี่ยนแสงสีฟ้า",
+    "Type": "Avatar",
+    "Cost": 3,
+    "Gem": 1,
+    "Power": 2,
+    "Symbol": "เอเลี่ยน",
+    "Color": "#00FFFF",
+    "ซอย": 1,
+    "Print": "PRMO-016",
+    "Rare": "C Promo",
+    "Details": {
+      "Main Effect": "จุติ (เมื่อ Avatar ใบนี้ถูกอัญเชิญลงสนามแบบจ่าย Cost) ทิ้งการ์ดบนมือ 1 ใบ เลือก Avatar บนสนามอีกฝ่าย 1 ใบ : ทอยเหรียญ 1 ครั้ง ออกหัว ทำลาย Avatar ตัวนั้น , ออกก้อย ทำลาย Avatar ใบนี้"
+    }
+  },
+  {
+    "ImagePath": "PRMO-017-C Promo.png",
+    "Name": "เสามงคล",
+    "Type": "Avatar",
+    "Cost": 5,
+    "Gem": 2,
+    "Power": 3,
+    "Symbol": "ต้นไม้",
+    "Color": "#00FF00",
+    "ซอย": 1,
+    "Print": "PRMO-017",
+    "Rare": "C Promo",
+    "Details": {
+      "Main Effect": "ต่อเนื่อง การ์ดใบนี้โจมตีไม่ได้ \nต่อเนื่อง ในช่วง Draw Phase หลังจากการจั่วการ์ดปกติใน Draw Phase : จั่วการ์ด 1 ใบ"
+    }
+  },
+  {
+    "ImagePath": "PRMO-018-SR Promo.png",
+    "Name": "ไอ นีด เมดิก",
+    "Type": "Magic",
+    "SubType": "Normal",
+    "Gem": 4,
+    "Symbol": null,
+    "ซอย": 1,
+    "Print": "PRMO-018",
+    "Rare": "SR Promo",
+    "Details": {
+      "Main Effect": "สุ่มคว่ำ LIFE Card ของฝ่ายเราได้ 1 ใบ "
+    }
+  },
+  {
+    "ImagePath": "PRMO-019-C Promo.png",
+    "Name": "ความเจริญ",
+    "Type": "Magic",
+    "SubType": "Normal",
+    "Gem": 1,
+    "Symbol": "จอมเวทย์",
+    "ซอย": 1,
+    "Print": "PRMO-019",
+    "Rare": "C Promo",
+    "Details": {
+      "Main Effect": "จั่วการ์ดจาก Deck เรา 2 ใบ"
+    }
+  },
+  {
+    "ImagePath": "PRMO-020-C Promo.png",
+    "Name": "พญายม",
+    "Type": "Avatar",
+    "Cost": 5,
+    "Gem": 1,
+    "Power": 5,
+    "Symbol": "นรก",
+    "Color": "#9900FF",
+    "ซอย": 1,
+    "Print": "PRMO-020",
+    "Rare": "C Promo",
+    "Details": {
+      "Main Effect": "จุติ (เมื่อ Avatar ตัวนี้ถูกอัญเชิญลงสนามแบบจ่าย Cost) : เลือก Avatar \"นายนิรยบาล\" ในนรกเรา 1 ใบ อัญเชิญลง Avatar Zone ฝ่ายเรา"
+    }
+  },
+  {
+    "ImagePath": "PRMO-021-C Promo.png",
+    "Name": "ใบดำใบแดง",
+    "Type": "Magic",
+    "SubType": "Normal",
+    "Gem": 1,
+    "Symbol": null,
+    "ซอย": 1,
+    "Print": "PRMO-021",
+    "Rare": "C Promo",
+    "Details": {
+      "Main Effect": "สอดแนม 1 ใบ : ถ้าเป็น Avatar {Symbol : คน} Cost ไม่เกิน 3 ให้นำลงบน Avatar Zone ฝ่ายเรา แต่ถ้าไม่ใช่ให้ใส่ไว้ใต้ Deck"
+    }
+  },
+  {
+    "ImagePath": "PRMO-022-SR Promo.png",
+    "Name": "พระอินทร์",
+    "Type": "Avatar",
+    "Cost": 2,
+    "Gem": 2,
+    "Power": 2,
+    "Symbol": "เทพ",
+    "Color": "#FF0000",
+    "ซอย": 1,
+    "Print": "PRMO-022",
+    "Rare": "SR Promo",
+    "Details": {
+      "Main Effect": "จุติ (เมื่อ Avatar ตัวนี้ถูกอัญเชิญลงสนามแบบจ่าย Cost) : เลือก Avatar 1 ใบ POWER +3 จนจบเทิร์น"
+    }
+  },
+  {
+    "ImagePath": "PRMO-23-C Promo.png",
+    "Name": "พี่โด 2.0",
+    "Type": "Avatar",
+    "Cost": 8,
+    "Gem": 2,
+    "Power": 8,
+    "Symbol": "เครื่องจักร",
+    "Color": "#FF0000",
+    "ซอย": 1,
+    "Print": "PRMO-23",
+    "Rare": "C Promo",
+    "Details": {
+      "Main Effect": null
+    }
+  },
+  {
+    "ImagePath": "PRMO-24-C Promo.png",
+    "Name": " แบมบูจัง ไอดอลสองขั้ว",
+    "Type": "Avatar",
+    "Cost": 4,
+    "Gem": 2,
+    "Power": 2,
+    "Symbol": "คน",
+    "Color": "#9900FF",
+    "ซอย": 1,
+    "Print": "PRMO-24",
+    "Rare": "C Promo",
+    "Details": {
+      "Main Effect": "เทิร์นละครั้ง สั่งใช้ ทำลายการ์ด \"โอตะ\" ที่สวมใส่อยู่ให้กับการ์ด Avatar \"ไอดอล\" บน Avatar Zone ฝ่ายเรา 1 ใบ  : ทำลายการ์ดบนสนาม 1 ใบ "
+    }
+  },
+  {
+    "ImagePath": "PRMO-25-SR Promo.png",
+    "Name": "บัลเดอร์ เทพแสง แห่งแอสการ์ด",
+    "Type": "Avatar",
+    "Cost": 4,
+    "Gem": 1,
+    "Power": 4,
+    "Symbol": "เทพ",
+    "Color": "#9900FF",
+    "ซอย": 1,
+    "Print": "PRMO-25",
+    "Rare": "SR Promo",
+    "Details": {
+      "Main Effect": "อัตโนมัติ เทิร์นละครั้ง ถ้า Avatar ตัวนี้จะถูกทำลาย : ธณีสูบ 9 ใบ แทนการทำลายได้"
+    }
+  },
+  {
+    "ImagePath": "PRMO-26-C Promo.png",
+    "Name": "ทหารอาณาจักรของแพง",
+    "Type": "Avatar",
+    "Cost": 0,
+    "Gem": 2,
+    "Power": 0,
+    "Symbol": "คน",
+    "Color": "#00FF00",
+    "ซอย": 1,
+    "Print": "PRMO-26",
+    "Rare": "C Promo",
+    "Details": {
+      "Main Effect": "ต่อเนื่อง Avatar ทุกตัวบนสนามอีกฝ่าย Cost -1\nต่อเนื่อง ตราบเท่าที่ Avatar Zone ฝ่ายเรามี Avatar \"ราชาอาณาจักรของแพง  พระเจ้านิโคไล\" POWER ของการ์ดใบนี้จะเป็น 2 "
+    }
+  },
+  {
+    "ImagePath": "PRMO-27-C Promo.png",
+    "Name": "พระนารายณ์ ",
+    "Type": "Avatar",
+    "Cost": 4,
+    "Gem": 1,
+    "Power": 4,
+    "Symbol": "เทพ",
+    "Color": "#FF0000",
+    "ซอย": 1,
+    "Print": "PRMO-27",
+    "Rare": "C Promo",
+    "Details": {
+      "Main Effect": "อัตโนมัติ เมื่อ Avatar ใบนี้โจมตี : POWER +2 จนจบเทิร์น"
+    }
+  },
+  {
+    "ImagePath": "PRMO-28-SR Promo.png",
+    "Name": "ไม่เจ้ายังไม่พร้อม",
+    "Type": "Magic",
+    "SubType": "React",
+    "Gem": 2,
+    "Symbol": "ฤษี",
+    "ซอย": 1,
+    "Print": "PRMO-28",
+    "Rare": "SR Promo",
+    "Details": {
+      "Main Effect": "เมื่อมี Avatar อัญเชิญลงมาบน Avatar Zone : เปลี่ยน Avatar ใบนั้นเป็นสภาพนอน"
+    }
+  },
+  {
+    "ImagePath": "PRMO-29-C Promo.png",
+    "Name": "แบ่งแยกดินแดน",
+    "Type": "Magic",
+    "SubType": "Land",
+    "Gem": 1,
+    "Symbol": null,
+    "ซอย": 1,
+    "Print": "PRMO-29",
+    "Rare": "C Promo",
+    "Details": {
+      "Main Effect": "เมื่อมีการ์ดใบนี้บนLand Magic Zone : ทั้ง2ฝ่ายวาง Land Magic ได้โดยไม่ทำลาย Land Magic ของอีกฝ่าย"
+    }
+  },
+  {
+    "ImagePath": "PRMO-30-C Promo.png",
+    "Name": "บึงทมิฬ  People - CEO คุณจิระ ",
+    "Type": "Avatar",
+    "Cost": 4,
+    "Gem": 3,
+    "Power": 2,
+    "Symbol": "ปลา",
+    "Color": "#00FFFF",
+    "ซอย": 1,
+    "Print": "PRMO-30",
+    "Rare": "C Promo",
+    "Details": {
+      "Main Effect": "อัติโนมัติ เมื่อการ์ดใบนี้สั่งโจมตีหรือตกเป็นเป้าหมายการโจมตี : POWER ของการ์ดใบนี้จะเพิ่มขึ้นตาม Avatar ที่อยู่ในสภาพนอนบนสนามทั้ง 2 ฝ่าย ใบละ 1 จนจบเทิร์น "
+    }
+  },
+  {
+    "ImagePath": "PRMO-31-C Promo.png",
+    "Name": "ปราสาทแดรก ",
+    "Type": "Magic",
+    "SubType": "Land",
+    "Gem": 2,
+    "Symbol": "ผี",
+    "ซอย": 1,
+    "Print": "PRMO-31",
+    "Rare": "C Promo",
+    "Details": {
+      "Main Effect": "Avatar ชื่อ แดรกคูลา บน Avatar Zone POWER +1 \nเทิร์นละครั้ง สั่งใช้ ทิ้งการ์ดจากบนมือเรา 1 ใบ และ เลือก แดรกคูลา 1 ใบจากในนรกฝ่ายเรา 1 ใบ : อัญเชิญการ์ดใบนั้นมาบน Avatar Zone ฝ่ายเรา"
+    }
+  },
+  {
+    "ImagePath": "PRMO-32-SR Promo.png",
+    "Name": "นางอัปสร",
+    "Type": "Avatar",
+    "Cost": 4,
+    "Gem": 1,
+    "Power": 3,
+    "Symbol": "เทพ",
+    "Color": "#FF0000",
+    "ซอย": 1,
+    "Print": "PRMO-32",
+    "Rare": "SR Promo",
+    "Details": {
+      "Main Effect": "อัตโนมัติ เมื่อการ์ดใบนี้สั่งโจมตี : ฝ่ายตรงข้ามไม่สามารถสั่งใช้งาน React Magic จนจบการต่อสู้ \n#การ์ดใบนี้นับเป็นชื่อ \"พระนารายณ์\""
+    }
+  },
+  {
+    "ImagePath": "PRMO-33-C Promo.png",
+    "Name": "เทอราโนดอน จากต่างแดน",
+    "Type": "Avatar",
+    "Cost": 3,
+    "Gem": 2,
+    "Power": 2,
+    "Symbol": "กะปอม",
+    "Color": "#00FFFF",
+    "ซอย": 1,
+    "Print": "PRMO-33",
+    "Rare": "C Promo",
+    "Details": {
+      "Main Effect": "ต่อเนื่อง ความสามารถ สอดแนม ของ Avatar symbol {กะปอม} ฝ่ายเราทุกใบ จะสอดแนมเพิ่มอีก 1 ใบ\n"
+    }
+  },
+  {
+    "ImagePath": "PRMO-34-C Promo.png",
+    "Name": "หมานมเย็น",
+    "Type": "Avatar",
+    "Cost": 3,
+    "Gem": 1,
+    "Power": 2,
+    "Symbol": "สัตว์",
+    "Color": "#00FFFF",
+    "ซอย": 1,
+    "Print": "PRMO-34",
+    "Rare": "C Promo",
+    "Details": {
+      "Main Effect": "จุติ : อัญเชิญ Avatar  \"หมา\" หรือ \"แมว\"  ที่มี {Symbol สัตว์} 1 ใบ ที่ Cost ไม่เกิน 2 จาก Deck ลง Avatar Zone ฝ่ายเรา จากนั้น สับ Deck   "
+    }
+  },
+  {
+    "ImagePath": "PRMO-35-SR Promo.png",
+    "Name": "หมอมาแล้วววว",
+    "Type": "Magic",
+    "SubType": "React",
+    "Gem": 3,
+    "Symbol": "จอมเวทย์",
+    "ซอย": 1,
+    "Print": "PRMO-35",
+    "Rare": "SR Promo",
+    "Details": {
+      "Main Effect": "เมื่อ Avatar จะถูกทำลาย : Avatar ใบนั้นจะไม่ถูกทำลาย"
+    }
+  },
+  {
+    "ImagePath": "PRMO-36-C Promo.png",
+    "Name": "น้องสาม ผู้รู้ความจริง",
+    "Type": "Avatar",
+    "Cost": 3,
+    "Gem": 2,
+    "Power": 1,
+    "Symbol": "คน",
+    "Color": "#9900FF",
+    "ซอย": 1,
+    "Print": "PRMO-36",
+    "Rare": "C Promo",
+    "Details": {
+      "Main Effect": "อัตโนมัติ เมื่อการ์ดใบนี้โจมตี : สอดแนม 2 ใบ เพิ่ม POWER ของการ์ดใบนี้เท่ากับ POWER ของ Avatar \"ผู้รู้ความจริง\" ทั้งหมดที่สอดแนมเจอ จากนั้นสามารถนำ การ์ด Avatar \"ผู้รู้ความจริง\" 1 ใบ จากที่สอดแนมขึ้นมือ และนำการ์ดที่เหลือ วางไว้บนหรือล่างสุดของ Deck\n"
+    }
+  },
+  {
+    "ImagePath": "PRMO-37-C Promo.png",
+    "Name": "โทมาโทจัง ไอดอลเด็กน้อย",
+    "Type": "Avatar",
+    "Cost": 2,
+    "Gem": 2,
+    "Power": 1,
+    "Symbol": "คน",
+    "Color": "#FF0000",
+    "ซอย": 1,
+    "Print": "PRMO-37",
+    "Rare": "C Promo",
+    "Details": {
+      "Main Effect": "    ต่อเนื่อง เมื่อ Avatar ตัวนี้อยู่บน Avatar Zone POWER + 2 ให้ Avatar \"ไอดอล\" ใบอื่นใน Avatar Zone ฝ่ายเรา ที่สวมใส่การ์ด \"โอตะ\" อยู่\nต่อเนื่อง ถ้า Avatar ใบนี้ สวมใส่การ์ด \"โอตะ\" อยู่ และมี Avatar \"ไอดอล\" ชื่ออื่นในสนามฝ่ายเรา Avatar ใบนี้จะไม่สามารถถูกเลือกเป็นเป้าหมายการโจมตีได้"
+    }
+  },
+  {
+    "ImagePath": "PRMO-38-SR Promo.png",
+    "Name": "รถถัง \"Tank Ranger\"",
+    "Type": "Avatar",
+    "Cost": 4,
+    "Gem": 2,
+    "Power": 4,
+    "Symbol": "เครื่องจักร",
+    "Color": "#00FF00",
+    "ซอย": 1,
+    "Print": "PRMO-38",
+    "Rare": "SR Promo",
+    "Details": {
+      "Main Effect": "ต่อเนื่อง ถ้าไม่มี Avatar สวมใส่ Avatar ใบนี้ จะไม่สามารถโจมตีได้ \nและไม่สามารถใช้ Avatar ชื่อซ้ำกันในการสวมใส่การ์ดใบนี้"
+    }
+  },
+  {
+    "ImagePath": "PRMO-39-C Promo.png",
+    "Name": "หมู่บ้านพอดี",
+    "Type": "Magic",
+    "SubType": "Land",
+    "Gem": 2,
+    "Symbol": null,
+    "ซอย": 1,
+    "Print": "PRMO-39",
+    "Rare": "C Promo",
+    "Details": {
+      "Main Effect": "การ์ดทุกใบ จะต้องทิ้ง GEM ให้พอดีกับ Cost"
+    }
+  },
+  {
+    "ImagePath": "PRMO-40-SR Promo.png",
+    "Name": "เมียพระอิศวร",
+    "Type": "Avatar",
+    "Cost": 3,
+    "Gem": 4,
+    "Power": 5,
+    "Symbol": "เทพ",
+    "Color": "#FF0000",
+    "Ex": "Only #1",
+    "ซอย": 1,
+    "Print": "PRMO-40",
+    "Rare": "SR Promo",
+    "Details": {
+      "Main Effect": "จุติ (เมื่อ Avatar ตัวนี้ถูกอัญเชิญลงสนามแบบจ่าย Cost) : จั่วการ์ด 3 ใบ"
+    }
+  },
+  {
+    "ImagePath": "PRMO-41-SR Promo.png",
+    "Name": "ขวานเงิน",
+    "Type": "Magic",
+    "SubType": "Modification",
+    "Gem": 2,
+    "Symbol": null,
+    "ซอย": 1,
+    "Print": "PRMO-41",
+    "Rare": "SR Promo",
+    "Details": {
+      "Main Effect": "Avatar ที่สวมใส่การ์ดใบนี้ POWER +2 และ ความสามารถของ Avatar ที่สวมใส่การ์ดใบนี้ที่มีอยู่ทั้งหมดจะไร้ผล"
+    }
+  },
+  {
+    "ImagePath": "PRMO-42-C.png",
+    "Name": "ครูภาษาไทย",
+    "Type": "Avatar",
+    "Cost": 0,
+    "Gem": 4,
+    "Power": 0,
+    "Symbol": "คน",
+    "Color": "#00FFFF",
+    "ซอย": 2,
+    "Print": "PRMO-42",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": null
+    }
+  },
+  {
+    "ImagePath": "PRMO-43-R.png",
+    "Name": "ไดโนกาฬสินธุ์ - ภูเวียงสิรินเน",
+    "Type": "Avatar",
+    "Cost": 4,
+    "Gem": 2,
+    "Power": 4,
+    "Symbol": "กะปอม",
+    "Color": "#00FFFF",
+    "ซอย": 2,
+    "Print": "PRMO-43",
+    "Rare": "R",
+    "Details": {
+      "Main Effect": "จุติ : เลือกหยิบการ์ด Avatar \"symbol กะปอม\" Cost 3 หรือต่ำกว่า สูงสุด 4 ใบจากนรกของฝ่ายเรากลับเข้า Deck แล้วสับ หลังจากนั้นจั่วการ์ด 1 ใบ และ POWER ของการ์ด ใบนี้จะเพิ่มเท่ากับจำนวนการ์ดที่นำเข้า Deck ใบละ 1 จนจบเทิร์น"
+    }
+  },
+  {
+    "ImagePath": "PRMO-44-C.png",
+    "Name": "ร้อนมากก็เปิดหน้าต่างสิว๊ากกกก",
+    "Type": "Magic",
+    "SubType": "Normal",
+    "Gem": 2,
+    "Symbol": "จอมเวทย์",
+    "ซอย": 2,
+    "Print": "PRMO-44",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "เลือก Avatar อีกฝ่าย 1 ใบ : นำการ์ดใบนั้นขึ้นมือ"
+    }
+  },
+  {
+    "ImagePath": "PRMO-45-Rare.png",
+    "Name": "ทุ่งนาแดนนี้(ไม่มีความหมาย)",
+    "Type": "Magic",
+    "SubType": "Land",
+    "Gem": 2,
+    "Symbol": "ป่า",
+    "ซอย": 2,
+    "Print": "PRMO-45",
+    "Rare": "Rare",
+    "Details": {
+      "Main Effect": "Avatar เผ่าแมลง สัตว์ รัททาทุย และมนุษย์ POWER +1"
+    }
+  },
+  {
+    "ImagePath": "PRMO-46-C.png",
+    "Name": "นายนิรยบาล กล้าม",
+    "Type": "Avatar",
+    "Cost": 4,
+    "Gem": 3,
+    "Power": 4,
+    "Symbol": "นรก",
+    "Color": "#9900FF",
+    "ซอย": 2,
+    "Print": "PRMO-46",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": null
+    }
+  },
+  {
+    "ImagePath": "PRMO-47-Rare.png",
+    "Name": "บรุนฮิลด์  เทพธิดาแห่งวัลฮัลลา ",
+    "Type": "Avatar",
+    "Cost": 3,
+    "Gem": 2,
+    "Power": 2,
+    "Symbol": "เทพ",
+    "Color": "#9900FF",
+    "ซอย": 2,
+    "Print": "PRMO-47",
+    "Rare": "Rare",
+    "Details": {
+      "Main Effect": "ถ้าการ์ดใบนี้ถูก ธรณีสูบ ด้วยการ์ด Avatar symbol เทพ สีม่วง หรือ Magic card : สามารถอัญเชิญการ์ดใบนี้จากนรกได้"
+    }
+  },
+  {
+    "ImagePath": "PRMO-48-C.png",
+    "Name": "แมว-น้ำมะลิ",
+    "Type": "Avatar",
+    "Cost": 2,
+    "Gem": 1,
+    "Power": 2,
+    "Symbol": "สัตว์",
+    "Color": "#00FFFF",
+    "ซอย": 2,
+    "Print": "PRMO-48",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "จุติ : สอดแนม 3 ใบ เลือก การ์ด Avatar \"หมา\" หรือ \"แมว\" ที่เป็น Symbol สัตว์ 1 ใบ จากที่ สอดแนม และนำขึ้นมือ ถ้าการ์ดที่เลือกคือ หมานมเย็น อัญเชิญ จุติ ลงบน Avatar Zone ฝ่ายเราแทนการนำขึ้นมือ จากนั้นนำการ์ดที่เหลือกลับ Deck แล้วสับ"
+    }
+  },
+  {
+    "ImagePath": "PRMO-49-C.png",
+    "Name": "คุณเชิดชัย Super Air",
+    "Type": "Avatar",
+    "Cost": 2,
+    "Gem": 1,
+    "Power": 2,
+    "Symbol": "คน",
+    "Color": "#00FF00",
+    "ซอย": 2,
+    "Print": "PRMO-49",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "จุติ : สอดแนม 5 ใบ เลือกการ์ด เครื่องบิน Super Air หรือ รหัสดำ จากที่ สอดแนม 1 ใบ และ/หรือ เลือกการ์ด Avatar \"Super Air\" ที่เป็น Symbol คน จากที่สอดแนม 1 ใบ นำขึ้นมือ จากนั้นนำการ์ดที่เหลือเรียงแล้วนำไปไว้ใต้ Deck "
+    }
+  },
+  {
+    "ImagePath": "PRMO-50-Rare.png",
+    "Name": "โรงบาล",
+    "Type": "Magic",
+    "SubType": "Land",
+    "Gem": 2,
+    "Symbol": "จอมเวทย์",
+    "ซอย": 1,
+    "Print": "PRMO-50",
+    "Rare": "Rare",
+    "Details": {
+      "Main Effect": "เทิร์นละครั้ง สั่งใช้ ทิ้งการ์ดจากมือ 1 ใบ : เลือกการ์ด Avatar จากในนรก 1 ใบที่ Cost ไม่เกิน 3 ขึ้นมือได้ ในเทิร์นนี้การ์ดที่ขึ้นมือจากความสามารถ\"โรงบาล\"จะไม่สามารถอัญเชิญและไม่สามารถใช้ความสามารถได้ รวมถึงการ์ดชื่อเดียวกันกับที่ขึ้นมือทั้งหมด"
+    }
+  },
+  {
+    "ImagePath": "PRMO-051-SR Promo.png",
+    "Name": "บึงทมิฬ",
+    "Type": "Magic",
+    "SubType": "Normal",
+    "Gem": 1,
+    "Symbol": "ปลา",
+    "ซอย": 1,
+    "Print": "PRMO-051",
+    "Rare": "SR Promo",
+    "Details": {
+      "Main Effect": "เทิร์นละครั้ง สั่งใช้ เลือก Avatar 1 ใบ ใน Avatar Zone ฝ่ายเรา เปลี่ยนสภาพ Avatar ใบนั้นเป็นสภาพนอน : จั่วการ์ด 1 ใบ"
+    }
+  },
+  {
+    "ImagePath": "PRMO-052-SR Promo.png",
+    "Name": "แม่นาค พระปะแดง",
+    "Type": "Avatar",
+    "Cost": 3,
+    "Gem": 1,
+    "Power": 2,
+    "Symbol": "ผี",
+    "Color": "#9900FF",
+    "ซอย": 1,
+    "Print": "PRMO-052",
+    "Rare": "SR Promo",
+    "Details": {
+      "Main Effect": "เมื่อการ์ดใบนี้ถูกอัญเชิญ เลือกการ์ดในนรกของฝ่ายตรงข้าม 1 ใบ : นำการ์ดใบนั้นกลับเข้าใต้ Deck ฝ่ายตรงข้าม ถ้าทำสำเร็จ เลือก Avatar 1ใบ ของอีกฝ่าย POWER - 2 "
+    }
+  },
+  {
+    "ImagePath": "PRMO-053-C Promo.png",
+    "Name": "เด็กไม่ชอบแมลงสาบ",
+    "Type": "Avatar",
+    "Cost": 0,
+    "Gem": 0,
+    "Power": 3,
+    "Symbol": "คน",
+    "Color": "#00FFFF",
+    "ซอย": 1,
+    "Print": "PRMO-053",
+    "Rare": "C Promo",
+    "Details": {
+      "Main Effect": null
+    }
+  },
+  {
+    "ImagePath": "PRMO-054-C Promo.png",
+    "Name": "หมาแพนดี้",
+    "Type": "Avatar",
+    "Cost": 2,
+    "Gem": 2,
+    "Power": 2,
+    "Symbol": "สัตว์",
+    "Color": "#FF0000",
+    "ซอย": 2,
+    "Print": "PRMO-054",
+    "Rare": "C Promo",
+    "Details": {
+      "Main Effect": "\"โล่มนุษย์ สามัคคี \nต่อเนื่อง ตราบเท่าที่ Avatar ใบนี้ อยู่ในสภาพนอน POWER ของ Avatar ใบนี้จะเพิ่มขึ้นเท่ากับ Avatar \"\"หมา\"\" และ \"\"แมว\"\" ที่เป็น Symbol สัตว์ ใบอื่น บน Avatar Zone ฝ่ายเรา ใบละ 1"
+    }
+  },
+  {
+    "ImagePath": "PRMO-055-SR Promo.png",
+    "Name": "ร้ททาทุย ผู้พิทักษ์ราชินี",
+    "Type": "Avatar",
+    "Cost": 5,
+    "Gem": 3,
+    "Power": 5,
+    "Symbol": "รัททาทุย",
+    "Color": "#00FFFF",
+    "ซอย": 1,
+    "Print": "PRMO-055",
+    "Rare": "SR Promo",
+    "Details": {
+      "Main Effect": null
+    }
+  },
+  {
+    "ImagePath": "PRE0-005-C Promo.png",
+    "Name": "ผู้เล่นมั่ว",
+    "Type": "Avatar",
+    "Cost": 2,
+    "Gem": 2,
+    "Power": 2,
+    "Symbol": "เอเลี่ยน",
+    "Color": "#FF0000",
+    "ซอย": 2,
+    "Print": "PRE0-005",
+    "Rare": "C Promo",
+    "Details": {
+      "Main Effect": "ต่อเนื่อง ถ้าใน นรกฝ่ายเรา มี Avatar ที่ชื่อไม่ซ้ำกัน 10 ใบขึ้นไป การ์ดใบนี้ POWER +2"
+    }
+  },
+  {
+    "ImagePath": "PRMO-056-C Promo.png",
+    "Name": "ชายจากอนาคต",
+    "Type": "Magic",
+    "SubType": "React",
+    "Gem": 0,
+    "Symbol": "จอมเวทย์",
+    "ซอย": 1,
+    "Print": "PRMO-056",
+    "Rare": "C Promo",
+    "Details": {
+      "Main Effect": "เมื่อมีการใช้ Magic Card : ยกเลิกการใช้ Magic Card ใบนั้น"
+    }
+  },
+  {
+    "ImagePath": "PRMO-056-C Promo.png",
+    "Name": "อีช่า - สาวน้อยคนเก่ง",
+    "Type": "Avatar",
+    "Cost": 3,
+    "Gem": 2,
+    "Power": 1,
+    "Symbol": "คน",
+    "Color": "#FF0000",
+    "ซอย": 1,
+    "Print": "PRMO-056",
+    "Rare": "C Promo",
+    "Details": {
+      "Main Effect": "จุติ : เซ่นไหว้ Avatar ใบอื่นใน Avatar Zone 1 ใบ : เลือก Avatar symbol {คน} , {เทพ} , {นรก} บน Avatar Zone ของฝ่ายตรงข้าม 1 ใบ เปลี่ยนการควบคุมมาบน Avatar Zone ฝ่ายเรา"
+    }
+  },
+  {
+    "ImagePath": "PRMO-057-C Promo.png",
+    "Name": "แมวมัทฉะ",
+    "Type": "Avatar",
+    "Cost": 1,
+    "Gem": 1,
+    "Power": 3,
+    "Symbol": "สัตว์",
+    "Color": "#00FF00",
+    "ซอย": 1,
+    "Print": "PRMO-057",
+    "Rare": "C Promo",
+    "Details": {
+      "Main Effect": null
+    }
+  },
+  {
+    "ImagePath": "PRMO-058-SR Promo.png",
+    "Name": "บึงทมิฬ  People - คุณดีไมส์ ",
+    "Type": "Avatar",
+    "Cost": 6,
+    "Gem": 2,
+    "Power": 4,
+    "Symbol": "ปลา",
+    "Color": "#00FFFF",
+    "ซอย": 1,
+    "Print": "PRMO-058",
+    "Rare": "SR Promo",
+    "Details": {
+      "Main Effect": "สามารถสั่งใช้งานความสามารถได้เมื่อมี บึงทมิฬ อยู่บน Land Magic Zone \nสั่งใช้ เมื่อ Avatar ใบนี้ทำลาย Avatar บน Avatar Zone ของฝ่ายตรงข้ามสำเร็จ สามารถทิ้งการ์ดบนมือ 1 ใบ Avatar ตัวนี้จะกลับมาเป็นสภาพ ตื่น "
+    }
+  },
+  {
+    "ImagePath": "PRMO-059-C Promo.png",
+    "Name": "บีมมมมมมมมมม",
+    "Type": "Magic",
+    "SubType": "Normal",
+    "Gem": 2,
+    "Symbol": "เทพ",
+    "ซอย": 2,
+    "Print": "PRMO-059",
+    "Rare": "C Promo",
+    "Details": {
+      "Main Effect": "ทิ้งการ์ดบนมือ 1 ใบ : ทำลาย Avatar บนสนามฝ่ายตรงข้าม 1 ใบ"
+    }
+  },
+  {
+    "ImagePath": "PRMO-060-C Promo.png",
+    "Name": "มีมมิ ผู้ร่วงหล่น",
+    "Type": "Avatar",
+    "Cost": 4,
+    "Gem": 2,
+    "Power": 2,
+    "Symbol": "ผี",
+    "Color": "#9900FF",
+    "ซอย": 2,
+    "Print": "PRMO-060",
+    "Rare": "C Promo",
+    "Details": {
+      "Main Effect": "จุติ : ถ้า Avatar Zone ฝ่ายเรา มี แดรกคูลา นำ Land Magic ปราสาทแดรก 1 ใบ จาก Deck เรา ขึ้นมือ จากนั้น สับ Deck"
+    }
+  },
+  {
+    "ImagePath": "PRMO-061-SR Promo.png",
+    "Name": "อามัส มนุษย์ดาว R18",
+    "Type": "Avatar",
+    "Cost": 3,
+    "Gem": 3,
+    "Power": 0,
+    "Symbol": "เอเลี่ยน",
+    "Color": "#00FFFF",
+    "ซอย": 2,
+    "Print": "PRMO-061",
+    "Rare": "SR Promo",
+    "Details": {
+      "Main Effect": "ต่อเนื่อง POWER ของ Avatar ใบนี้ จะเพิ่มขึ้นตามจำนวน Avatar  \"ข้ารับใช้ของ มนุษย์ดาว R18\" ในสนามฝ่ายเรา ใบละ 1"
+    }
+  },
+  {
+    "ImagePath": "PRMO-062-C Promo.png",
+    "Name": "สหายหุ่นผู้กล้า โฟเบีย",
+    "Type": "Avatar",
+    "Cost": 3,
+    "Gem": 2,
+    "Power": 0,
+    "Symbol": "ต่างชาติ",
+    "Color": "#FF0000",
+    "ซอย": 2,
+    "Print": "PRMO-062",
+    "Rare": "C Promo",
+    "Details": {
+      "Main Effect": "จุติ นำ \"โดรนสอดแนมผู้กล้า : เก๊าท์\" , \"ยานเกราะผู้กล้า : ไดบาเรีย\" และ \"อากาศยานผู้กล้า : แอร์ซิด รีฟลักซ์\" \nอย่างละ 1 ใบ จาก นรกเรา กลับเข้า Deck : อัญเชิญ  \"ไมเกรน\" ที่ Cost ไม่เกิน 5 จากใน Deck เรา 1 ใบ ลง Avatar Zone ฝ่ายเรา จากนั้นสับ Deck และนำการ์ดใบนี้ไปสวมใส่ให้ Avatar ที่ถูกอัญเชิญมาด้วยความสามารถนี้\nAvatar ที่สวมใส่การ์ดใบนี้ POWER +1"
+    }
+  },
+  {
+    "ImagePath": "PRMO-063-C Promo.png",
+    "Name": "นางลักษมี",
+    "Type": "Avatar",
+    "Cost": 1,
+    "Gem": 4,
+    "Power": 1,
+    "Symbol": "เทพ",
+    "Color": "#FF0000",
+    "ซอย": 1,
+    "Print": "PRMO-063",
+    "Rare": "C Promo",
+    "Details": {
+      "Main Effect": "การ์ดใบนี้ใช้เป็น Cost การอัญเชิญได้เฉพาะ Avatar {symbol เทพ} เท่านั้น \nเมื่อการ์ดใบนี้ถูกใช้เป็น Cost เพื่ออัญเชิญ Avatar \"พระนารายณ์\" : POWER + 3 ให้กับ Avatar ที่อัญเชิญ จนจบเทิร์น"
+    }
+  },
+  {
+    "ImagePath": "PRMO-064-SR Promo.png",
+    "Name": "ทัตดนัยซัง โปรดิวเซอร์มือทอง",
+    "Type": "Avatar",
+    "Cost": 6,
+    "Gem": 2,
+    "Power": 3,
+    "Symbol": "คน",
+    "Color": "#9900FF",
+    "Ex": "Only#1",
+    "ซอย": 2,
+    "Print": "PRMO-064",
+    "Rare": "SR Promo",
+    "Details": {
+      "Main Effect": "โล่มนุษย์\nพอดี (จะได้รับความสามารถดังต่อไปนี้เมื่อ Avatar ใบนี้ถูกอัญเชิญมาด้วยการทิ้ง Gem พอดีกับ Cost เท่านั้น)\n  - จุติ : เลือก Avatar ของฝ่ายตรงข้าม 1 ใบ เปลี่ยน ชื่อ ของ Avatar ใบนั้นเป็น \"โอตะ\" และ นำมาสวมใส่ให้ Avatar \"ไอดอล\" บน Avatar Zone ของเรา และถ้าบน Avatar Zone ฝ่ายเรา มี มยุราซัง ไอดอลยุค 80 สามารถนำ Avatar \" ไอดอล \" 1 ใบจากใน Deck เรา ขึ้นมือ จากนั้นสับ Deck "
+    }
+  },
+  {
+    "ImagePath": "PRMO-065-SR Promo.png",
+    "Name": "กุ่ย",
+    "Type": "Avatar",
+    "Cost": 2,
+    "Gem": 2,
+    "Power": 2,
+    "Symbol": "คน",
+    "Color": "#00FFFF",
+    "ซอย": 1,
+    "Print": "PRMO-065",
+    "Rare": "SR Promo",
+    "Details": {
+      "Main Effect": "สามัคคี (เปลี่ยนการ์ดนี้เป็นสภาพนอนและนำ POWER การ์ดนี้ไปเพิ่มให้กับ Avatar ที่สั่งโจมตี)\nจุติ (เมื่อ Avatar ตัวนี้ถูกอัญเชิญลงสนามแบบจ่าย Cost) : นำ Avatar ชื่อ \"ฮอล\" 1 ใบจาก Deck ขึ้นมือ หลังจากนั้นสับ Deck"
+    }
+  },
+  {
+    "ImagePath": "PRMO-066-SR Promo.png",
+    "Name": "ฮอล",
+    "Type": "Avatar",
+    "Cost": 2,
+    "Gem": 2,
+    "Power": 2,
+    "Symbol": "คน",
+    "Color": "#00FFFF",
+    "ซอย": 1,
+    "Print": "PRMO-066",
+    "Rare": "SR Promo",
+    "Details": {
+      "Main Effect": "สามัคคี (เปลี่ยนการ์ดนี้ที่อยู่บน Avatar Zone ในสภาพตื่นเป็นสภาพนอนบน และนำ POWER การ์ดนี้ไปเพิ่มให้กับ  Avatar ที่สั่งโจมตี จนจบการต่อสู้นั้น)\nจุติ (เมื่อ Avatar ตัวนี้ถูกอัญเชิญลงสนามแบบจ่าย Cost) : นำ Avatar ชื่อ \"นาย\" 1 ใบจาก Deck ขึ้นมือ หลังจากนั้นสับ Deck"
+    }
+  },
+  {
+    "ImagePath": "PRMO-067-SR Promo.png",
+    "Name": "นาย",
+    "Type": "Avatar",
+    "Cost": 2,
+    "Gem": 2,
+    "Power": 2,
+    "Symbol": "คน",
+    "Color": "#00FFFF",
+    "ซอย": 1,
+    "Print": "PRMO-067",
+    "Rare": "SR Promo",
+    "Details": {
+      "Main Effect": "สามัคคี (เปลี่ยนการ์ดนี้ที่อยู่บน Avatar Zone ในสภาพตื่นเป็นสภาพนอนบน และนำ POWER การ์ดนี้ไปเพิ่มให้กับ  Avatar ที่สั่งโจมตี จนจบการต่อสู้นั้น)\nจุติ (เมื่อ Avatar ตัวนี้ถูกอัญเชิญลงสนามแบบจ่าย Cost) : นำ Avatar ชื่อ \"กุ่ย\" 1 ใบจาก Deck ขึ้นมือ หลังจากนั้นสับ Deck"
+    }
+  },
+  {
+    "ImagePath": "PRMO-068-SR Promo.png",
+    "Name": "เจ้ากล้าดียังไง",
+    "Type": "Magic",
+    "Gem": 2,
+    "Symbol": "เทพ",
+    "ซอย": 1,
+    "Print": "PRMO-068",
+    "Rare": "SR Promo",
+    "Details": {
+      "Main Effect": "เมื่อฝ่ายตรงข้ามประกาศโจมตี : ส่ง Avatar ที่ประกาศโจมตีลงนรก"
+    }
+  },
+  {
+    "ImagePath": "PRMO-069-C Promo.png",
+    "Name": "เอาไปอยู่ด้วย",
+    "Type": "Magic",
+    "SubType": "React",
+    "Gem": 2,
+    "Symbol": "ผี",
+    "ซอย": 1,
+    "Print": "PRMO-069",
+    "Rare": "C Promo",
+    "Details": {
+      "Main Effect": "ถ้า Avatar {Symbol ผี} บนสนามฝ่ายเราถูกทำลายโดยการ์ดฝ่ายตรงข้าม : ทำลาย Avatar บน Avatar Zone ของอีกฝ่าย 1 ใบ "
+    }
+  },
+  {
+    "ImagePath": "PRMO-070-C Promo.png",
+    "Name": "จอมเวทย์ดำ",
+    "Type": "Avatar",
+    "Cost": 3,
+    "Gem": 1,
+    "Power": 4,
+    "Symbol": "คน",
+    "Color": "#9900FF",
+    "ซอย": 1,
+    "Print": "PRMO-070",
+    "Rare": "C Promo",
+    "Details": {
+      "Main Effect": null
+    }
+  },
+  {
+    "ImagePath": "PRMO-071-SR Promo.png",
+    "Name": "เฟรย่า แม่ทุกสถาบันแอสการ์ด",
+    "Type": "Avatar",
+    "Cost": 4,
+    "Gem": 3,
+    "Power": 3,
+    "Symbol": "เทพ",
+    "Color": "#9900FF",
+    "ซอย": 2,
+    "Print": "PRMO-071",
+    "Rare": "SR Promo",
+    "Details": {
+      "Main Effect": "พอดี (จะได้รับความสามารถดังต่อไปนี้เมื่อ Avatar ใบนี้ถูกอัญเชิญมาด้วยการทิ้ง Gem พอดีกับ Cost เท่านั้น)\n   จุติ : นำ Avatar {Symbol เทพ} สีม่วง 3 ใบ จากในนรกเรากลับเข้า Deck เราแล้วสับ จากนั้น จั่วการ์ด 1 ใบ"
+    }
+  },
+  {
+    "ImagePath": "PRMO-072-C Promo.png",
+    "Name": "จอย มนุษย์ดาว R18",
+    "Type": "Avatar",
+    "Cost": 4,
+    "Gem": 2,
+    "Power": 2,
+    "Symbol": "เอเลี่ยน",
+    "Color": "#00FFFF",
+    "ซอย": 2,
+    "Print": "PRMO-072",
+    "Rare": "C Promo",
+    "Details": {
+      "Main Effect": "เทิร์นละครั้ง สั่งใช้ : เลือก Avatar \"ข้ารับใช้ของ มนุษย์ดาว R18\" 1 ใบ ใน Magic Zone ฝ่ายเรา อัญเชิญ Avatar ใบนั้น ลง Avatar Zone ฝ่ายเรา ในช่วง End Phase นำ Avatar ใบนั้น กลับมาไว้ที่ Magic Zone ฝ่ายเรา                                                                                \n                                                                                \n                                                                                "
+    }
+  },
+  {
+    "ImagePath": "PRMO-073-C Promo.png",
+    "Name": "จาบับวา",
+    "Type": "Avatar",
+    "Cost": 4,
+    "Gem": 0,
+    "Power": 4,
+    "Symbol": "ชาวต่างชาติ",
+    "Color": "#9900FF",
+    "ซอย": 2,
+    "Print": "PRMO-073",
+    "Rare": "C Promo",
+    "Details": {
+      "Main Effect": "คำสั่งเสีย : สอดแนม 5 ใบ เลือก การ์ด Avatar symbol คน 1 ใบ จากที่ สอดแนม และนำขึ้นมือ จากนั้นนำการ์ดที่เหลือเรียงแล้วนำไปไว้ใต้ Deck "
+    }
+  },
+  {
+    "ImagePath": "PRMO-074-SR Promo.png",
+    "Name": " หุ่นนักรบผู้กล้า : โปรโตไมเกรน",
+    "Type": "Avatar",
+    "Cost": 4,
+    "Gem": 2,
+    "Power": 3,
+    "Symbol": "เครื่องจักร",
+    "Color": "#FF0000",
+    "ซอย": 2,
+    "Print": "PRMO-074",
+    "Rare": "SR Promo",
+    "Details": {
+      "Main Effect": "สั่งใช้ เมื่อ Avatar ใบนี้ โจมตีและทำลาย Avatar ฝ่ายตรงข้ามสำเร็จจากการต่อสู้ : ส่ง Avatar ใบนี้ลงนรก และ อัญเชิญ จุติ หุ่นนักรบผู้กล้า : ไมเกรน จาก Deck เรา จากนั้นสับ Deck ถ้า Avatar ใบนี้มีการ์ดสวมใส่อยู่ ให้นำการ์ดที่สวมใส่อยู่ทั้งหมด ไปสวมใส่ให้ Avatar ที่อัญเชิญมาด้วยความสามารถนี้แทน "
+    }
+  },
+  {
+    "ImagePath": "PRMO-075-C Promo.png",
+    "Name": "แมลงปอแจ๊ค",
+    "Type": "Avatar",
+    "Cost": 3,
+    "Gem": 3,
+    "Power": 2,
+    "Symbol": "แมลง",
+    "Color": "#00FFFF",
+    "ซอย": 1,
+    "Print": "PRMO-075",
+    "Rare": "C Promo",
+    "Details": {
+      "Main Effect": "จุติ (เมื่อ Avatar ตัวนี้ถูกอัญเชิญลงสนามแบบจ่ายCost) : ทำลายการ์ด Land Magic 1 ใบบน Land Magic Zone หลังจากนั้นนำ Land Magic 1 ใบจาก Deck เรามาเล่นบน Land Magic Zone หลังจากนั้นสับ Deck \t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t"
+    }
+  },
+  {
+    "ImagePath": "PRMO-076-C Promo.png",
+    "Name": "ชาช่าจัง ไอดอลคนเก่ง",
+    "Type": "Avatar",
+    "Cost": 4,
+    "Gem": 2,
+    "Power": 6,
+    "Symbol": "คน",
+    "Color": "#00FFFF",
+    "ซอย": 2,
+    "Print": "PRMO-076",
+    "Rare": "C Promo",
+    "Details": {
+      "Main Effect": "ต่อเนื่อง Avatar ใบนี้ไม่สามารถโจมตีได้ และ สามารถสวมใส่การ์ดได้เฉพาะการ์ด \"โอตะ\"\nเทิร์นละครั้ง สั่งใช้ ทำลาย การ์ด \"โอตะ\" ที่สวมใส่อยู่ให้กับ Avatar \"ไอดอล\" บน Avatar Zone ฝ่ายเรา 1 ใบ : ในเทิร์นนี้ Avatar ใบนี้จะสามารถโจมตีได้"
+    }
+  },
+  {
+    "ImagePath": "PRMO-077-SR Promo.png",
+    "Name": "จ่ายุทธ Tank Ranger",
+    "Type": "Avatar",
+    "Cost": 3,
+    "Gem": 3,
+    "Power": 1,
+    "Symbol": "คน",
+    "Color": "#6AA84F",
+    "ซอย": 2,
+    "Print": "PRMO-077",
+    "Rare": "SR Promo",
+    "Details": {
+      "Main Effect": "จุติ ถ้ามี Avatar \"รถถัง\" บนสนามฝ่ายเรา : ทำลาย Avatar {Symbol ชาวต่างชาติ} 1 ใบ\nเทิร์นละครั้ง สั่งใช้ : นำ Avatar ใบนี้บน Avatar Zone ไปสวมให้ Avatar \"รถถัง\" ที่อยู่บน Avatar Zone ฝ่ายเรา \nเมื่อ Avatar \"รถถัง\" ที่สวมใส่ การ์ดใบนี้ ต่อสู้กับ Avatar {Symbol ชาวต่างชาติ} : นำ Avatar ที่ต่อสู้กับรถถังที่สวมใส่การ์ดนี้เข้าใต้ Deck "
+    }
+  },
+  {
+    "ImagePath": "PRMO-078-SR Promo.png",
+    "Name": "หุ่นนักรบผู้กล้า ไมเกรน",
+    "Type": "Avatar",
+    "Cost": 5,
+    "Gem": 2,
+    "Power": 4,
+    "Symbol": "เครื่องจักร",
+    "Color": "#FF0000",
+    "ซอย": 1,
+    "Print": "PRMO-078",
+    "Rare": "SR Promo",
+    "Details": {
+      "Main Effect": "จุติ : สอดแนม 5 ใบ เลือกการ์ด \"อาวุธหุ่นนักรบผู้กล้า\" 1 ใบจากที่สอดแนม  นำขึ้นมือ การ์ดที่เหลือเรียงและนำไว้ใต้ Deck\nอัตโนมัติ เทิร์นละครั้ง เมื่อมีการใช้ Modification Magic \"อาวุธหุ่นนักรบผู้กล้า\" : จั่วการ์ด 1 ใบ"
+    }
+  },
+  {
+    "ImagePath": "PRMO-079-SR Promo.png",
+    "Name": "ศาลพระภูมิ",
+    "Type": "Avatar",
+    "Cost": 4,
+    "Gem": 1,
+    "Power": 2,
+    "Symbol": "ผี",
+    "Color": "#9900FF",
+    "ซอย": 1,
+    "Print": "PRMO-079",
+    "Rare": "SR Promo",
+    "Details": {
+      "Main Effect": "จุติ (เมื่อ Avatar ใบนี้ถูกอัญเชิญลงสนามแบบจ่ายCost) : อัญเชิญ Avatar {รูป symbol ผี} จากใน Deck 1 ใบ ลง Avatar Zone ฝ่ายเรา จากนั้นสับ Deck\nต่อเนื่อง ตราบเท่าที่มีการ์ด Avatar {รูป symbol ผี} ใบอื่นบน Avatar Zone ฝ่ายเรา อีกฝ่ายจะไม่สามารถเลือก Avatar \"ศาลพระภูมิ\" เป็นเป้าหมายการโจมตีได้"
+    }
+  }
+]

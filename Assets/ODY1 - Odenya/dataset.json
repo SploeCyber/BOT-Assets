@@ -1,0 +1,1391 @@
+[
+  {
+    "ImagePath": "ODY1-001-UR,SR.png",
+    "Name": "ทาโกะซัง สูตรสวรรค์",
+    "Type": "Avatar",
+    "Cost": 3,
+    "Gem": 0,
+    "Power": 4,
+    "Symbol": "เทพ",
+    "Color": "#FF0000",
+    "ซอย": 1,
+    "Print": "ODY1-001",
+    "Rare": "UR,SR",
+    "Details": {
+      "Main Effect": "จุติ : นำ Avatar ชื่อ ทาโกะซัง สูตรมนุษย์ 1 ใบจาก Deck ขึ้นมือ หลังจากนั้นสับ Deck"
+    }
+  },
+  {
+    "ImagePath": "ODY1-002-UR,SR.png",
+    "Name": "ทาโกะซัง สูตรมนุษย์",
+    "Type": "Avatar",
+    "Cost": 2,
+    "Gem": 2,
+    "Power": 2,
+    "Symbol": "คน",
+    "Color": "#00FFFF",
+    "ซอย": 1,
+    "Print": "ODY1-002",
+    "Rare": "UR,SR",
+    "Details": {
+      "Main Effect": "จุติ : นำ Avatar ชื่อ ทาโกะซัง สูตรนรก 1 ใบจาก Deck ขึ้นมือ หลังจากนั้นสับ Deck"
+    }
+  },
+  {
+    "ImagePath": "ODY1-003-UR,SR.png",
+    "Name": "ทาโกะซัง สูตรนรก",
+    "Type": "Avatar",
+    "Cost": 4,
+    "Gem": 1,
+    "Power": 3,
+    "Symbol": "นรก",
+    "Color": "#9900FF",
+    "ซอย": 1,
+    "Print": "ODY1-003",
+    "Rare": "UR,SR",
+    "Details": {
+      "Main Effect": "จุติ : นำ Avatar ชื่อ ทาโกะซัง สูตรสวรรค์ 1 ใบจาก Deck ขึ้นมือ หลังจากนั้นสับ Deck"
+    }
+  },
+  {
+    "ImagePath": "ODY1-004-C.png",
+    "Name": "ทาโกะจัง พนักงานดีเด่น",
+    "Type": "Avatar",
+    "Cost": 4,
+    "Gem": 3,
+    "Power": 1,
+    "Symbol": "ปลา",
+    "Color": "#FF0000",
+    "ซอย": 1,
+    "Print": "ODY1-004",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "จุติ นำ Avatar \"ทาโกะซัง\" 3 ใบ ที่มีชื่อแตกต่างกัน จากนรกเรา กลับเข้า Deck แล้วสับ Deck : จั่วการ์ด 1 ใบ "
+    }
+  },
+  {
+    "ImagePath": "ODY1-005-C.png",
+    "Name": "โอเดนย่ากาย",
+    "Type": "Avatar",
+    "Cost": 3,
+    "Gem": 2,
+    "Power": 5,
+    "Symbol": "เอเลี่ยน",
+    "Color": "#FF0000",
+    "ซอย": 1,
+    "Print": "ODY1-005",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "การ์ดใบนี้จะโจมตีได้เมื่อใน Avatar Zone ฝ่ายเรา มี \"ทาโกะ\" เท่านั้น"
+    }
+  },
+  {
+    "ImagePath": "ODY1-006-SR,UR,FR.png",
+    "Name": "พระอิศวร",
+    "Type": "Avatar",
+    "Cost": 6,
+    "Gem": 2,
+    "Power": 5,
+    "Symbol": "เทพ",
+    "Color": "#FF0000",
+    "ซอย": 1,
+    "Print": "ODY1-006",
+    "Rare": "SR,UR,FR",
+    "Details": {
+      "Main Effect": "จุติ : เลือก Avatar 1 ใบ POWER - 4 จนจบเทิร์น"
+    }
+  },
+  {
+    "ImagePath": "ODY1-007-SR,UR,FR.png",
+    "Name": "นนทก นิ้วเพชร",
+    "Type": "Avatar",
+    "Cost": 3,
+    "Gem": 2,
+    "Power": 2,
+    "Symbol": "ยักษ์",
+    "Color": "#FF0000",
+    "ซอย": 1,
+    "Print": "ODY1-007",
+    "Rare": "SR,UR,FR",
+    "Details": {
+      "Main Effect": "อัตโนมัติ เมื่อการ์ดใบนี้สั่งโจมตี Avatar {symbol เทพ} : ทำลาย Avatar ตัวที่ต่อสู้ด้วย"
+    }
+  },
+  {
+    "ImagePath": "ODY1-008-C.png",
+    "Name": "พระเวสสุกรรม",
+    "Type": "Avatar",
+    "Cost": 4,
+    "Gem": 1,
+    "Power": 3,
+    "Symbol": "เทพ",
+    "Color": "#FF0000",
+    "ซอย": 1,
+    "Print": "ODY1-008",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "จุติ : สอดแนม  5 ใบ นำการ์ด Land Magic 1 ใบ จากที่ สอดแนม ขึ้นมือ นำการ์ดที่เหลือเรียงไว้ใต้ Deck"
+    }
+  },
+  {
+    "ImagePath": "ODY1-009-SR , UR.png",
+    "Name": "ปื้ด เด็กเปรต",
+    "Type": "Avatar",
+    "Cost": 4,
+    "Gem": 0,
+    "Power": 0,
+    "Symbol": "เปรต",
+    "Color": "#FF0000",
+    "ซอย": 1,
+    "Print": "ODY1-009",
+    "Rare": "SR , UR",
+    "Details": {
+      "Main Effect": "ต่อเนื่อง การ์ดใบนี้ เพิ่ม POWER  ตามจำนวน LIFE Card ของเรา ที่ถูกหงายอยู่ ใบละ 2"
+    }
+  },
+  {
+    "ImagePath": "ODY1-010-C , SR.png",
+    "Name": "หนุมาน",
+    "Type": "Avatar",
+    "Cost": 4,
+    "Gem": 1,
+    "Power": 3,
+    "Symbol": "สัตว์",
+    "Color": "#FF0000",
+    "ซอย": 1,
+    "Print": "ODY1-010",
+    "Rare": "C , SR",
+    "Details": {
+      "Main Effect": "ต่อเนื่อง การ์ดใบนี้ เพิ่ม POWER  ตามจำนวน Avatar {symbol เทพ} บนสนามฝ่ายเรา ใบละ 1"
+    }
+  },
+  {
+    "ImagePath": "ODY1-011-C.png",
+    "Name": "ชาวบ้านขายน้ำ",
+    "Type": "Avatar",
+    "Cost": 3,
+    "Gem": 2,
+    "Power": 2,
+    "Symbol": "คน",
+    "Color": "#FF0000",
+    "ซอย": 1,
+    "Print": "ODY1-011",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "จุติ : นำ Modification Magic ที่มีชื่อ \"น้ำ\" จากใน Deck ฝ่ายเรา 1 ใบ ขึ้นมือ จากนั้นสับ Deck"
+    }
+  },
+  {
+    "ImagePath": "ODY1-012-C.png",
+    "Name": "แม่กบ",
+    "Type": "Avatar",
+    "Cost": 3,
+    "Gem": 1,
+    "Power": 1,
+    "Symbol": "สัตว์",
+    "Color": "#FF0000",
+    "ซอย": 1,
+    "Print": "ODY1-012",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "อัตโนมัติ ในช่วง End Phase ของเรา Avatar ใบนี้ POWER +1 "
+    }
+  },
+  {
+    "ImagePath": "ODY1-013-C , UR.png",
+    "Name": "วันชัย พ่อบุญลือ",
+    "Type": "Avatar",
+    "Cost": 5,
+    "Gem": 2,
+    "Power": 1,
+    "Symbol": "คน",
+    "Color": "#FF0000",
+    "ซอย": 1,
+    "Print": "ODY1-013",
+    "Rare": "C , UR",
+    "Details": {
+      "Main Effect": "เมื่อการ์ดใบนี้ถูกใช้เป็นค่า Cost ในการอัญเชิญ Avatar {Symbol เปรต} : Avatar ตัวนั้นจะไม่ถูกทำลายในเทิร์นนี้"
+    }
+  },
+  {
+    "ImagePath": "ODY1-014-C , UR.png",
+    "Name": "กัญญา แม่บุญลือ",
+    "Type": "Avatar",
+    "Cost": 3,
+    "Gem": 2,
+    "Power": 2,
+    "Symbol": "คน",
+    "Color": "#FF0000",
+    "ซอย": 1,
+    "Print": "ODY1-014",
+    "Rare": "C , UR",
+    "Details": {
+      "Main Effect": "เมื่อการ์ดใบนี้ถูกใช้เป็นค่า Cost ในการอัญเชิญ Avatar {Symbol เปรต} : จั่วการ์ด 1 ใบ หลังจากนั้น ทิ้งการ์ด 1 ใบ"
+    }
+  },
+  {
+    "ImagePath": "ODY1-015-SR , UR.png",
+    "Name": "พระอินทร์",
+    "Type": "Avatar",
+    "Cost": 2,
+    "Gem": 2,
+    "Power": 2,
+    "Symbol": "เทพ",
+    "Color": "#FF0000",
+    "ซอย": 1,
+    "Print": "ODY1-015",
+    "Rare": "SR , UR",
+    "Details": {
+      "Main Effect": "จุติ (เมื่อ Avatar ตัวนี้ถูกอัญเชิญลงสนามแบบจ่าย Cost) : เลือก Avatar 1 ใบ POWER +3 จนจบเทิร์น"
+    }
+  },
+  {
+    "ImagePath": "ODY1-016-C , SR.png",
+    "Name": "นนทก",
+    "Type": "Avatar",
+    "Cost": 1,
+    "Gem": 2,
+    "Power": 1,
+    "Symbol": "ยักษ์",
+    "Color": "#FF0000",
+    "ซอย": 1,
+    "Print": "ODY1-016",
+    "Rare": "C , SR",
+    "Details": {
+      "Main Effect": "ต่อเนื่อง เมื่อ Avatar ตัวนี้อยู่บนสนาม POWER +1 ให้ Avatar {รูป symbol เทพ} ทุกใบบนสนามฝ่ายเรา"
+    }
+  },
+  {
+    "ImagePath": "ODY1-017-C , SR , UR.png",
+    "Name": "รัททาทุย นางพญา",
+    "Type": "Avatar",
+    "Cost": 2,
+    "Gem": 2,
+    "Power": 4,
+    "Symbol": "รัททาทุย",
+    "Color": "#00FFFF",
+    "ซอย": 1,
+    "Print": "ODY1-017",
+    "Rare": "C , SR , UR",
+    "Details": {
+      "Main Effect": "ในช่วง Draw Phase แรกของเรา เราสามารถนำการ์ดใบนี้จาก Deck ขึ้นมือแทนการจั่วได้ จากนั้นสับ Deck"
+    }
+  },
+  {
+    "ImagePath": "ODY1-018-C.png",
+    "Name": "รัททาทุย พ่อพันธุ์",
+    "Type": "Avatar",
+    "Cost": 3,
+    "Gem": 2,
+    "Power": 2,
+    "Symbol": "รัททาทุย",
+    "Color": "#00FFFF",
+    "ซอย": 1,
+    "Print": "ODY1-018",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "จุติ  : ถ้าบน Avatar Zone ฝ่ายเรามี \"รัททาทุย นางพญา\" สามารถอัญเชิญ Avatar ที่มีชื่อ \"รัททาทุย\" \nจากใน Deck ลง Avatar Zone ฝ่ายเรากี่ใบก็ได้ โดย Cost รวมกันไม่เกิน 5 จากนั้นสับ Deck"
+    }
+  },
+  {
+    "ImagePath": "ODY1-019-C.png",
+    "Name": "รัททาทุย",
+    "Type": "Avatar",
+    "Cost": 1,
+    "Gem": 1,
+    "Power": 1,
+    "Symbol": "รัททาทุย",
+    "Color": "#00FFFF",
+    "ซอย": 1,
+    "Print": "ODY1-019",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "สามัคคี  การ์ดใบนี้ สามารถใส่ใน Deck จำนวนได้มากสุด 50 ใบ"
+    }
+  },
+  {
+    "ImagePath": "ODY1-020-C.png",
+    "Name": "แมลงปอเลื่อยยนต์",
+    "Type": "Avatar",
+    "Cost": 3,
+    "Gem": 2,
+    "Power": 3,
+    "Symbol": "แมลง",
+    "Color": "#00FFFF",
+    "ซอย": 1,
+    "Print": "ODY1-020",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "จุติ :  ทำลาย Magic Card บนสนาม 1ใบ"
+    }
+  },
+  {
+    "ImagePath": "ODY1-021-C , UR.png",
+    "Name": "ลูกแม่ศรีนวล",
+    "Type": "Avatar",
+    "Cost": 2,
+    "Gem": 2,
+    "Power": 1,
+    "Symbol": "สัตว์",
+    "Color": "#00FFFF",
+    "ซอย": 1,
+    "Print": "ODY1-021",
+    "Rare": "C , UR",
+    "Details": {
+      "Main Effect": "คำสั่งเสีย : นำ LIFE Card ที่หงายอยู่ใบบนสุด กลับมาคว่ำ 1 ใบ"
+    }
+  },
+  {
+    "ImagePath": "ODY1-022-SR , UR.png",
+    "Name": "พ่อบุญใหญ่",
+    "Type": "Avatar",
+    "Cost": 3,
+    "Gem": 3,
+    "Power": 2,
+    "Symbol": "สัตว์",
+    "Color": "#00FFFF",
+    "ซอย": 1,
+    "Print": "ODY1-022",
+    "Rare": "SR , UR",
+    "Details": {
+      "Main Effect": "คำสั่งเสีย : นำ Avatar Symbol สัตว์ ที่มี Cost ไม่เกิน 4  1 ใบ จากนรกฝ่ายเรา กลับขึ้นมือ"
+    }
+  },
+  {
+    "ImagePath": "ODY1-023-SR , UR.png",
+    "Name": "จ่ามะนาว",
+    "Type": "Avatar",
+    "Cost": 3,
+    "Gem": 2,
+    "Power": 4,
+    "Symbol": "คน",
+    "Color": "#00FFFF",
+    "ซอย": 1,
+    "Print": "ODY1-023",
+    "Rare": "SR , UR",
+    "Details": {
+      "Main Effect": "โล่มนุษย์ "
+    }
+  },
+  {
+    "ImagePath": "ODY1-024-C , UR.png",
+    "Name": "แมลงปอแจ็ค ",
+    "Type": "Avatar",
+    "Cost": 3,
+    "Gem": 3,
+    "Power": 2,
+    "Symbol": "แมลง",
+    "Color": "#00FFFF",
+    "ซอย": 1,
+    "Print": "ODY1-024",
+    "Rare": "C , UR",
+    "Details": {
+      "Main Effect": "จุติ (เมื่อ Avatar ตัวนี้ถูกอัญเชิญลงสนามแบบจ่ายCost) : ทำลายการ์ด Land MAGIC 1 ใบบนสนาม หลังจากนั้นนำ Land MAGIC 1 ใบจาก Deck เรามาเล่นบนสนาม หลังจากนั้นสับ Deck "
+    }
+  },
+  {
+    "ImagePath": "ODY1-025-C , SR.png",
+    "Name": "เอเลี่ยนแสงสีฟ้า",
+    "Type": "Avatar",
+    "Cost": 3,
+    "Gem": 1,
+    "Power": 2,
+    "Symbol": "เอเลี่ยน",
+    "Color": "#00FFFF",
+    "ซอย": 1,
+    "Print": "ODY1-025",
+    "Rare": "C , SR",
+    "Details": {
+      "Main Effect": "จุติ (เมื่อ Avatar ตัวนี้ถูกอัญเชิญลงสนามแบบจ่าย Cost) ทิ้งการ์ดบนมือ 1 ใบ เลือก Avatar บนสนามอีกฝ่าย 1 ตัว : ทอยเหรียญ 1 ครั้ง ออกหัว ทำลาย Avatar ตัวนั้น , ออกก้อย ทำลาย Avatar ตัวนี้"
+    }
+  },
+  {
+    "ImagePath": "ODY1-026-C , SR.png",
+    "Name": "ริกกี้ เพื่อนรัก",
+    "Type": "Avatar",
+    "Cost": 3,
+    "Gem": 2,
+    "Power": 1,
+    "Symbol": "แมลง",
+    "Color": "#00FFFF",
+    "ซอย": 1,
+    "Print": "ODY1-026",
+    "Rare": "C , SR",
+    "Details": {
+      "Main Effect": "จุติ (เมื่อ Avatar ตัวนี้ถูกอัญเชิญลงสนามแบบจ่าย Cost) : นำการ์ดชื่อ \"กุ่ย\" \"ฮอล\" หรือ \"นาย\" สูงสุด3ใบ จากนรก เข้า Deck หลังจากนั้นสับ Deck แล้วจั่วการ์ด 1 ใบ"
+    }
+  },
+  {
+    "ImagePath": "ODY1-027-SR , UR.png",
+    "Name": "สุวรรณ",
+    "Type": "Avatar",
+    "Cost": 3,
+    "Gem": 2,
+    "Power": 2,
+    "Symbol": "นรก",
+    "Color": "#9900FF",
+    "ซอย": 1,
+    "Print": "ODY1-027",
+    "Rare": "SR , UR",
+    "Details": {
+      "Main Effect": "จุติ : สอดแนม 5 ใบ  นำการ์ด \"พญายม\" หรือ \"นายนิรยบาล\" 1 ใบ จากที่ สอดแนม ขึ้นมือ นำการ์ดที่เหลือเรียงไว้ใต้ Deck"
+    }
+  },
+  {
+    "ImagePath": "ODY1-028-SR , UR.png",
+    "Name": "ทศกัณฑ์ยักษ์ที่---เมียพระอิศวร",
+    "Type": "Avatar",
+    "Cost": 4,
+    "Gem": 3,
+    "Power": 5,
+    "Symbol": "เอเลี่ยน",
+    "Color": "#9900FF",
+    "ซอย": 1,
+    "Print": "ODY1-028",
+    "Rare": "SR , UR",
+    "Details": {
+      "Main Effect": "จุติ : สามารถเลือก Avatar ใน Avatar Zone ฝ่ายตรงข้าม 1 ใบ เปลี่ยนการควบคุมมาบน Avatar Zone ฝ่ายเราในสภาพนอน"
+    }
+  },
+  {
+    "ImagePath": "ODY1-029-SR , UR.png",
+    "Name": "ศาลพระภูมิ",
+    "Type": "Avatar",
+    "Cost": 4,
+    "Gem": 1,
+    "Power": 2,
+    "Symbol": "ผี",
+    "Color": "#9900FF",
+    "ซอย": 1,
+    "Print": "ODY1-029",
+    "Rare": "SR , UR",
+    "Details": {
+      "Main Effect": "จุติ : อัญเชิญ Avatar {รูป symbol ผี} จากใน Deck 1 ใบ ลง Avatar Zone ฝ่ายเรา \nต่อเนื่อง  เมื่อมีการ์ด Avatar {รูป symbol ผี}ใบอื่นบน Avatar Zone ฝ่ายเรา อีกฝ่ายจะไม่สามารถเลือก Avatar \"ศาลพระภูมิ\" เป็นเป้าหมายโจมตีได้"
+    }
+  },
+  {
+    "ImagePath": "ODY1-030-C.png",
+    "Name": "นายนิรยบาล \"เต๋า\"",
+    "Type": "Avatar",
+    "Cost": 3,
+    "Gem": 2,
+    "Power": 3,
+    "Symbol": "นรก",
+    "Color": "#9900FF",
+    "ซอย": 1,
+    "Print": "ODY1-030",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "เมื่อการ์ดใบนี้ตกนรกด้วยผลของ ธรณีสูบ : ทั้งสองฝ่าย ธรณีสูบ 2ใบ"
+    }
+  },
+  {
+    "ImagePath": "ODY1-031-C.png",
+    "Name": "นีโม่",
+    "Type": "Avatar",
+    "Cost": 0,
+    "Gem": 3,
+    "Power": 0,
+    "Symbol": "คน",
+    "Color": "#9900FF",
+    "ซอย": 1,
+    "Print": "ODY1-031",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "เมื่อการ์ดใบนี้ตกนรกด้วยผลของ ธรณีสูบ: นำการ์ดใบนี้กลับ Deck แล้วสับ"
+    }
+  },
+  {
+    "ImagePath": "ODY1-032-C.png",
+    "Name": "ยมทูต",
+    "Type": "Avatar",
+    "Cost": 3,
+    "Gem": 2,
+    "Power": 3,
+    "Symbol": "นรก",
+    "Color": "#9900FF",
+    "ซอย": 1,
+    "Print": "ODY1-032",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "จุติ : สอดแนม 5 ใบ  นำการ์ด \"สิมพลีนรก\" 1 ใบ จากที่ สอดแนม ขึ้นมือ นำการ์ดที่เหลือเรียงไว้ใต้ Deck"
+    }
+  },
+  {
+    "ImagePath": "ODY1-033-C.png",
+    "Name": "สารวัตร ตำรวจสัมภเวสี",
+    "Type": "Avatar",
+    "Cost": 4,
+    "Gem": 1,
+    "Power": 4,
+    "Symbol": "ผี",
+    "Color": "#9900FF",
+    "ซอย": 1,
+    "Print": "ODY1-033",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "จุติ : สามารถนำการ์ด \"ตำรวจสัมภเวสี\" 1 ใบ จากใน Deck ฝ่ายเราขึ้นมือ จากนั้นสับ Deck"
+    }
+  },
+  {
+    "ImagePath": "ODY1-034-C , UR.png",
+    "Name": "แรงงานทาสออฟฟิศ",
+    "Type": "Avatar",
+    "Cost": 1,
+    "Gem": 3,
+    "Power": 4,
+    "Symbol": "คน",
+    "Color": "#9900FF",
+    "ซอย": 1,
+    "Print": "ODY1-034",
+    "Rare": "C , UR",
+    "Details": {
+      "Main Effect": "ในช่วง End Phase นำ Avatar ตัวนี้จากสนาม ไปไว้ใต้ Deck"
+    }
+  },
+  {
+    "ImagePath": "ODY1-035-C.png",
+    "Name": "กัปตัน ไกร",
+    "Type": "Avatar",
+    "Cost": 4,
+    "Gem": 2,
+    "Power": 1,
+    "Symbol": "คน",
+    "Color": "#9900FF",
+    "ซอย": 1,
+    "Print": "ODY1-035",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "จุติ (เมื่อ Avatar ตัวนี้ถูกอัญเชิญลงสนามแบบจ่าย Cost) ทิ้งการ์ดทั้งหมดบนมือของเรา เลือก Avatar 1 ใบบนสนามฝ่ายตรงข้าม : นำ Avatar ตัวนั้นกลับขึ้นมือ "
+    }
+  },
+  {
+    "ImagePath": "ODY1-036-C , UR.png",
+    "Name": "นายนิรยบาล พ่อจีจ้า",
+    "Type": "Avatar",
+    "Cost": 4,
+    "Gem": 1,
+    "Power": 3,
+    "Symbol": "นรก",
+    "Color": "#9900FF",
+    "ซอย": 1,
+    "Print": "ODY1-036",
+    "Rare": "C , UR",
+    "Details": {
+      "Main Effect": "เมื่อ Avatar ตัวนี้ เป็นเป้าหมายโจมตีหรือสั่งโจมตี : ธรณีสูบ (ส่งการ์ดใบบนสุดจาก Deck ตกนรก) 2 ใบ POWER +1 จนจบเทิร์น"
+    }
+  },
+  {
+    "ImagePath": "ODY1-037-C.png",
+    "Name": "เด็กหนวด โอเดนย่า",
+    "Type": "Avatar",
+    "Cost": 2,
+    "Gem": 4,
+    "Power": 2,
+    "Symbol": "คน",
+    "Color": "#00FFFF",
+    "ซอย": 1,
+    "Print": "ODY1-037",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": null
+    }
+  },
+  {
+    "ImagePath": "ODY1-038-C.png",
+    "Name": "กัปตันโซเดียม",
+    "Type": "Avatar",
+    "Cost": 1,
+    "Gem": 2,
+    "Power": 3,
+    "Symbol": "คน",
+    "Color": "#9900FF",
+    "ซอย": 1,
+    "Print": "ODY1-038",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": null
+    }
+  },
+  {
+    "ImagePath": "ODY1-039-C , SR.png",
+    "Name": "ตึก",
+    "Type": "Avatar",
+    "Cost": 6,
+    "Gem": 4,
+    "Power": 9,
+    "Symbol": "เครื่องจักร",
+    "Color": "#FF0000",
+    "Ex": "Only#1",
+    "ซอย": 1,
+    "Print": "ODY1-039",
+    "Rare": "C , SR",
+    "Details": {
+      "Main Effect": null
+    }
+  },
+  {
+    "ImagePath": "ODY1-040-C.png",
+    "Name": "พี่โด 2.0",
+    "Type": "Avatar",
+    "Cost": 8,
+    "Gem": 2,
+    "Power": 8,
+    "Symbol": "เครื่องจักร",
+    "Color": "#FF0000",
+    "Ex": "Only#1",
+    "ซอย": 1,
+    "Print": "ODY1-040",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": null
+    }
+  },
+  {
+    "ImagePath": "ODY1-041-C.png",
+    "Name": "ลูกกบ",
+    "Type": "Avatar",
+    "Cost": 1,
+    "Gem": 1,
+    "Power": 1,
+    "Symbol": "สัตว์",
+    "Color": "#FF0000",
+    "ซอย": 1,
+    "Print": "ODY1-041",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": null
+    }
+  },
+  {
+    "ImagePath": "ODY1-042-C.png",
+    "Name": "เทวดาตำรวจ",
+    "Type": "Avatar",
+    "Cost": 2,
+    "Gem": 2,
+    "Power": 2,
+    "Symbol": "เทพ",
+    "Color": "#FF0000",
+    "ซอย": 1,
+    "Print": "ODY1-042",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": null
+    }
+  },
+  {
+    "ImagePath": "ODY1-043-C , SR.png",
+    "Name": "ช่างแอร์ดวงซวย",
+    "Type": "Avatar",
+    "Cost": 0,
+    "Gem": 4,
+    "Power": 0,
+    "Symbol": "เทพ",
+    "Color": "#FF0000",
+    "ซอย": 1,
+    "Print": "ODY1-043",
+    "Rare": "C , SR",
+    "Details": {
+      "Main Effect": null
+    }
+  },
+  {
+    "ImagePath": "ODY1-044-SR.png",
+    "Name": "เทวดาแบงค์",
+    "Type": "Avatar",
+    "Cost": 1,
+    "Gem": 0,
+    "Power": 4,
+    "Symbol": "เทพ",
+    "Color": "#FF0000",
+    "ซอย": 1,
+    "Print": "ODY1-044",
+    "Rare": "SR",
+    "Details": {
+      "Main Effect": null
+    }
+  },
+  {
+    "ImagePath": "ODY1-045-R.png",
+    "Name": "ลูกค้าชาบู",
+    "Type": "Avatar",
+    "Cost": 2,
+    "Gem": 4,
+    "Power": 2,
+    "Symbol": "คน",
+    "Color": "#00FFFF",
+    "ซอย": 1,
+    "Print": "ODY1-045",
+    "Rare": "R",
+    "Details": {
+      "Main Effect": null
+    }
+  },
+  {
+    "ImagePath": "ODY1-046-C.png",
+    "Name": "เจ้าของร้านชาบู",
+    "Type": "Avatar",
+    "Cost": 1,
+    "Gem": 2,
+    "Power": 1,
+    "Symbol": "คน",
+    "Color": "#00FFFF",
+    "ซอย": 1,
+    "Print": "ODY1-046",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": null
+    }
+  },
+  {
+    "ImagePath": "ODY1-047-C.png",
+    "Name": "ครูวีรชัย",
+    "Type": "Avatar",
+    "Cost": 1,
+    "Gem": 3,
+    "Power": 1,
+    "Symbol": "คน",
+    "Color": "#00FFFF",
+    "ซอย": 1,
+    "Print": "ODY1-047",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": null
+    }
+  },
+  {
+    "ImagePath": "ODY1-048-C.png",
+    "Name": "จ่าแดงเดือด",
+    "Type": "Avatar",
+    "Cost": 4,
+    "Gem": 2,
+    "Power": 4,
+    "Symbol": "คน",
+    "Color": "#00FFFF",
+    "ซอย": 1,
+    "Print": "ODY1-048",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": null
+    }
+  },
+  {
+    "ImagePath": "ODY1-049-C , SR.png",
+    "Name": "ครูภาษาไทย",
+    "Type": "Avatar",
+    "Cost": 0,
+    "Gem": 4,
+    "Power": 0,
+    "Symbol": "คน",
+    "Color": "#00FFFF",
+    "ซอย": 1,
+    "Print": "ODY1-049",
+    "Rare": "C , SR ",
+    "Details": {
+      "Main Effect": null
+    }
+  },
+  {
+    "ImagePath": "ODY1-050-C , UR.png",
+    "Name": "เด็กไม่ชอบแมลงสาบมากๆ",
+    "Type": "Avatar",
+    "Cost": 1,
+    "Gem": 0,
+    "Power": 4,
+    "Symbol": "คน",
+    "Color": "#00FFFF",
+    "ซอย": 1,
+    "Print": "ODY1-050",
+    "Rare": "C , UR ",
+    "Details": {
+      "Main Effect": null
+    }
+  },
+  {
+    "ImagePath": "ODY1-051-SR , UR.png",
+    "Name": "รัททาทุย ผู้พิทักษ์ราชีนี",
+    "Type": "Avatar",
+    "Cost": 5,
+    "Gem": 3,
+    "Power": 5,
+    "Symbol": "รัททาทุย",
+    "Color": "#00FFFF",
+    "ซอย": 1,
+    "Print": "ODY1-051",
+    "Rare": "SR , UR",
+    "Details": {
+      "Main Effect": null
+    }
+  },
+  {
+    "ImagePath": "ODY1-052-C.png",
+    "Name": "เฟนริล",
+    "Type": "Avatar",
+    "Cost": 5,
+    "Gem": 3,
+    "Power": 5,
+    "Symbol": "สัตว์",
+    "Color": "#9900FF",
+    "ซอย": 1,
+    "Print": "ODY1-052",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": null
+    }
+  },
+  {
+    "ImagePath": "ODY1-053-C.png",
+    "Name": "จอมมังการ์ด",
+    "Type": "Avatar",
+    "Cost": 5,
+    "Gem": 1,
+    "Power": 6,
+    "Symbol": "สัตว์",
+    "Color": "#9900FF",
+    "ซอย": 1,
+    "Print": "ODY1-053",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": null
+    }
+  },
+  {
+    "ImagePath": "ODY1-054-C , UR.png",
+    "Name": "นายนิรยบาล ตัวใหญ่พิเศษ",
+    "Type": "Avatar",
+    "Cost": 9,
+    "Gem": 4,
+    "Power": 3,
+    "Symbol": "นรก",
+    "Color": "#9900FF",
+    "ซอย": 1,
+    "Print": "ODY1-054",
+    "Rare": "C , UR",
+    "Details": {
+      "Main Effect": null
+    }
+  },
+  {
+    "ImagePath": "ODY1-055-C.png",
+    "Name": "แบงค์ เทคนิคประทุมทู",
+    "Type": "Avatar",
+    "Cost": 4,
+    "Gem": 2,
+    "Power": 4,
+    "Symbol": "คน",
+    "Color": "#9900FF",
+    "ซอย": 1,
+    "Print": "ODY1-055",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": null
+    }
+  },
+  {
+    "ImagePath": "ODY1-056-C , SR.png",
+    "Name": "นายนิรยบาล ปฎิรูป",
+    "Type": "Avatar",
+    "Cost": 1,
+    "Gem": 4,
+    "Power": 1,
+    "Symbol": "นรก",
+    "Color": "#9900FF",
+    "ซอย": 1,
+    "Print": "ODY1-056",
+    "Rare": "C , SR",
+    "Details": {
+      "Main Effect": null
+    }
+  },
+  {
+    "ImagePath": "ODY1-057-C , SR.png",
+    "Name": "นายนิรยบาล ชาวนา",
+    "Type": "Avatar",
+    "Cost": 2,
+    "Gem": 3,
+    "Power": 3,
+    "Symbol": "นรก",
+    "Color": "#9900FF",
+    "ซอย": 1,
+    "Print": "ODY1-057",
+    "Rare": "C , SR",
+    "Details": {
+      "Main Effect": null
+    }
+  },
+  {
+    "ImagePath": "ODY1-058-C , UR.png",
+    "Name": "นายนิรยบาล กล้าม",
+    "Type": "Avatar",
+    "Cost": 4,
+    "Gem": 3,
+    "Power": 4,
+    "Symbol": "นรก",
+    "Color": "#9900FF",
+    "ซอย": 1,
+    "Print": "ODY1-058",
+    "Rare": "C , UR",
+    "Details": {
+      "Main Effect": null
+    }
+  },
+  {
+    "ImagePath": "ODY1-059-SR.png",
+    "Name": "กาลจักร",
+    "Type": "Avatar",
+    "Cost": 3,
+    "Gem": 1,
+    "Power": 3,
+    "Symbol": "ยักษ์",
+    "Color": "#6AA84F",
+    "ซอย": 1,
+    "Print": "ODY1-059",
+    "Rare": "SR",
+    "Details": {
+      "Main Effect": null
+    }
+  },
+  {
+    "ImagePath": "ODY1-060-SR.png",
+    "Name": "โลทัน",
+    "Type": "Avatar",
+    "Cost": 2,
+    "Gem": 2,
+    "Power": 3,
+    "Symbol": "ยักษ์",
+    "Color": "#6AA84F",
+    "ซอย": 1,
+    "Print": "ODY1-060",
+    "Rare": "SR",
+    "Details": {
+      "Main Effect": null
+    }
+  },
+  {
+    "ImagePath": "ODY1-061-SR.png",
+    "Name": "มหิตัน",
+    "Type": "Avatar",
+    "Cost": 3,
+    "Gem": 3,
+    "Power": 3,
+    "Symbol": "ยักษ์",
+    "Color": "#6AA84F",
+    "ซอย": 1,
+    "Print": "ODY1-061",
+    "Rare": "SR",
+    "Details": {
+      "Main Effect": null
+    }
+  },
+  {
+    "ImagePath": "ODY1-062-SR.png",
+    "Name": "พัทธกาล",
+    "Type": "Avatar",
+    "Cost": 0,
+    "Gem": 0,
+    "Power": 3,
+    "Symbol": "ยักษ์",
+    "Color": "#6AA84F",
+    "ซอย": 1,
+    "Print": "ODY1-062",
+    "Rare": "SR",
+    "Details": {
+      "Main Effect": null
+    }
+  },
+  {
+    "ImagePath": "ODY1-063-C.png",
+    "Name": "เอาแค่การ์ด !!!",
+    "Type": "Magic",
+    "SubType": "Normal",
+    "Gem": 2,
+    "Symbol": "จอมเวทย์",
+    "ซอย": 1,
+    "Print": "ODY1-063",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "ทิ้งการ์ด \"โอเดนย่า\" หรือ \"ทาโกะ\" บนมือเรา 1 ใบ : เลือก Avatar 1 ใบบนสนาม ขึ้นมือ เจ้าของ"
+    }
+  },
+  {
+    "ImagePath": "ODY1-064-C.png",
+    "Name": "โอเดนย่า อร่อยมัก",
+    "Type": "Magic",
+    "SubType": "Normal",
+    "Gem": 3,
+    "Symbol": "จอมเวทย์",
+    "ซอย": 1,
+    "Print": "ODY1-064",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "เมื่อ Avatar \"ทาโกะ\" ตกเป็นเป้าหมายการโจมตี : Avatar ใบนั้น POWER +2 จนจบเทิร์น"
+    }
+  },
+  {
+    "ImagePath": "ODY1-065-SR , UR.png",
+    "Name": "ถุงเกราะโอเดนย่า",
+    "Type": "Magic",
+    "SubType": "Normal",
+    "Gem": 1,
+    "Symbol": "จอมเวทย์",
+    "ซอย": 1,
+    "Print": "ODY1-065",
+    "Rare": "SR , UR",
+    "Details": {
+      "Main Effect": "ทำลายการ์ดใบนี้ในสภาพสวมใส่: Avatar ที่เคยสวมใส่การ์ดใบนี้ POWER +2 จนจบเทิร์นถัดไปของฝ่ายตรงข้าม"
+    }
+  },
+  {
+    "ImagePath": "ODY1-066-SR , UR.png",
+    "Name": "ดาว O.D.Y 88",
+    "Type": "Magic",
+    "SubType": "Normal",
+    "Gem": 1,
+    "Symbol": "เครื่องจักร",
+    "ซอย": 1,
+    "Print": "ODY1-066",
+    "Rare": "SR , UR",
+    "Details": {
+      "Main Effect": " POWER +1 ให้ Avatar \"ทาโกะ\" บนสนามทุกใบ"
+    }
+  },
+  {
+    "ImagePath": "ODY1-067-SR , UR.png",
+    "Name": "เมตตาระยะยาว",
+    "Type": "Magic",
+    "SubType": "Normal",
+    "Gem": 0,
+    "Symbol": "เทพ",
+    "ซอย": 1,
+    "Print": "ODY1-067",
+    "Rare": "SR , UR",
+    "Details": {
+      "Main Effect": "ทำลาย Avatar บนสนามอีกฝ่ายทุกใบ"
+    }
+  },
+  {
+    "ImagePath": "ODY1-068-SR , UR.png",
+    "Name": "ความเจริญ",
+    "Type": "Magic",
+    "SubType": "Normal",
+    "Gem": 1,
+    "Symbol": "จอมเวทย์",
+    "ซอย": 1,
+    "Print": "ODY1-068",
+    "Rare": "SR , UR",
+    "Details": {
+      "Main Effect": "จั่วการ์ดจาก Deck 2 ใบ"
+    }
+  },
+  {
+    "ImagePath": "ODY1-069-SR , UR.png",
+    "Name": "ชายจากอนาคต",
+    "Type": "Magic",
+    "SubType": "React",
+    "Gem": 0,
+    "Symbol": "จอมเวทย์",
+    "ซอย": 1,
+    "Print": "ODY1-069",
+    "Rare": "SR , UR",
+    "Details": {
+      "Main Effect": "เมื่อมีการสั่งใช้ Magic Card : ยกเลิกความสามารถ Magic Card ใบนั้น"
+    }
+  },
+  {
+    "ImagePath": "ODY1-070-SR , UR.png",
+    "Name": "ริกกี้ นักปลอมแปลง",
+    "Type": "Magic",
+    "SubType": "React",
+    "Gem": 0,
+    "Symbol": "แมลง",
+    "ซอย": 1,
+    "Print": "ODY1-070",
+    "Rare": "SR , UR",
+    "Details": {
+      "Main Effect": "เมื่อ Avatar บนสนามของเราถูกทำลายจากการต่อสู้ สามารถใช้การ์ดใบนี้ได้ : เปลี่ยนการควบคุม Avatar ที่อยู่ในสภาพนอน จากบนสนามอีกฝ่ายมาบนสนามฝ่ายเรา แล้วนำการ์ดใบนี้ไปเป็นModification Magic ถ้าการ์ดใบนี้ถูกทำลาย ส่ง Avatar กลับขึ้นมือเจ้าของ"
+    }
+  },
+  {
+    "ImagePath": "ODY1-071-C.png",
+    "Name": "ตีแม่",
+    "Type": "Magic",
+    "SubType": "Modification",
+    "Gem": 2,
+    "Symbol": "คน",
+    "ซอย": 1,
+    "Print": "ODY1-071",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "POWER +2 ให้กับ Avatar ที่สวมใส่การ์ดใบนี้ เมื่อการ์ดใบนี้ตกลงสู่นรก หงาย LIFE Card ใบบนสุดของเรา 1 ใบ"
+    }
+  },
+  {
+    "ImagePath": "ODY1-072-C.png",
+    "Name": "ตีพ่อ",
+    "Type": "Magic",
+    "SubType": "Modification",
+    "Gem": 3,
+    "Symbol": "คน",
+    "Ex": " #Only 1",
+    "ซอย": 1,
+    "Print": "ODY1-072",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "ใน Battle Phase ถ้า Avatar ที่สวมใส่การ์ดใบนี้ทำลาย Avatar อีกฝ่ายสำเร็จ : สามารถกลับมาสภาพตื่นได้ 1 ครั้ง เมื่อการ์ดใบนี้ตกลงสู่นรก หงาย LIFE Card ใบบนสุดของเรา 1 ใบ"
+    }
+  },
+  {
+    "ImagePath": "ODY1-073-C , SR.png",
+    "Name": "หมอมาแล้วววว",
+    "Type": "Magic",
+    "SubType": "React",
+    "Gem": 3,
+    "Symbol": "จอมเวทย์",
+    "ซอย": 1,
+    "Print": "ODY1-073",
+    "Rare": "C , SR",
+    "Details": {
+      "Main Effect": "เมื่อ Avatar จะถูกทำลาย : Avatar ตัวนั้นจะไม่ถูกทำลาย"
+    }
+  },
+  {
+    "ImagePath": "ODY1-074-C.png",
+    "Name": "โรงบาล",
+    "Type": "Magic",
+    "SubType": "Land",
+    "Gem": 2,
+    "Symbol": "จอมเวทย์",
+    "ซอย": 1,
+    "Print": "ODY1-074",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "เทิร์นละครั้ง สามารถทิ้งการ์ดจากมือ 1 ใบ : เลือกการ์ด Avatar จากในนรก 1 ใบที่ Cost ไม่เกิน 3 ขึ้นมือได้    ในเทิร์นนี้การ์ดที่ขึ้นมือจากความสามารถ\"โรงบาล\"จะไม่สามารถอัญเชิญและไม่สามารถใช้ความสามารถได้ รวมถึงการ์ดชื่อเดียวกันกับที่ขึ้นมือทั้งหมด "
+    }
+  },
+  {
+    "ImagePath": "ODY1-075-SR.png",
+    "Name": "น้ำแดง",
+    "Type": "Magic",
+    "SubType": "Modification",
+    "Gem": 1,
+    "Symbol": "จอมเวทย์",
+    "ซอย": 1,
+    "Print": "ODY1-075",
+    "Rare": "SR",
+    "Details": {
+      "Main Effect": " Avatar ที่สวมใส่การ์ดใบนี้ POWER +1"
+    }
+  },
+  {
+    "ImagePath": "ODY1-076-SR.png",
+    "Name": "ไม้เกาหลัง",
+    "Type": "Magic",
+    "SubType": "Modification",
+    "Gem": 2,
+    "Symbol": "รักททาทุย",
+    "ซอย": 1,
+    "Print": "ODY1-076",
+    "Rare": "SR",
+    "Details": {
+      "Main Effect": "Avatar ที่สวมใส่การ์ดใบนี้ได้รับความสามรถ เตะไข่ "
+    }
+  },
+  {
+    "ImagePath": "ODY1-077-SR.png",
+    "Name": "หอกแหลมแทงทุกวัน ทุกวัน",
+    "Type": "Magic",
+    "SubType": "Modification",
+    "Gem": 1,
+    "Symbol": "นรก",
+    "ซอย": 1,
+    "Print": "ODY1-077",
+    "Rare": "SR",
+    "Details": {
+      "Main Effect": " POWER +1 ให้ Avatar {รูป Symbol นรก} ที่สวมใส่\nถ้าการ์ดใบนี้ถูกส่งลงนรกด้วยผลของ ธรณีสูบ : สามารถใช้งานการ์ดใบนี้จากนรกได้"
+    }
+  },
+  {
+    "ImagePath": "ODY1-078-C.png",
+    "Name": "เพื่อลูกค้า",
+    "Type": "Magic",
+    "SubType": "Normal",
+    "Gem": 1,
+    "Symbol": "จอมเวทย์",
+    "Ex": "Only #1",
+    "ซอย": 1,
+    "Print": "ODY1-078",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "เซ่นไหว์ Avatar \"Symbol สัตว์\" บนสนามเรา 1 ใบ : จั่วการ์ดจาก Deck 3 ใบ แต่เทิร์นนี้จะอัญเชิญได้แค่ Avatar \"Symbol สัตว์\""
+    }
+  },
+  {
+    "ImagePath": "ODY1-079-C.png",
+    "Name": "น้ำชูกำลัง",
+    "Type": "Magic",
+    "SubType": "Modification",
+    "Gem": 1,
+    "Symbol": "จอมเวทย์",
+    "Ex": "Only #1",
+    "ซอย": 1,
+    "Print": "ODY1-079",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "Avatar ที่สวมใส่การ์ดใบนี้จะกลับมาเป็นสภาพตื่น ตอน End Phase "
+    }
+  },
+  {
+    "ImagePath": "ODY1-080-C.png",
+    "Name": "รั้วของชาติ",
+    "Type": "Magic",
+    "SubType": "Modification",
+    "Gem": 2,
+    "Symbol": "จอมเวทย์",
+    "ซอย": 1,
+    "Print": "ODY1-080",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "Avatar ที่สวมใส่การ์ดใบนี้ได้รับความสามารถ โล่มนุษย์ "
+    }
+  },
+  {
+    "ImagePath": "ODY1-081-C.png",
+    "Name": "เขาไกรลาสเอียง",
+    "Type": "Magic",
+    "SubType": "Land",
+    "Gem": 1,
+    "Symbol": "เทพ",
+    "ซอย": 1,
+    "Print": "ODY1-081",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "เมื่อมีการประกาศโจมตี : ฝ่ายที่ประกาศโจมตี ธรณีสูบ 2 ใบ"
+    }
+  },
+  {
+    "ImagePath": "ODY1-082-C.png",
+    "Name": "ทุ่งนาแดนนี้(ไม่มีความหมาย)",
+    "Type": "Magic",
+    "SubType": "Land",
+    "Gem": 2,
+    "Symbol": "จอมเวทย์",
+    "ซอย": 1,
+    "Print": "ODY1-082",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "Avatar เผ่าแมลง สัตว์ รัททาทุย และมนุษย์ POWER +1"
+    }
+  },
+  {
+    "ImagePath": "ODY1-083-C.png",
+    "Name": "มวยทะเลลลลลล",
+    "Type": "Magic",
+    "SubType": "Land",
+    "Gem": 1,
+    "Symbol": "คาถาฤๅษี",
+    "ซอย": 1,
+    "Print": "ODY1-083",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "ต่างฝ่ายต่างสั่ง Avatar โจมตีได้แค่ 1 ตัวต่อเทิร์น โดยที่การ์ดใบนี้จะอยู่บนสนามได้แค่ 4 เทิร์น"
+    }
+  },
+  {
+    "ImagePath": "ODY1-084-C , UR.png",
+    "Name": "เจ้ากล้าดียังไง",
+    "Type": "Magic",
+    "SubType": "React",
+    "Gem": 2,
+    "Symbol": "เทพ",
+    "ซอย": 1,
+    "Print": "ODY1-084",
+    "Rare": "C , UR",
+    "Details": {
+      "Main Effect": "เมื่อฝ่ายตรงข้ามประกาศโจมตี : เลือก Avatar ที่ประกาศโจมตีและส่งลงนรก"
+    }
+  },
+  {
+    "ImagePath": "ODY1-085-SR.png",
+    "Name": "ประมาทร่วม",
+    "Type": "Magic",
+    "SubType": "Normal",
+    "Gem": 1,
+    "Symbol": "จอมเวทย์",
+    "ซอย": 1,
+    "Print": "ODY1-085",
+    "Rare": "SR",
+    "Details": {
+      "Main Effect": "ทั้งสองฝ่ายธรณีสูบ (ส่งการ์ดใบบนสุดจาก Deck ตกนรก) 3 ใบ"
+    }
+  },
+  {
+    "ImagePath": "ODY1-086-SR , UR.png",
+    "Name": "ความกล้าหาญ",
+    "Type": "Magic",
+    "SubType": "Normal",
+    "Gem": 4,
+    "Symbol": "จอมเวทย์",
+    "ซอย": 1,
+    "Print": "ODY1-086",
+    "Rare": "SR , UR",
+    "Details": {
+      "Main Effect": "เลือก Avatar บนสนามเรา 1 ใบ POWER +4 และจะถูกทำลายในตอน End Phase "
+    }
+  },
+  {
+    "ImagePath": "ODY1-087-C.png",
+    "Name": "เคี้ยวเพื่อนเธอซะ",
+    "Type": "Magic",
+    "SubType": "React",
+    "Gem": 3,
+    "Symbol": "สัตว์",
+    "ซอย": 1,
+    "Print": "ODY1-087",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "เทิร์นละครั้ง สั่งใช้ ถ้าในเทิร์นนี้ยังไม่ได้ใช้ Modification Magic : ในเทิร์นนี้สามารถใช้ Modification Magic \"อาวุธหุ่นนักรบผู้กล้า\" ได้ 2 ใบ และจะไม่สามารถใช้ Modification Magic ที่ไม่ใช่ \"อาวุธหุ่นนักรบผู้กล้า\" ได้"
+    }
+  },
+  {
+    "ImagePath": "ODY1-088-C.png",
+    "Name": "ความยุติธรรมสำหรับนนทก",
+    "Type": "Magic",
+    "SubType": "Normal",
+    "Gem": 1,
+    "Symbol": "จอมเวทย์",
+    "ซอย": 1,
+    "Print": "ODY1-088",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "ทิ้ง Avatar {รูป symbol เทพ} จากบนมือ 1 ใบ : จั่วการ์ด 2 ใบ"
+    }
+  },
+  {
+    "ImagePath": "ODY1-089-C.png",
+    "Name": "บำเพ็ญประโยชน์",
+    "Type": "Magic",
+    "SubType": "Normal",
+    "Gem": 1,
+    "Symbol": "จอมเวทย์",
+    "ซอย": 1,
+    "Print": "ODY1-089",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "ส่ง Avatar ชื่อ \"กุ่ย\",\"ฮอล\" หรือ \"นาย\" 1 ใบ จากบนมือลงนรก : จั่วการ์ด 2 ใบ"
+    }
+  },
+  {
+    "ImagePath": "ODY1-090-C.png",
+    "Name": "กระทะทองแดง",
+    "Type": "Magic",
+    "SubType": "Land",
+    "Gem": 1,
+    "Symbol": "นรก",
+    "ซอย": 1,
+    "Print": "ODY1-090",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "ส่ง Avatar {รูป Symbol นรก} 1 ใบจากมือลงนรก : ธรณีสูบ (ส่งการ์ดใบบนสุดจาก Deck ตกนรก) 2 ใบ แล้ว จั่วการ์ดจาก Deck 2 ใบ"
+    }
+  }
+]

@@ -1,0 +1,127 @@
+[
+  {
+    "ImagePath": "SL01-001-USEC.png",
+    "Name": "นางมณโฑ",
+    "Type": "Avatar",
+    "Cost": 4,
+    "Gem": 2,
+    "Power": 3,
+    "Symbol": "คน",
+    "Color": "#00FF00",
+    "ซอย": 1,
+    "Print": "SL01-001",
+    "Rare": "USEC",
+    "Details": {
+      "Main Effect": "จุติ เลือก Avatar Symbol {ยักษ์} ที่ POWER ไม่เกิน 3 ในนรกฝ่ายเรา 1 ใบ : อัญเชิญ Avatar ใบนั้นลงบน Avatar Zone ฝ่ายเรา"
+    }
+  },
+  {
+    "ImagePath": "SL01-002-USEC.png",
+    "Name": "ทศกัณฐ์ยักษ์ที่---เมียพระอิศวร",
+    "Type": "Avatar",
+    "Cost": 4,
+    "Gem": 3,
+    "Power": 5,
+    "Symbol": "ยักษ์ ",
+    "Color": "#9900FF",
+    "Ex": "Only #1",
+    "ซอย": 1,
+    "Print": "SL01-002",
+    "Rare": "USEC",
+    "Details": {
+      "Main Effect": "จุติ (เมื่อ Avatar ใบนี้ถูกอัญเชิญลงสนามแบบจ่ายCost) : สามารถเลือก Avatar บน Avatar Zone ฝ่ายตรงข้าม 1 ใบ เปลี่ยนการควบคุมมาบน Avatar Zone ฝ่ายเราในสภาพนอน"
+    }
+  },
+  {
+    "ImagePath": "SL01-003-USEC.png",
+    "Name": "พระอิศวร",
+    "Type": "Avatar",
+    "Cost": 6,
+    "Gem": 2,
+    "Power": 5,
+    "Symbol": "เทพ",
+    "Color": "#FF0000",
+    "ซอย": 1,
+    "Print": "SL01-003",
+    "Rare": "USEC",
+    "Details": {
+      "Main Effect": "จุติ (เมื่อ Avatar ตัวนี้ถูกอัญเชิญลงสนามแบบจ่าย Cost) : เลือก Avatar 1 ใบ POWER -4 จนจบเทิร์น"
+    }
+  },
+  {
+    "ImagePath": "SL01-004-USEC.png",
+    "Name": "พระนารายณ์ ",
+    "Type": "Avatar",
+    "Cost": 4,
+    "Gem": 1,
+    "Power": 4,
+    "Symbol": "เทพ",
+    "Color": "#FF0000",
+    "ซอย": 1,
+    "Print": "SL01-004",
+    "Rare": "USEC",
+    "Details": {
+      "Main Effect": "อัตโนมัติ เมื่อ Avatar ใบนี้โจมตี : POWER +2 จนจบเทิร์น"
+    }
+  },
+  {
+    "ImagePath": "SL01-005-USEC.png",
+    "Name": "พระอินทร์",
+    "Type": "Avatar",
+    "Cost": 2,
+    "Gem": 2,
+    "Power": 2,
+    "Symbol": "เทพ",
+    "Color": "#FF0000",
+    "ซอย": 1,
+    "Print": "SL01-005",
+    "Rare": "USEC",
+    "Details": {
+      "Main Effect": "จุติ (เมื่อ Avatar ตัวนี้ถูกอัญเชิญลงสนามแบบจ่าย Cost) : เลือก Avatar 1 ใบ POWER +3 จนจบเทิร์น"
+    }
+  },
+  {
+    "ImagePath": "SL01-006-USEC.png",
+    "Name": "พระพรหม",
+    "Type": "Avatar",
+    "Cost": 8,
+    "Gem": 2,
+    "Power": 6,
+    "Symbol": "เทพ",
+    "Color": "#FF0000",
+    "ซอย": 1,
+    "Print": "SL01-006",
+    "Rare": "USEC",
+    "Details": {
+      "Main Effect": "จุติ (เมื่อ Avatar ตัวนี้ถูกอัญเชิญลงสนามแบบจ่ายCost) เซ่นไหว้ (ทำลาย Avatar จาก Avatar Zone ลงนรก)  Avatar ฝ่ายเรา 1 ใบ : อัญเชิญ จุติ Avatar จากนรกของเราที่มี Symbol เดียวกับใบที่ เซ่นไหว้ ไป แต่ชื่อไม่ซ้ำกับใบที่ เซ่นไหว้ไป Cost ไม่เกิน 8 ลงบน Avatar Zone ฝ่ายเรา "
+    }
+  },
+  {
+    "ImagePath": "SL01-007-USEC.png",
+    "Name": "ชายจากอนาคต",
+    "Type": "Magic",
+    "SubType": "React",
+    "Gem": 0,
+    "Symbol": "จอมเวทย์",
+    "ซอย": 1,
+    "Print": "SL01-007",
+    "Rare": "USEC",
+    "Details": {
+      "Main Effect": "เมื่อมีการใช้ Magic Card : ยกเลิกการใช้ Magic Card ใบนั้น"
+    }
+  },
+  {
+    "ImagePath": "SL01-008-USEC.png",
+    "Name": "เลือกมันสำหรับพวก จน !!!",
+    "Type": "Magic",
+    "SubType": "Normal",
+    "Gem": 1,
+    "Symbol": "จอมเวทย์",
+    "ซอย": 1,
+    "Print": "SL01-008",
+    "Rare": "USEC",
+    "Details": {
+      "Main Effect": "เลือกปฏิบัติ :\n1) นำ Avatar Cost 5 หรือต่ำกว่า จาก นรก ฝ่ายเรา  ขึ้นมือ 1 ใบ ยกเว้นการ์ด Only 1 \n2) นำ Avatar ที่มี Cost 5 หรือต่ำกว่า จาก Deck ฝ่ายเรา ขึ้นมือ 1 ใบ ยกเว้นการ์ด  Only 1 แล้วสับ Deck \nถ้า Life Card ของเราถูกหงายตั้งแต่ 4 ใบขึ้นไปและหงายมากกว่าฝ่ายตรงข้าม ทำความสามารถ 1) และ 2)"
+    }
+  }
+]
