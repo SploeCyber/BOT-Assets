@@ -1,0 +1,407 @@
+[
+  {
+    "ImagePath": "SD03-001-SR.png",
+    "Name": "พญายม",
+    "Type": "Avatar",
+    "Cost": 5,
+    "Gem": 1,
+    "Power": 5,
+    "Symbol": "นรก",
+    "Color": "#9900FF",
+    "ซอย": 1,
+    "Print": "SD03-001",
+    "Rare": "SR",
+    "Details": {
+      "Main Effect": "จุติ (เมื่อ Avatar ตัวนี้ถูกอัญเชิญลงสนามแบบจ่าย Cost) : เลือก Avatar \"นายนิรยบาล\" ในนรกเรา 1 ใบ อัญเชิญลง Avatar Zone ฝ่ายเรา"
+    }
+  },
+  {
+    "ImagePath": "SD03-002-C.png",
+    "Name": "นายนิรยบาล พ่อจีจ้า",
+    "Type": "Avatar",
+    "Cost": 4,
+    "Gem": 1,
+    "Power": 3,
+    "Symbol": "นรก",
+    "Color": "#9900FF",
+    "ซอย": 1,
+    "Print": "SD03-002",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "อัตโนมัติ เมื่อ Avatar ใบนี้เป็นเป้าหมายโจมตีหรือสั่งโจมตี : ธรณีสูบ (ส่งการ์ดใบบนสุดจาก Deck ตกนรก) 2 ใบ POWER +1 จนจบเทิร์น"
+    }
+  },
+  {
+    "ImagePath": "SD03-003-C.png",
+    "Name": "นายนิรยบาล แว่น",
+    "Type": "Avatar",
+    "Cost": 0,
+    "Gem": 1,
+    "Power": 4,
+    "Symbol": "นรก",
+    "Color": "#9900FF",
+    "ซอย": 1,
+    "Print": "SD03-003",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "\nถ้าการ์ดใบนี้ถูกส่งลงนรกด้วยผลของ ธรณีสูบ (ส่งการ์ดใบบนสุดจาก Deck ตกนรก) : สามารถอัญเชิญการ์ดใบนี้ลง Avatar Zone จากนรกได้\n#การ์ดใบนี้ไม่สามารถลงสนามจากบนมือได้"
+    }
+  },
+  {
+    "ImagePath": "SD03-004-C.png",
+    "Name": "นายนิรยบาล อ้วน",
+    "Type": "Avatar",
+    "Cost": 2,
+    "Gem": 2,
+    "Power": 2,
+    "Symbol": "นรก",
+    "Color": "#9900FF",
+    "ซอย": 1,
+    "Print": "SD03-004",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "ต่อเนื่อง ตราบเท่าที่การ์ดใบนี้อยู่บน Avatar Zone แล้วมีการ ธรณีสูบ (ส่งการ์ดใบบนสุดจาก Deck ตกนรก) จากความสามารถของการ์ดฝ่ายเรา ยกเว้น \"นายนิรยบาล อ้วน\"  ธรณีสูบ เพิ่ม 2 ใบ"
+    }
+  },
+  {
+    "ImagePath": "SD03-005-UR.png",
+    "Name": "สุวาน",
+    "Type": "Avatar",
+    "Cost": 5,
+    "Gem": 4,
+    "Power": 0,
+    "Symbol": "นรก",
+    "Color": "#9900FF",
+    "Ex": "Only #1",
+    "ซอย": 1,
+    "Print": "SD03-005",
+    "Rare": "UR",
+    "Details": {
+      "Main Effect": "ต่อเนื่อง Avatar ใบนี้จะ เพื่ม POWER ตามจำนวน Avatar \"นายนิรยบาล\" ที่ชื่อต่างกันในนรกเราชื่อละ 1"
+    }
+  },
+  {
+    "ImagePath": "SD03-005-PR.png",
+    "Name": "สุวาน",
+    "Type": "Avatar",
+    "Cost": 5,
+    "Gem": 4,
+    "Power": 0,
+    "Symbol": "นรก",
+    "Color": "#9900FF",
+    "Ex": "Only #1",
+    "ซอย": 1,
+    "Print": "SD03-005",
+    "Rare": "PR",
+    "Details": {
+      "Main Effect": "Avatar ใบนี้จะ เพื่ม POWER ตามจำนวน Avatar \"นายนิรยบาล\" ที่ชื่อต่างกันในนรกตัวละ 1"
+    }
+  },
+  {
+    "ImagePath": "SD03-005-PR.png",
+    "Name": "สุวาน",
+    "Type": "Avatar",
+    "Cost": 5,
+    "Gem": 4,
+    "Power": 0,
+    "Symbol": "นรก",
+    "Color": "#9900FF",
+    "Ex": "Only #1",
+    "ซอย": 1,
+    "Print": "SD03-005",
+    "Rare": "PR",
+    "Details": {
+      "Main Effect": "Avatar ใบนี้จะ เพื่ม POWER ตามจำนวน Avatar \"นายนิรยบาล\" ที่ชื่อต่างกันในนรกตัวละ 1"
+    }
+  },
+  {
+    "ImagePath": "SD03-006-C.png",
+    "Name": "นายนิรยบาล ชาวนา",
+    "Type": "Avatar",
+    "Cost": 2,
+    "Gem": 3,
+    "Power": 3,
+    "Symbol": "นรก",
+    "Color": "#9900FF",
+    "ซอย": 1,
+    "Print": "SD03-006",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": null
+    }
+  },
+  {
+    "ImagePath": "SD03-007-C.png",
+    "Name": "นายนิรยบาล ปฎิรูป",
+    "Type": "Avatar",
+    "Cost": 1,
+    "Gem": 4,
+    "Power": 1,
+    "Symbol": "นรก",
+    "Color": "#9900FF",
+    "ซอย": 1,
+    "Print": "SD03-007",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": null
+    }
+  },
+  {
+    "ImagePath": "SD03-008-C.png",
+    "Name": "นายนิรยบาล กล้าม",
+    "Type": "Avatar",
+    "Cost": 4,
+    "Gem": 3,
+    "Power": 4,
+    "Symbol": "นรก",
+    "Color": "#9900FF",
+    "ซอย": 1,
+    "Print": "SD03-008",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": null
+    }
+  },
+  {
+    "ImagePath": "SD03-009-C.png",
+    "Name": "นายนิรยบาล แบงค์",
+    "Type": "Avatar",
+    "Cost": 3,
+    "Gem": 3,
+    "Power": 3,
+    "Symbol": "นรก",
+    "Color": "#9900FF",
+    "ซอย": 1,
+    "Print": "SD03-009",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": null
+    }
+  },
+  {
+    "ImagePath": "SD03-010-C.png",
+    "Name": "แม่นีโม่ขยับไม่ได้",
+    "Type": "Avatar",
+    "Cost": 0,
+    "Gem": 3,
+    "Power": 0,
+    "Symbol": "คน",
+    "Color": "#9900FF",
+    "ซอย": 1,
+    "Print": "SD03-010",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": null
+    }
+  },
+  {
+    "ImagePath": "SD03-011-C.png",
+    "Name": "ปื้ด คนดี",
+    "Type": "Avatar",
+    "Cost": 3,
+    "Gem": 2,
+    "Power": 3,
+    "Symbol": "นรก",
+    "Color": "#9900FF",
+    "ซอย": 1,
+    "Print": "SD03-011",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": null
+    }
+  },
+  {
+    "ImagePath": "SD03-012-C.png",
+    "Name": "พวกบาปหนา",
+    "Type": "Avatar",
+    "Cost": 1,
+    "Gem": 0,
+    "Power": 3,
+    "Symbol": "นรก",
+    "Color": "#9900FF",
+    "ซอย": 1,
+    "Print": "SD03-012",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": null
+    }
+  },
+  {
+    "ImagePath": "SD03-013-C.png",
+    "Name": "เจ้าที่",
+    "Type": "Avatar",
+    "Cost": 0,
+    "Gem": 1,
+    "Power": 1,
+    "Symbol": "ผี",
+    "Color": "#9900FF",
+    "ซอย": 1,
+    "Print": "SD03-013",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": null
+    }
+  },
+  {
+    "ImagePath": "SD03-014-C.png",
+    "Name": "ตำรวจสัมภเวสี ปวิณ",
+    "Type": "Avatar",
+    "Cost": 2,
+    "Gem": 2,
+    "Power": 3,
+    "Symbol": "ผี",
+    "Color": "#9900FF",
+    "ซอย": 1,
+    "Print": "SD03-014",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": null
+    }
+  },
+  {
+    "ImagePath": "SD03-015-C.png",
+    "Name": "ตำรวจสัมภเวสี นิวัต",
+    "Type": "Avatar",
+    "Cost": 2,
+    "Gem": 3,
+    "Power": 2,
+    "Symbol": "ผี",
+    "Color": "#9900FF",
+    "ซอย": 1,
+    "Print": "SD03-015",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": null
+    }
+  },
+  {
+    "ImagePath": "SD03-016-C.png",
+    "Name": "กระทะทองแดง",
+    "Type": "Magic",
+    "SubType": "Normal",
+    "Gem": 1,
+    "Symbol": "นรก",
+    "ซอย": 1,
+    "Print": "SD03-016",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "ส่ง Avatar {รูป Symbol นรก} 1 ใบจากมือลงนรก : ธรณีสูบ (ส่งการ์ดใบบนสุดจาก Deck ตกนรก) 2 ใบ แล้วจั่วการ์ดจาก Deck 2 ใบ"
+    }
+  },
+  {
+    "ImagePath": "SD03-017-C.png",
+    "Name": "บัญชีหนังหมา",
+    "Type": "Magic",
+    "SubType": "Normal",
+    "Gem": 1,
+    "Symbol": "นรก",
+    "ซอย": 1,
+    "Print": "SD03-017",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "นำ Avatar \"นายนิรยบาล\" Cost 4 หรือต่ำกว่า 1 ใบจาก Deck ขึ้นมือหลังจากนั้นสับ Deck  จนกว่าจะจบเกมนี้ Avatar ชื่อที่นำขึ้นมือมาด้วยความสามารถของการ์ดใบนี้จะไม่สามารถใช้เป็น Cost ในการอัญเชิญได้"
+    }
+  },
+  {
+    "ImagePath": "SD03-018-C.png",
+    "Name": "หอกแหลมแทง ทุกวันทุกวัน",
+    "Type": "Magic",
+    "SubType": "Modification",
+    "Gem": 1,
+    "Symbol": "นรก",
+    "ซอย": 1,
+    "Print": "SD03-018",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "POWER +1 ให้ Avatar {รูป Symbol นรก} ที่สวมใส่\nถ้าการ์ดใบนี้ถูกส่งลงนรกด้วยผลของ ธรณีสูบ (ส่งการ์ดใบบนสุดจาก Deck ตกนรก) และในเทิร์นนี้ยังไม่ได้ใช้ Modification Magic : สามารถใช้งานการ์ดใบนี้จากนรกได้"
+    }
+  },
+  {
+    "ImagePath": "SD03-019-SR.png",
+    "Name": "สิมพลีนรก",
+    "Type": "Magic",
+    "SubType": "Land",
+    "Gem": 2,
+    "Symbol": "นรก",
+    "ซอย": 1,
+    "Print": "SD03-019",
+    "Rare": "SR",
+    "Details": {
+      "Main Effect": " POWER +1 ให้ Avatar {รูป Symbol นรก} ทุกใบบนสนาม\n"
+    }
+  },
+  {
+    "ImagePath": "SD03-020-C.png",
+    "Name": "จิ้มมันเลย จิ้ม!",
+    "Type": "Magic",
+    "SubType": "React",
+    "Gem": 2,
+    "Symbol": "นรก",
+    "ซอย": 1,
+    "Print": "SD03-020",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "เมื่อมี Avatar อัญเชิญมาบนสนาม ทิ้ง Avatar {รูป Symbol นรก} 1 ใบจากมือลงนรก ที่ Cost มากกว่าหรือเท่ากับ Avatar ใบนั้น : ธรณีสูบ (ส่งการ์ดใบบนสุดจาก Deck ตกนรก) 2 ใบ และ ทำลาย Avatar ใบนั้น"
+    }
+  },
+  {
+    "ImagePath": "SD03-021-C.png",
+    "Name": "ไม่นะ แม่นีโม่ !",
+    "Type": "Life",
+    "ซอย": 1,
+    "Print": "SD03-021",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "เมื่อการ์ดใบนี้ถูกหงายจากการโจมตี : ใน main phase ถัดไป จั่วการ์ด 1 ใบ",
+      "Favor Text": "แม่ของนีโม่ทนทุกข์มานานหลายปี ตั้งแต่ที่ต้องแต่งงานกับผัวขี้เหล้าที่ทิ้งเธอและลูกตั้งแต่นีโม่ยังเล็กและอุบัติเหตุบนทางด่วนอีกที่ทำให้เธอขยับไม่ได้ และนี้สินะคือวิธีส่งเธอไปสบายของคุณ\n"
+    }
+  },
+  {
+    "ImagePath": "SD03-022-C.png",
+    "Name": "ไม่นะ เต๋า !",
+    "Type": "Life",
+    "ซอย": 1,
+    "Print": "SD03-022",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "เมื่อการ์ดใบนี้ถูกหงายจากการโจมตี : ใน main phase ถัดไป จั่วการ์ด 1 ใบ",
+      "Favor Text": "นายนิรยบาลเต๋า เขาอาจจะทำงานในนรกคุณเลยไม่ได้คิดไรมากที่จะส่งเขาไปตาย แต่เต๋าก็มีชีวิตและมีความฝันที่จะออกไปจากวงจรนรกเหมือนคนอื่นๆเหมือนกัน\n"
+    }
+  },
+  {
+    "ImagePath": "SD03-023-C.png",
+    "Name": "ไม่นะ ไอ้ดำ !",
+    "Type": "Life",
+    "ซอย": 1,
+    "Print": "SD03-023",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "เมื่อการ์ดใบนี้ถูกหงายจากการโจมตี : ใน main phase ถัดไป จั่วการ์ด 1 ใบ",
+      "Favor Text": "มึงปล่อยไอ้ดำตาย! อันนี้กุโกรธยิ่งกว่ามึงปล่อยหลวงพ่อตายอีก ทำไมวะเพราะว่าหมามันไม่ฟ้องมึงกลับหรอมึงเลยปล่อยหมาตายเป็นเรื่องเล่นอ่ะ?\n"
+    }
+  },
+  {
+    "ImagePath": "SD03-024-C.png",
+    "Name": "ไม่นะ แบงค์ !",
+    "Type": "Life",
+    "ซอย": 1,
+    "Print": "SD03-024",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "เมื่อการ์ดใบนี้ถูกหงายจากการโจมตี : ใน main phase ถัดไป จั่วการ์ด 1 ใบ",
+      "Favor Text": "ไม่นะแบงค์! ไอ้แบงค์เป็นเพื่อนพี่สาวผมสมัยมหาลัยที่มักจะทำตัวน่าเกลียด แต่ทั้งหมดนั้นก็เพื่อสร้างเสียงหัวเราะเพื่อทุกคน และตอนนี้ ไม่มีใครขำแล้ว\n"
+    }
+  },
+  {
+    "ImagePath": "SD03-025-C.png",
+    "Name": "ไม่นะ พญายม !",
+    "Type": "Life",
+    "ซอย": 1,
+    "Print": "SD03-025",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "เมื่อการ์ดใบนี้ถูกหงายจากการโจมตี : ใน main phase ถัดไป จั่วการ์ด 1 ใบ",
+      "Favor Text": "อันนี้ผมยินดีด้วย คุณเพิ่งฆ่าเผด็จการนรกที่ชอบใช้มาตราฐานตนเองมาตัดสินคนอื่น และตอนนี้นรกจะได้จัดการเลือกตั้งครั้งแรกตามวิถีประชาธิปไตย\n"
+    }
+  }
+]

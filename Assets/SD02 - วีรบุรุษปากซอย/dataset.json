@@ -1,0 +1,407 @@
+[
+  {
+    "ImagePath": "SD02-001-C.png",
+    "Name": "กุ่ย",
+    "Type": "Avatar",
+    "Cost": 2,
+    "Gem": 2,
+    "Power": 2,
+    "Symbol": "คน",
+    "Color": "#00FFFF",
+    "ซอย": 1,
+    "Print": "SD02-001",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "สามัคคี (เปลี่ยนการ์ดนี้ที่อยู่บน Avatar Zone ในสภาพตื่นเป็นสภาพนอนบน และนำ POWER การ์ดนี้ไปเพิ่มให้กับ  Avatar ที่สั่งโจมตี จนจบการต่อสู้นั้น)\nจุติ (เมื่อ Avatar ตัวนี้ถูกอัญเชิญลงสนามแบบจ่าย Cost) : นำ Avatar ชื่อ \"ฮอล\" 1 ใบจาก Deck ขึ้นมือ หลังจากนั้นสับ Deck"
+    }
+  },
+  {
+    "ImagePath": "SD02-002-C.png",
+    "Name": "ฮอล",
+    "Type": "Avatar",
+    "Cost": 2,
+    "Gem": 2,
+    "Power": 2,
+    "Symbol": "คน",
+    "Color": "#00FFFF",
+    "ซอย": 1,
+    "Print": "SD02-002",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "สามัคคี (เปลี่ยนการ์ดนี้ที่อยู่บน Avatar Zone ในสภาพตื่นเป็นสภาพนอนบน และนำ POWER การ์ดนี้ไปเพิ่มให้กับ  Avatar ที่สั่งโจมตี จนจบการต่อสู้นั้น)\nจุติ (เมื่อ Avatar ตัวนี้ถูกอัญเชิญลงสนามแบบจ่าย Cost) : นำ Avatar ชื่อ \"นาย\" 1 ใบจาก Deck ขึ้นมือ หลังจากนั้นสับ Deck"
+    }
+  },
+  {
+    "ImagePath": "SD02-003-C.png",
+    "Name": "นาย",
+    "Type": "Avatar",
+    "Cost": 2,
+    "Gem": 2,
+    "Power": 2,
+    "Symbol": "คน",
+    "Color": "#00FFFF",
+    "ซอย": 1,
+    "Print": "SD02-003",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "สามัคคี (เปลี่ยนการ์ดนี้ที่อยู่บน Avatar Zone ในสภาพตื่นเป็นสภาพนอนบน และนำ POWER การ์ดนี้ไปเพิ่มให้กับ  Avatar ที่สั่งโจมตี จนจบการต่อสู้นั้น)\nจุติ (เมื่อ Avatar ตัวนี้ถูกอัญเชิญลงสนามแบบจ่าย Cost) : นำ Avatar ชื่อ \"กุ่ย\" 1 ใบจาก Deck ขึ้นมือ หลังจากนั้นสับ Deck"
+    }
+  },
+  {
+    "ImagePath": "SD02-004-SR.png",
+    "Name": "ริกกี้ เพื่อนรัก",
+    "Type": "Avatar",
+    "Cost": 3,
+    "Gem": 2,
+    "Power": 1,
+    "Symbol": "แมลง",
+    "Color": "#00FFFF",
+    "ซอย": 1,
+    "Print": "SD02-004",
+    "Rare": "SR",
+    "Details": {
+      "Main Effect": "จุติ (เมื่อ Avatar ตัวนี้ถูกอัญเชิญลงสนามแบบจ่าย Cost) : นำการ์ดชื่อ \"กุ่ย\" , \"ฮอล\" หรือ \"นาย\" ได้สูงสุด 3 ใบ จากนรกเรา กลับเข้า Deck หลังจากนั้นสับ Deck แล้วจั่วการ์ด 1 ใบ"
+    }
+  },
+  {
+    "ImagePath": "SD02-005-UR.png",
+    "Name": "วีรบุรุษปากซอย",
+    "Type": "Avatar",
+    "Cost": 6,
+    "Gem": 2,
+    "Power": 6,
+    "Symbol": "คน",
+    "Color": "#00FFFF",
+    "Ex": "Only#1",
+    "ซอย": 1,
+    "Print": "SD02-005",
+    "Rare": "UR",
+    "Details": {
+      "Main Effect": "จุติ (เมื่อ Avatar ตัวนี้ถูกอัญเชิญลงสนามแบบจ่าย Cost) : นำ Avatar ชื่อ \"กุ่ย\",\"ฮอล\" หรือ \"นาย\" ได้สูงสุด 3 ใบจากนรกเราขึ้นมือ"
+    }
+  },
+  {
+    "ImagePath": "SD02-005-PR.png",
+    "Name": "วีรบุรุษปากซอย",
+    "Type": "Avatar",
+    "Cost": 6,
+    "Gem": 2,
+    "Power": 6,
+    "Symbol": "คน",
+    "Color": "#00FFFF",
+    "Ex": "Only#1",
+    "ซอย": 1,
+    "Print": "SD02-005",
+    "Rare": "PR",
+    "Details": {
+      "Main Effect": "จุติ (เมื่อ Avatar ตัวนี้ถูกอัญเชิญลงสนามแบบจ่าย Cost) : นำ Avatar ชื่อ \"กุ่ย\",\"ฮอล\" หรือ \"นาย\" ได้สูงสุด 3 ใบจากนรกเราขึ้นมือ"
+    }
+  },
+  {
+    "ImagePath": "SD02-005-CBR.png",
+    "Name": "วีรบุรุษปากซอย",
+    "Type": "Avatar",
+    "Cost": 6,
+    "Gem": 2,
+    "Power": 6,
+    "Symbol": "คน",
+    "Color": "#00FFFF",
+    "Ex": "Only#1",
+    "ซอย": 1,
+    "Print": "SD02-005",
+    "Rare": "CBR",
+    "Details": {
+      "Main Effect": "จุติ (เมื่อ Avatar ตัวนี้ถูกอัญเชิญลงสนามแบบจ่าย Cost) : นำ Avatar ชื่อ \"กุ่ย\",\"ฮอล\" หรือ \"นาย\" ได้สูงสุด 3 ใบจากนรกเราขึ้นมือ"
+    }
+  },
+  {
+    "ImagePath": "SD02-006-C.png",
+    "Name": "ครูภาษาไทย",
+    "Type": "Avatar",
+    "Cost": 0,
+    "Gem": 4,
+    "Power": 0,
+    "Symbol": "คน",
+    "Color": "#00FFFF",
+    "ซอย": 1,
+    "Print": "SD02-006",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": null
+    }
+  },
+  {
+    "ImagePath": "SD02-007-C.png",
+    "Name": "นักเรียน แบงค์",
+    "Type": "Avatar",
+    "Cost": 1,
+    "Gem": 1,
+    "Power": 3,
+    "Symbol": "คน",
+    "Color": "#00FFFF",
+    "ซอย": 1,
+    "Print": "SD02-007",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": null
+    }
+  },
+  {
+    "ImagePath": "SD02-008-C.png",
+    "Name": "เด็กไม่ชอบแมลงสาบมากๆ",
+    "Type": "Avatar",
+    "Cost": 1,
+    "Gem": 0,
+    "Power": 4,
+    "Symbol": "คน",
+    "Color": "#00FFFF",
+    "ซอย": 1,
+    "Print": "SD02-008",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": null
+    }
+  },
+  {
+    "ImagePath": "SD02-009-C.png",
+    "Name": "ตำรวจ",
+    "Type": "Avatar",
+    "Cost": 2,
+    "Gem": 3,
+    "Power": 2,
+    "Symbol": "คน",
+    "Color": "#00FFFF",
+    "ซอย": 1,
+    "Print": "SD02-009",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": null
+    }
+  },
+  {
+    "ImagePath": "SD02-010-C.png",
+    "Name": "เด็กไม่ชอบแมลงสาบ",
+    "Type": "Avatar",
+    "Cost": 0,
+    "Gem": 0,
+    "Power": 3,
+    "Symbol": "คน",
+    "Color": "#00FFFF",
+    "ซอย": 1,
+    "Print": "SD02-010",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": null
+    }
+  },
+  {
+    "ImagePath": "SD02-011-C.png",
+    "Name": "ลุงข้างห้อง",
+    "Type": "Avatar",
+    "Cost": 0,
+    "Gem": 0,
+    "Power": 1,
+    "Symbol": "คน",
+    "Color": "#00FFFF",
+    "ซอย": 1,
+    "Print": "SD02-011",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": null
+    }
+  },
+  {
+    "ImagePath": "SD02-012-C.png",
+    "Name": "แท็กซี่ตีนเปล่า",
+    "Type": "Avatar",
+    "Cost": 1,
+    "Gem": 2,
+    "Power": 2,
+    "Symbol": "คน",
+    "Color": "#00FFFF",
+    "ซอย": 1,
+    "Print": "SD02-012",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": null
+    }
+  },
+  {
+    "ImagePath": "SD02-013-C.png",
+    "Name": "ไอ้ดำ",
+    "Type": "Avatar",
+    "Cost": 1,
+    "Gem": 3,
+    "Power": 1,
+    "Symbol": "สัตว์",
+    "Color": "#00FFFF",
+    "ซอย": 1,
+    "Print": "SD02-013",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": null
+    }
+  },
+  {
+    "ImagePath": "SD02-014-C.png",
+    "Name": "ปื๊ด เด็กติดยา",
+    "Type": "Avatar",
+    "Cost": 4,
+    "Gem": 2,
+    "Power": 4,
+    "Symbol": "คน",
+    "Color": "#00FFFF",
+    "ซอย": 1,
+    "Print": "SD02-014",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": null
+    }
+  },
+  {
+    "ImagePath": "SD02-015-C.png",
+    "Name": "รัททาทุย ผู้พิทักษ์ราชีนี",
+    "Type": "Avatar",
+    "Cost": 5,
+    "Gem": 3,
+    "Power": 5,
+    "Symbol": "รัททาทุย",
+    "Color": "#00FFFF",
+    "ซอย": 1,
+    "Print": "SD02-015",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": null
+    }
+  },
+  {
+    "ImagePath": "SD02-016-SR.png",
+    "Name": "ระเบิดVery Fat Man",
+    "Type": "Magic",
+    "SubType": "React",
+    "Gem": 0,
+    "Symbol": "จอมเวทย์",
+    "ซอย": 1,
+    "Print": "SD02-016",
+    "Rare": "SR",
+    "Details": {
+      "Main Effect": "ส่ง Avatar \"กุ่ย\",\"ฮอล\" และ \"นาย\" อย่างละ 1 ใบ จากบนมือเรา และ,หรือ บนสนามเราลงนรก : ทำลาย Avatar ทุกใบบนสนามฝ่ายตรงข้าม"
+    }
+  },
+  {
+    "ImagePath": "SD02-017-C.png",
+    "Name": "ไม้เกาหลัง",
+    "Type": "Magic",
+    "SubType": "Modification",
+    "Gem": 2,
+    "Symbol": "รัททาทุย",
+    "ซอย": 1,
+    "Print": "SD02-017",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "Avatar ที่สวมใส่การ์ดใบนี้ได้รับความสามารถ เตะไข่ (Avatar ใบนี้สามารถโจมตีไปที่ LIFE Card ได้โดยตรง แม้ว่า Avatar Zone ของอีกฝ่ายจะมี Avatar อยู่ก็ตาม)"
+    }
+  },
+  {
+    "ImagePath": "SD02-018-C.png",
+    "Name": "บำเพ็ญประโยชน์",
+    "Type": "Magic",
+    "SubType": "Normal",
+    "Gem": 1,
+    "Symbol": "จอมเวทย์",
+    "ซอย": 1,
+    "Print": "SD02-018",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "ส่ง Avatar ชื่อ \"กุ่ย\",\"ฮอล\" หรือ \"นาย\" 1 ใบ จากบนมือลงนรก : จั่วการ์ด 2 ใบ"
+    }
+  },
+  {
+    "ImagePath": "SD02-019-C.png",
+    "Name": "สละเพื่อนเพื่อช่วยเพื่อน",
+    "Type": "Magic",
+    "SubType": "React",
+    "Gem": 1,
+    "Symbol": "จอมเวทย์",
+    "ซอย": 1,
+    "Print": "SD02-019",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "ส่ง Avatar ชื่อ \"กุ่ย\",\"ฮอล\" หรือ \"นาย\" 1 ใบ จากบนมือเรา หรือ บนสนามเราลงนรก : นำ Avatar 1 ใบบนสนามกลับขึ้นมือ"
+    }
+  },
+  {
+    "ImagePath": "SD02-020-C.png",
+    "Name": "สมชาย ห้องเช่าถูกๆ",
+    "Type": "Magic",
+    "SubType": "Land",
+    "Gem": 1,
+    "Symbol": "จอมเวทย์",
+    "ซอย": 1,
+    "Print": "SD02-020",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": " POWER +2 ให้ Avatar \"กุ่ย\",\"ฮอล\" และ \"นาย\" ที่สั่งโจมตีจนจบการต่อสู้นั้น"
+    }
+  },
+  {
+    "ImagePath": "SD02-021-C.png",
+    "Name": "ไม่นะ กุ่ย !",
+    "Type": "Life",
+    "ซอย": 1,
+    "Print": "SD02-021",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "เมื่อการ์ดใบนี้ถูกหงายจากการโจมตี : ใน main phase ถัดไป จั่วการ์ด 1 ใบ",
+      "Favor Text": "กุ่ยเป็นเด็กที่ขี้เล่น มีจินตนาการ และเป็นตัวโปรดในการ์ตูนผม แต่มึงก็ยังปล่อยให้กุ่ยตายแล้วตอนนี้การ์ตูนกูไม่สนุกละ\n"
+    }
+  },
+  {
+    "ImagePath": "SD02-022-C.png",
+    "Name": "ไม่นะ ฮอล !",
+    "Type": "Life",
+    "ซอย": 1,
+    "Print": "SD02-022",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "เมื่อการ์ดใบนี้ถูกหงายจากการโจมตี : ใน main phase ถัดไป จั่วการ์ด 1 ใบ",
+      "Favor Text": "ถึงฮอลจะเป็นคนขี้กลัว แต่เขาก็พร้อมที่จะสู้เมื่อเพื่อนฝูงของเขากำลังตกอยู่ในอันตราย และโลกนี้ก็คงอบอุ่นน้อยลงที่ต้องขาดเพื่อนดีๆอย่างฮอล\n"
+    }
+  },
+  {
+    "ImagePath": "SD02-023-C.png",
+    "Name": "ไม่นะ นาย !",
+    "Type": "Life",
+    "ซอย": 1,
+    "Print": "SD02-023",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "เมื่อการ์ดใบนี้ถูกหงายจากการโจมตี : ใน main phase ถัดไป จั่วการ์ด 1 ใบ",
+      "Favor Text": "ไอ้นายจะเป็นคนตรงๆและคุณอาจไม่ชอบมัน แต่คำเหล่านั้นมาจากใจของคนจริงใจที่คุณเพิ่งปล่อยตายไป นั้นก็เชิญอยู่กับพวกเพื่อนเทียมคำชมปลอมๆที่ยังไงคุณก็รู้ว่ามันกลวง\n"
+    }
+  },
+  {
+    "ImagePath": "SD02-024-C.png",
+    "Name": "ไม่นะ ครู !",
+    "Type": "Life",
+    "ซอย": 1,
+    "Print": "SD02-024",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "เมื่อการ์ดใบนี้ถูกหงายจากการโจมตี : ใน main phase ถัดไป จั่วการ์ด 1 ใบ",
+      "Favor Text": "ครูอ้อยคือเครื่องผลิตอนาคตของชาติมายาวนานกว่า43ปีโดยไม่หยุดพัก และจุดจบของเธอครั้งนี้จะเป็นบทเรียนสุดท้ายให้ทุกคนรู้ว่า การทำดีที่ไม่มีใครเห็นค่ามันก็แบบนี้แหละ\n"
+    }
+  },
+  {
+    "ImagePath": "SD02-025-C.png",
+    "Name": "ไม่นะ จามาล !",
+    "Type": "Life",
+    "ซอย": 1,
+    "Print": "SD02-025",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "เมื่อการ์ดใบนี้ถูกหงายจากการโจมตี : ใน main phase ถัดไป จั่วการ์ด 1 ใบ",
+      "Favor Text": "จามาล นักร้องนำของวงHeartz Boyz ที่ตลาดพลู จามาลใช้เงินรักษามะเร็งที่เหลือมาตั้งวงเพื่อทำตามฝันของเขา และดูเหมือนว่าตอนนี้เสียงของจามาลจะไม่ดังพอที่จะไปสู่หูของคนทั่วโลกหรือแม้แต่แม่ของเขา\n"
+    }
+  }
+]
