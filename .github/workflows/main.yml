@@ -8,7 +8,7 @@ on:
         required: false
         default: '1-21'
       upload_method:
-        description: 'Upload method: "artifact" (default) or "commit" (update repo)'
+        description: 'Upload method: "artifact" or "commit"'
         required: false
         default: 'commit'
         type: choice
@@ -51,6 +51,7 @@ jobs:
       run: |
         git config --global user.name 'github-actions[bot]'
         git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+        git config --global http.postBuffer 524288000
         git add Assets/ asset-map.json
         git commit -m "Update card assets [skip ci]" || echo "No changes to commit"
         git push
