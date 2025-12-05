@@ -1,0 +1,1360 @@
+[
+  {
+    "ImagePath": "BT06-001-SR.png",
+    "Name": "วิรูฬ นาคเกล็ดทอง",
+    "Type": "Avatar",
+    "Cost": 3,
+    "Gem": 0,
+    "Power": 4,
+    "Symbol": "สัตว์มหัศจรรย์",
+    "Color": "#FF0000",
+    "ซอย": 2,
+    "Print": "BT06-001",
+    "Rare": "SR",
+    "Details": {
+      "Main Effect": "อัตโนมัติ ถ้า Avatar ใบนี้ POWER 7 หรือมากกว่าในช่วงเริ่ม Battle Phase : จะได้รับความสามารถดังต่อไปนี้จนจบเทิร์น \"เมื่อ Avatar ใบนี้ โจมตี LIFE Card LIFE Card ที่ถูกหงายจากการโจมตีของ Avatar ใบนี้ ความสามารถจะไม่ทำงาน\""
+    }
+  },
+  {
+    "ImagePath": "BT06-002-R.png",
+    "Name": "ฉัพพยา นาคเกล็ดรุ้ง",
+    "Type": "Avatar",
+    "Cost": 3,
+    "Gem": 2,
+    "Power": 3,
+    "Symbol": "สัตว์มหัศจรรย์",
+    "Color": "#FF0000",
+    "ซอย": 2,
+    "Print": "BT06-002",
+    "Rare": "R",
+    "Details": {
+      "Main Effect": "อัตโนมัติ ถ้า Avatar ใบนี้ POWER 7 หรือมากกว่าในช่วงเริ่ม Battle Phase : จะได้รับความสามารถดังต่อไปนี้จนจบเทิร์น \"เมื่อ Avatar ใบนี้ โจมตี LIFE Card สำเร็จ จะทำความเสียหายต่อ LIFE Card 2 ใบ\""
+    }
+  },
+  {
+    "ImagePath": "BT06-003-C.png",
+    "Name": "เอรา นาคเกล็ดเขียว",
+    "Type": "Avatar",
+    "Cost": 2,
+    "Gem": 3,
+    "Power": 1,
+    "Symbol": "สัตว์มหัศจรรย์",
+    "Color": "#FF0000",
+    "ซอย": 2,
+    "Print": "BT06-003",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "จุติ : เลือก Avatar \"นาค\" ที่เป็น Symbol สัตว์มหัศจรรย์ 1 ใบ ใน Avatar Zone ฝ่ายเรา Avatar ใบนั้น POWER +2"
+    }
+  },
+  {
+    "ImagePath": "BT06-004-UR.png",
+    "Name": "อนันต์ ราชาแห่งนาค",
+    "Type": "Avatar",
+    "Cost": 6,
+    "Gem": 2,
+    "Power": 7,
+    "Symbol": "สัตว์มหัศจรรย์",
+    "Color": "#FF0000",
+    "Ex": "#Only1",
+    "ซอย": 2,
+    "Print": "BT06-004",
+    "Rare": "UR",
+    "Details": {
+      "Main Effect": "เทิร์นละครั้ง สั่งใช้ : Avatar \"นาค\" ที่เป็น symbol สัตว์มหัศจรรย์ ใบอื่น ทุกใบใน Avatar Zone ฝ่ายเรา จะมี POWER เท่ากับ POWER ของ Avatar ใบนี้ จนจบเทิร์น\nอัตโนมัติ เมื่อ Avatar ใบนี้ โจมตี และทำลาย Avatar ฝ่ายตรงข้ามสำเร็จจากการต่อสู้ : ฝ่ายตรงข้าม หงาย LIFE Card 1 ใบ"
+    }
+  },
+  {
+    "ImagePath": "BT06-004-SEC.png",
+    "Name": "อนันต์ ราชาแห่งนาค",
+    "Type": "Avatar",
+    "Cost": 6,
+    "Gem": 2,
+    "Power": 7,
+    "Symbol": "สัตว์มหัศจรรย์",
+    "Color": "#FF0000",
+    "Ex": "#Only1",
+    "ซอย": 2,
+    "Print": "BT06-004",
+    "Rare": "SEC",
+    "Details": {
+      "Main Effect": "เทิร์นละครั้ง สั่งใช้ : Avatar \"นาค\" ที่เป็น symbol สัตว์มหัศจรรย์ ใบอื่น ทุกใบใน Avatar Zone ฝ่ายเรา จะมี POWER เท่ากับ POWER ของ Avatar ใบนี้ จนจบเทิร์น\nอัตโนมัติ เมื่อ Avatar ใบนี้ โจมตี และทำลาย Avatar ฝ่ายตรงข้ามสำเร็จจากการต่อสู้ : ฝ่ายตรงข้าม หงาย LIFE Card 1 ใบ"
+    }
+  },
+  {
+    "ImagePath": "BT06-005-SR.png",
+    "Name": "รีวิวแมน",
+    "Type": "Avatar",
+    "Cost": 3,
+    "Gem": 2,
+    "Power": 2,
+    "Symbol": "คน",
+    "Color": "#FF0000",
+    "Ex": "#โดนใจ",
+    "ซอย": 2,
+    "Print": "BT06-005",
+    "Rare": "SR",
+    "Details": {
+      "Main Effect": "Avatar ใบนี้สามารถสวมใส่ Modification Magic ได้โดยไม่สนเงื่อนไขการสวมใส่ที่ระบุไว้ใน Text Box ของ Modification Magic ใบนั้นๆ"
+    }
+  },
+  {
+    "ImagePath": "BT06-005-SEC.png",
+    "Name": "รีวิวแมน",
+    "Type": "Avatar",
+    "Cost": 3,
+    "Gem": 2,
+    "Power": 2,
+    "Symbol": "คน",
+    "Color": "#FF0000",
+    "Ex": "#โดนใจ",
+    "ซอย": 2,
+    "Print": "BT06-005",
+    "Rare": "SEC",
+    "Details": {
+      "Main Effect": "Avatar ใบนี้สามารถสวมใส่ Modification Magic ได้โดยไม่สนเงื่อนไขการสวมใส่ที่ระบุไว้ใน Text Box ของ Modification Magic ใบนั้นๆ"
+    }
+  },
+  {
+    "ImagePath": "BT06-006-UR.png",
+    "Name": "อาเธอร์ ราชาแห่งอัศวินโต๊ะกลม",
+    "Type": "Avatar",
+    "Cost": 7,
+    "Gem": 2,
+    "Power": 5,
+    "Symbol": "ชาวต่างชาติ",
+    "Color": "#FF0000",
+    "ซอย": 2,
+    "Print": "BT06-006",
+    "Rare": "UR",
+    "Details": {
+      "Main Effect": "\nจุติ ส่ง Modification \"ดาบศักดิ์สิทธิ์\" จาก Deck เรา 2 ใบ ลงนรก : อัญเชิญ Avatar \"อัศวินโต๊ะกลม\" 1 ใบ จาก Deck เรา จากนั้นสับ Deck จนกว่าจะจบเทิร์นนี้ Avatar ฝ่ายเราที่มีชื่อเดียวกันกับ Avatar ที่ถูกอัญเชิญด้วยความสามารถนี้จะไม่สามารถสั่งโจมตี และใช้ความสามารถได้\n#เราสามารถควบคุม อาเธอร์ ราชาแห่งอัศวินโต๊ะกลม ใน Avatar Zone ได้เพียง 1 ใบเท่านั้น "
+    }
+  },
+  {
+    "ImagePath": "BT06-006-SEC.png",
+    "Name": "อาเธอร์ ราชาแห่งอัศวินโต๊ะกลม",
+    "Type": "Avatar",
+    "Cost": 7,
+    "Gem": 2,
+    "Power": 5,
+    "Symbol": "ชาวต่างชาติ",
+    "Color": "#FF0000",
+    "ซอย": 2,
+    "Print": "BT06-006",
+    "Rare": "SEC",
+    "Details": {
+      "Main Effect": "\nจุติ ส่ง Modification \"ดาบศักดิ์สิทธิ์\" จาก Deck เรา 2 ใบ ลงนรก : อัญเชิญ Avatar \"อัศวินโต๊ะกลม\" 1 ใบ จาก Deck เรา จากนั้นสับ Deck จนกว่าจะจบเทิร์นนี้ Avatar ฝ่ายเราที่มีชื่อเดียวกันกับ Avatar ที่ถูกอัญเชิญด้วยความสามารถนี้จะไม่สามารถสั่งโจมตี และใช้ความสามารถได้ \n#เราสามารถควบคุม อาเธอร์ ราชาแห่งอัศวินโต๊ะกลม ใน Avatar Zone ได้เพียง 1 ใบเท่านั้น "
+    }
+  },
+  {
+    "ImagePath": "BT06-007-C.png",
+    "Name": "เคย์ อัศวินโต๊ะกลมแห่งความหลักแหลม",
+    "Type": "Avatar",
+    "Cost": 3,
+    "Gem": 3,
+    "Power": 2,
+    "Symbol": "ชาวต่างชาติ",
+    "Color": "#FF0000",
+    "ซอย": 2,
+    "Print": "BT06-007",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "เทิร์นละครั้ง สั่งใช้ ในเทิร์นฝ่ายตรงข้าม เมื่อ Avatar \"อัศวินโต๊ะกลม\" ฝ่ายเรา ถูกโจมตี สามารถส่ง Modification Magic \"ดาบศักดิ์สิทธิ์\" 1 ใบ จากสนามฝ่ายเรา ลงนรก :  Avatar \"อัศวินโต๊ะกลม\" 1 ใบ POWER +2 จนจบเทิร์น"
+    }
+  },
+  {
+    "ImagePath": "BT06-008-C.png",
+    "Name": "ยอดนักบุญ",
+    "Type": "Avatar",
+    "Cost": 3,
+    "Gem": 0,
+    "Power": 0,
+    "Symbol": "คน",
+    "Color": "#FF0000",
+    "ซอย": 2,
+    "Print": "BT06-008",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "จุติ : นำ Modification Magic น้ำใจ ทีสวมใส่ อยู่กับ Avatar ใบอื่น ทุกใบใน Avatar Zone ฝ่ายเรา มาสวมใส่ที่ Avatar ใบนี้\nต่อเนื่อง ถ้า Avatar ใบนี้สวมใส่ Modification Magic น้ำใจ 4 ใบ POWER ตั้งต้น ของ Avatar ใบนี้ จะเป็น 10"
+    }
+  },
+  {
+    "ImagePath": "BT06-009-UR.png",
+    "Name": " หุ่นนักรบผู้กล้า : โปรโตไมเกรน",
+    "Type": "Avatar",
+    "Cost": 4,
+    "Gem": 2,
+    "Power": 3,
+    "Symbol": "เครื่องจักร",
+    "Color": "#FF0000",
+    "ซอย": 2,
+    "Print": "BT06-009",
+    "Rare": "UR",
+    "Details": {
+      "Main Effect": "สั่งใช้ เมื่อ Avatar ใบนี้ ทำลาย Avatar ฝ่ายตรงข้ามสำเร็จจากการต่อสู้ : ส่ง Avatar ใบนี้ลงนรก และ อัญเชิญ จุติ หุ่นนักรบผู้กล้า : ไมเกรน จาก Deck เรา จากนั้นสับ Deck ถ้า Avatar ใบนี้มีการ์ดสวมใส่อยู่ ให้นำการ์ดที่สวมใส่อยู่ทั้งหมด ไปสวมใส่ให้ Avatar ที่อัญเชิญมาด้วยความสามารถนี้แทน "
+    }
+  },
+  {
+    "ImagePath": "BT06-010-C.png",
+    "Name": "พระอิศวรปลอม",
+    "Type": "Avatar",
+    "Cost": 3,
+    "Gem": 1,
+    "Power": 1,
+    "Symbol": "คน",
+    "Color": "#FF0000",
+    "ซอย": 2,
+    "Print": "BT06-010",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "จุติ : เลือก Avatar 1 ใบ POWER -2 จนจบเทิร์น"
+    }
+  },
+  {
+    "ImagePath": "BT06-011-SR.png",
+    "Name": "ไดโนกาฬสินธุ์ - สุธีธรนีซอรัส",
+    "Type": "Avatar",
+    "Cost": 3,
+    "Gem": 0,
+    "Power": 4,
+    "Symbol": "กะปอม",
+    "Color": "#00FFFF",
+    "ซอย": 2,
+    "Print": "BT06-011",
+    "Rare": "SR",
+    "Details": {
+      "Main Effect": "คำสั่งเสีย สอดแนม 3 ใบ : เลือก Avatar \"ไดโนกาฬสินธุ์\" 1 ใบที่มี Cost 3 หรือต่ำกว่า และไม่ได้ ชื่อไดโนกาฬสินธุ์ - สุธีธรนีซอรัสอัญเชิญลง Avatar zone ฝ่ายเรานำที่เหลือกลับเข้า Deck แล้วสับ"
+    }
+  },
+  {
+    "ImagePath": "BT06-012-C.png",
+    "Name": "กัปตัน 7 สี",
+    "Type": "Avatar",
+    "Cost": 4,
+    "Gem": 2,
+    "Power": 3,
+    "Symbol": "ชาวต่างชาติ",
+    "Color": "#00FFFF",
+    "ซอย": 2,
+    "Print": "BT06-012",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "จุติ : เลือกปฏิบัติ 1 อย่าง ตาม Avatar ใบอื่นที่เราควบคุมอยู่บน Avatar Zone\nสีแดง  Power ของการ์ดใบนี้ +2 \nสีฟ้า จั่วการ์ดจาก Deck เรา 1 ใบ\nสีม่วง ธรณีสูบ 1 ใบ หลังจากนั้นนำ การ์ด 1 ใบจากในนรกกลับเข้าใต้ Deck\nสีเขียว Avatar ตัวนี้จะไม่ถูกทำลายจนจบเทิร์น ที่ถูกอัญเชิญ"
+    }
+  },
+  {
+    "ImagePath": "BT06-013-C.png",
+    "Name": "บึงทมิฬ  People  - คุณบลูลอบสเตอร์",
+    "Type": "Avatar",
+    "Cost": 4,
+    "Gem": 2,
+    "Power": 0,
+    "Symbol": "ปลา",
+    "Color": "#00FFFF",
+    "ซอย": 2,
+    "Print": "BT06-013",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "เมื่อ Avatar ใบนี้ถูกนำขึ้นมือจาก Deck ในช่วง Draw Phase และใน Land Magic Zone มีการ์ด \"บึงทมิฬ\" หรือ ถูกนำขึ้นมือด้วยความสามารถของ \"บึงทมิฬ\" แสดงการ์ดใบนี้ให้ฝ่ายตรงข้ามดู และอัญเชิญลงบน Avatar Zone ฝ่ายเรา\nเมื่อการ์ดใบนี้ถูกอัญเชิญด้วยความสามารถของตัวเอง : ทำลาย Avatar 1 ใบ ในสนามฝ่ายตรงข้าม"
+    }
+  },
+  {
+    "ImagePath": "BT06-014-UR.png",
+    "Name": "สวีนนีย์ มนุษย์ดาว R18 ",
+    "Type": "Avatar",
+    "Cost": 4,
+    "Gem": 0,
+    "Power": 5,
+    "Symbol": "เอเลี่ยน",
+    "Color": "#00FFFF",
+    "ซอย": 2,
+    "Print": "BT06-014",
+    "Rare": "UR",
+    "Details": {
+      "Main Effect": "อัตโนมัติ เมื่อการ์ดใบนี้ ทำลาย Avatar ฝ่ายตรงข้าม จากการต่อสู้และส่งลงนรก หลังจากการต่อสู้นั้นนำ Avatar ใบที่ถูกทำลาย มาไว้ที่ Magic Zone ฝ่ายเรา จากนั้น เปลี่ยนชื่อ Avatar ใบนั้นเป็น \"ข้ารับใช้ของ มนุษย์ดาว R18\" และเปลี่ยนเป็น Symbol เอเลี่ยน\nคำสั่งเสีย : ฝ่ายตรงข้าม เลือก Avatar \"ข้ารับใช้ของ มนุษย์ดาว R18\" ใน Magic Zone ฝ่ายเรา 1 ใบ ส่งการ์ดใบที่เลือกลงนรกเจ้าของเดิม"
+    }
+  },
+  {
+    "ImagePath": "BT06-014-SEC.png",
+    "Name": "สวีนนีย์ มนุษย์ดาว R18 ",
+    "Type": "Avatar",
+    "Cost": 4,
+    "Gem": 0,
+    "Power": 5,
+    "Symbol": "เอเลี่ยน",
+    "Color": "#00FFFF",
+    "ซอย": 2,
+    "Print": "BT06-014",
+    "Rare": "SEC",
+    "Details": {
+      "Main Effect": "อัตโนมัติ เมื่อการ์ดใบนี้ ทำลาย Avatar ฝ่ายตรงข้าม จากการต่อสู้และส่งลงนรก หลังจากการต่อสู้นั้นนำ Avatar ใบที่ถูกทำลาย มาไว้ที่ Magic Zone ฝ่ายเรา จากนั้น เปลี่ยนชื่อ Avatar ใบนั้นเป็น \"ข้ารับใช้ของ มนุษย์ดาว R18\" และเปลี่ยนเป็น Symbol เอเลี่ยน\nคำสั่งเสีย : ฝ่ายตรงข้าม เลือก Avatar \"ข้ารับใช้ของ มนุษย์ดาว R18\" ใน Magic Zone ฝ่ายเรา 1 ใบ ส่งการ์ดใบที่เลือกลงนรกเจ้าของเดิม"
+    }
+  },
+  {
+    "ImagePath": "BT06-015-SR.png",
+    "Name": "อามัส มนุษย์ดาว R18",
+    "Type": "Avatar",
+    "Cost": 3,
+    "Gem": 3,
+    "Power": 0,
+    "Symbol": "เอเลี่ยน",
+    "Color": "#00FFFF",
+    "ซอย": 2,
+    "Print": "BT06-015",
+    "Rare": "SR",
+    "Details": {
+      "Main Effect": "ต่อเนื่อง POWER ของ Avatar ใบนี้ จะเพิ่มขึ้นตามจำนวน Avatar  \"ข้ารับใช้ของ มนุษย์ดาว R18\" ในสนามฝ่ายเรา ใบละ 1"
+    }
+  },
+  {
+    "ImagePath": "BT06-016-C.png",
+    "Name": "จอย มนุษย์ดาว R18",
+    "Type": "Avatar",
+    "Cost": 4,
+    "Gem": 2,
+    "Power": 2,
+    "Symbol": "เอเลี่ยน",
+    "Color": "#00FFFF",
+    "ซอย": 2,
+    "Print": "BT06-016",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "เทิร์นละครั้ง สั่งใช้ : เลือก Avatar \"ข้ารับใช้ของ มนุษย์ดาว R18\" 1 ใบ ใน Magic Zone ฝ่ายเรา อัญเชิญ Avatar ใบนั้น ลง Avatar Zone ฝ่ายเรา ในช่วง End Phase นำ Avatar ใบนั้น กลับมาไว้ที่ Magic Zone ฝ่ายเรา"
+    }
+  },
+  {
+    "ImagePath": "BT06-017-R.png",
+    "Name": "วิลโล่ ปลาแกะ",
+    "Type": "Avatar",
+    "Cost": 2,
+    "Gem": 2,
+    "Power": 2,
+    "Symbol": "ปลา",
+    "Color": "#00FFFF",
+    "ซอย": 2,
+    "Print": "BT06-017",
+    "Rare": "R",
+    "Details": {
+      "Main Effect": "#Avatar ใบนี้ นับเป็น Symbol สัตว์ ด้วย"
+    }
+  },
+  {
+    "ImagePath": "BT06-018-UR.png",
+    "Name": "จ่ามะนาวแขนเหล็ก",
+    "Type": "Avatar",
+    "Cost": 4,
+    "Gem": 1,
+    "Power": 5,
+    "Symbol": "คน",
+    "Color": "#00FFFF",
+    "ซอย": 2,
+    "Print": "BT06-018",
+    "Rare": "UR",
+    "Details": {
+      "Main Effect": "โล่มนุษย์ สามัคคี\nสั่งใช้ : เมื่อ Avatar \"จ่ามะนาว\" ที่ Cost 3 หรือต่ำกว่า ใน Avatar Zone ฝ่ายเรา ถูกทำลาย สามารถอัญเชิญการ์ดใบนี้จากบนมือได้ โดยการจ่าย Cost ถ้าอยู่ในสถานะสาหัส สามารถอัญเชิญด้วยความสามารถนี้ได้โดยไม่ต้องจ่าย Cost"
+    }
+  },
+  {
+    "ImagePath": "BT06-018-SEC.png",
+    "Name": "จ่ามะนาวแขนเหล็ก",
+    "Type": "Avatar",
+    "Cost": 4,
+    "Gem": 1,
+    "Power": 5,
+    "Symbol": "คน",
+    "Color": "#00FFFF",
+    "ซอย": 2,
+    "Print": "BT06-018",
+    "Rare": "SEC",
+    "Details": {
+      "Main Effect": "โล่มนุษย์ สามัคคี\nสั่งใช้ : เมื่อ Avatar \"จ่ามะนาว\" ที่ Cost 3 หรือต่ำกว่า ใน Avatar Zone ฝ่ายเรา ถูกทำลาย สามารถอัญเชิญการ์ดใบนี้จากบนมือได้ โดยการจ่าย Cost ถ้าอยู่ในสถานะสาหัส สามารถอัญเชิญด้วยความสามารถนี้ได้โดยไม่ต้องจ่าย Cost"
+    }
+  },
+  {
+    "ImagePath": "BT06-019-R.png",
+    "Name": "ผู้เจริญระดับสูงสุด",
+    "Type": "Avatar",
+    "Cost": 4,
+    "Gem": 3,
+    "Power": 2,
+    "Symbol": "คน",
+    "Color": "#00FFFF",
+    "ซอย": 2,
+    "Print": "BT06-019",
+    "Rare": "R",
+    "Details": {
+      "Main Effect": "เทิร์นละครั้ง สั่งใช้ : นำ Avatar \"เสามงคล\" 1 ใบ จาก Avatar Zone ฝ่ายเรา ไปที่ Magic Zone ฝ่ายเรา"
+    }
+  },
+  {
+    "ImagePath": "BT06-020-C.png",
+    "Name": "บอล ผู้รักวิตามิน",
+    "Type": "Avatar",
+    "Cost": 2,
+    "Gem": 2,
+    "Power": 1,
+    "Symbol": "คน",
+    "Color": "#00FFFF",
+    "ซอย": 2,
+    "Print": "BT06-020",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "ต่อเนื่อง POWER ของ Avatar ใบนี้ จะเพิ่มขึ้นตามจำนวน Avatar \"กุ่ย\" , \"ฮอล\" หรือ \"นาย\" ในสนามฝ่ายเรา ใบละ 1"
+    }
+  },
+  {
+    "ImagePath": "BT06-021-C.png",
+    "Name": "ฮิฟีสตัส เทพโอลิมปัสแห่งการช่าง",
+    "Type": "Avatar",
+    "Cost": 0,
+    "Gem": 1,
+    "Power": 0,
+    "Symbol": "เทพ",
+    "Color": "#00FFFF",
+    "ซอย": 2,
+    "Print": "BT06-021",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "เมื่อการ์ดใบนี้ถูกใช้เป็นค่า Cost เพื่อการก่อสร้าง Construct การ์ดใบนี้จะถือว่ามี GEM 5"
+    }
+  },
+  {
+    "ImagePath": "BT06-022-UR.png",
+    "Name": "แบงค์ผู้พิชิต",
+    "Type": "Avatar",
+    "Cost": 7,
+    "Gem": 3,
+    "Power": 6,
+    "Symbol": "คน",
+    "Color": "#9900FF",
+    "ซอย": 2,
+    "Print": "BT06-022",
+    "Rare": "UR",
+    "Details": {
+      "Main Effect": "ต่อเนื่อง Avatar ใบนี้ ได้รับความสามารถเพิ่มตามจำนวน Avatar \"แบงค์\" ที่ชื่อต่างกันในนรกเรา\n- 5 ชื่อ Avatar ใบนี้ POWER +2 \n- 7 ชื่อ อัตโนมัติ เมื่อ Avatar ใบนี้ ทำลาย Avatar ของฝ่ายตรงข้ามจากการต่อสู้สำเร็จ : หงาย LIFE Card ฝ่ายตรงข้าม 1 ใบ\n- 10 ชื่อ อัตโนมัติ เมื่อ Avatar ใบนี้โจมตี : ฝ่ายตรงข้ามไม่สามารถใช้งาน React Magic ได้ จนจบการต่อสู้นั้น\nสั่งใช้ สามารถส่ง Avatar \"แบงค์\" 4 ใบจากบน Avatar Zone ฝ่ายเรา ลงนรก อัญเชิญ Avatar ใบนี้จากในนรกเรา ลง Avatar Zone ฝ่ายเรา"
+    }
+  },
+  {
+    "ImagePath": "BT06-022-SEC.png",
+    "Name": "แบงค์ผู้พิชิต",
+    "Type": "Avatar",
+    "Cost": 7,
+    "Gem": 3,
+    "Power": 6,
+    "Symbol": "คน",
+    "Color": "#9900FF",
+    "ซอย": 2,
+    "Print": "BT06-022",
+    "Rare": "SEC",
+    "Details": {
+      "Main Effect": "ต่อเนื่อง Avatar ใบนี้ ได้รับความสามารถเพิ่มตามจำนวน Avatar \"แบงค์\" ที่ชื่อต่างกันในนรกเรา\n- 5 ชื่อ Avatar ใบนี้ POWER +2 \n- 7 ชื่อ อัตโนมัติ เมื่อ Avatar ใบนี้ ทำลาย Avatar ของฝ่ายตรงข้ามจากการต่อสู้สำเร็จ : หงาย LIFE Card ฝ่ายตรงข้าม 1 ใบ\n- 10 ชื่อ อัตโนมัติ เมื่อ Avatar ใบนี้โจมตี : ฝ่ายตรงข้ามไม่สามารถใช้งาน React Magic ได้ จนจบการต่อสู้นั้น\nสั่งใช้ สามารถส่ง Avatar \"แบงค์\" 4 ใบจากบน Avatar Zone ฝ่ายเรา ลงนรก อัญเชิญ Avatar ใบนี้จากในนรกเรา ลง Avatar Zone ฝ่ายเรา"
+    }
+  },
+  {
+    "ImagePath": "BT06-022-PR.png",
+    "Name": "แบงค์ผู้พิชิต",
+    "Type": "Avatar",
+    "Cost": 7,
+    "Gem": 3,
+    "Power": 6,
+    "Symbol": "คน",
+    "Color": "#9900FF",
+    "ซอย": 2,
+    "Print": "BT06-022",
+    "Rare": "PR",
+    "Details": {
+      "Main Effect": "ต่อเนื่อง Avatar ใบนี้ ได้รับความสามารถเพิ่มตามจำนวน Avatar \"แบงค์\" ที่ชื่อต่างกันในนรกเรา\n- 5 ชื่อ Avatar ใบนี้ POWER +2 \n- 7 ชื่อ อัตโนมัติ เมื่อ Avatar ใบนี้ ทำลาย Avatar ของฝ่ายตรงข้ามจากการต่อสู้สำเร็จ : หงาย LIFE Card ฝ่ายตรงข้าม 1 ใบ\n- 10 ชื่อ อัตโนมัติ เมื่อ Avatar ใบนี้โจมตี : ฝ่ายตรงข้ามไม่สามารถใช้งาน React Magic ได้ จนจบการต่อสู้นั้น\nสั่งใช้ สามารถส่ง Avatar \"แบงค์\" 4 ใบจากบน Avatar Zone ฝ่ายเรา ลงนรก อัญเชิญ Avatar ใบนี้จากในนรกเรา ลง Avatar Zone ฝ่ายเรา"
+    }
+  },
+  {
+    "ImagePath": "BT06-022-CBR.png",
+    "Name": "แบงค์ผู้พิชิต",
+    "Type": "Avatar",
+    "Cost": 7,
+    "Gem": 3,
+    "Power": 6,
+    "Symbol": "คน",
+    "Color": "#9900FF",
+    "ซอย": 2,
+    "Print": "BT06-022",
+    "Rare": "CBR",
+    "Details": {
+      "Main Effect": "ต่อเนื่อง Avatar ใบนี้ ได้รับความสามารถเพิ่มตามจำนวน Avatar \"แบงค์\" ที่ชื่อต่างกันในนรกเรา\n- 5 ชื่อ Avatar ใบนี้ POWER +2 \n- 7 ชื่อ อัตโนมัติ เมื่อ Avatar ใบนี้ ทำลาย Avatar ของฝ่ายตรงข้ามจากการต่อสู้สำเร็จ : หงาย LIFE Card ฝ่ายตรงข้าม 1 ใบ\n- 10 ชื่อ อัตโนมัติ เมื่อ Avatar ใบนี้โจมตี : ฝ่ายตรงข้ามไม่สามารถใช้งาน React Magic ได้ จนจบการต่อสู้นั้น\nสั่งใช้ สามารถส่ง Avatar \"แบงค์\" 4 ใบจากบน Avatar Zone ฝ่ายเรา ลงนรก อัญเชิญ Avatar ใบนี้จากในนรกเรา ลง Avatar Zone ฝ่ายเรา"
+    }
+  },
+  {
+    "ImagePath": "BT06-023-R.png",
+    "Name": "อู๊ด คุณแม่",
+    "Type": "Avatar",
+    "Cost": 4,
+    "Gem": 2,
+    "Power": 2,
+    "Symbol": "คน",
+    "Color": "#9900FF",
+    "ซอย": 2,
+    "Print": "BT06-023",
+    "Rare": "R",
+    "Details": {
+      "Main Effect": "สั่งใช้ เซ่นไหว้ Avatar ใบนี้ ธรณีสูบ 3 ใบ : อัญเชิญ Avatar \"แบงค์\" จากใน Deck เรา ที่ไม่ใช่ Only#1 1 ใบลง Avatar Zone ฝ่ายเรา จากนั้นสับ Deck"
+    }
+  },
+  {
+    "ImagePath": "BT06-024-UR.png",
+    "Name": "พี่หน่วง",
+    "Type": "Avatar",
+    "Cost": 4,
+    "Gem": 2,
+    "Power": 1,
+    "Symbol": "คน",
+    "Color": "#9900FF",
+    "ซอย": 2,
+    "Print": "BT06-024",
+    "Rare": "UR",
+    "Details": {
+      "Main Effect": "เทิร์นละครั้ง สั่งใช้ ทิ้งการ์ดบนมือเรา 2 ใบ : เลือก Avatar ของฝ่ายตรงข้าม 1 ใบนำการ์ดที่เลือกและการ์ดใบนี้เข้าสู่ ช่อง Magic Zone ฝ่ายเรา เมื่อเริ่มต้น Main Phase ถัดไปของเรา อัญเชิญการ์ดใบนี้เข้าสู่ช่อง Avatar Zone ฝ่ายเรา"
+    }
+  },
+  {
+    "ImagePath": "BT06-025-R.png",
+    "Name": "เลอติ๊ก เด็กไม่ชอบแดรคคูลา",
+    "Type": "Avatar",
+    "Cost": 3,
+    "Gem": 1,
+    "Power": 3,
+    "Symbol": "ชาวต่างชาติ",
+    "Color": "#9900FF",
+    "ซอย": 2,
+    "Print": "BT06-025",
+    "Rare": "R",
+    "Details": {
+      "Main Effect": "อัตโนมัติ เมื่อการ์ดใบนี้ ทำลาย Avatar ฝ่ายตรงข้าม จากการต่อสู้ : Avatar ที่ถูก การ์ดใบนี้ทำลาย จะถูกส่งกลับเข้า Deck แทนการ ส่งลงนรก"
+    }
+  },
+  {
+    "ImagePath": "BT06-026-SR.png",
+    "Name": "แอชวิคกับอโศกาบาร์พิศวง",
+    "Type": "Avatar",
+    "Cost": 7,
+    "Gem": 1,
+    "Power": 3,
+    "Symbol": "ผี",
+    "Color": "#9900FF",
+    "ซอย": 2,
+    "Print": "BT06-026",
+    "Rare": "SR",
+    "Details": {
+      "Main Effect": "พอดี จุติ : อัญเชิญ จุติ Avatar Symbol ผี , เปรต หรือ เอเลี่ยน 1 ใบ ที่ Cost 5 หรือต่ำกว่าจากนรกเรา ลงบน Avatar Zone ฝ่ายเรา"
+    }
+  },
+  {
+    "ImagePath": "BT06-026-SEC.png",
+    "Name": "แอชวิคกับอโศกาบาร์พิศวง",
+    "Type": "Avatar",
+    "Cost": 7,
+    "Gem": 1,
+    "Power": 3,
+    "Symbol": "ผี",
+    "Color": "#9900FF",
+    "ซอย": 2,
+    "Print": "BT06-026",
+    "Rare": "SEC",
+    "Details": {
+      "Main Effect": "พอดี จุติ : อัญเชิญ จุติ Avatar Symbol ผี , เปรต หรือ เอเลี่ยน 1 ใบ ที่ Cost 5 หรือต่ำกว่าจากนรกเรา ลงบน Avatar Zone ฝ่ายเรา"
+    }
+  },
+  {
+    "ImagePath": "BT06-027-R.png",
+    "Name": "สกัลด์ เทพธิดาแห่งวัลฮัลลา ",
+    "Type": "Avatar",
+    "Cost": 2,
+    "Gem": 2,
+    "Power": 2,
+    "Symbol": "เทพ",
+    "Color": "#9900FF",
+    "ซอย": 2,
+    "Print": "BT06-027",
+    "Rare": "R",
+    "Details": {
+      "Main Effect": "ถ้าการ์ดใบนี้ถูก ธรณีสูบ ด้วยการ์ด Avatar symbol เทพ สีม่วง หรือ Magic Card : อัญเชิญ \"เทพธิดาแห่งวัลฮัลลา\" Cost 4 หรือต่ำกว่า และไม่ได้ชื่อ สกัลด์ เทพธิดาแห่งวัลฮัลลา 1 ใบ ในนรกเราลงบน Avatar Zone ฝ่ายเรา"
+    }
+  },
+  {
+    "ImagePath": "BT06-028-C.png",
+    "Name": "โอลรุน เทพธิดาแห่งวัลฮัลลา ",
+    "Type": "Avatar",
+    "Cost": 3,
+    "Gem": 2,
+    "Power": 3,
+    "Symbol": "เทพ",
+    "Color": "#9900FF",
+    "ซอย": 2,
+    "Print": "BT06-028",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "ถ้าการ์ดใบนี้ถูก ธรณีสูบ ด้วยการ์ด Avatar symbol เทพ สีม่วง หรือ Magic Card : นำ Avatar ใบนี้กลับขึ้นมือ"
+    }
+  },
+  {
+    "ImagePath": "BT06-029-SR.png",
+    "Name": "ซีกรุน เทพธิดาแห่งวัลฮัลลา ",
+    "Type": "Avatar",
+    "Cost": 5,
+    "Gem": 2,
+    "Power": 5,
+    "Symbol": "เทพ",
+    "Color": "#9900FF",
+    "ซอย": 2,
+    "Print": "BT06-029",
+    "Rare": "SR",
+    "Details": {
+      "Main Effect": "เทิร์นละครั้ง สั่งใช้ ธรณีสูบ 3 ใบ : Avatar ใบนี้ POWER +1"
+    }
+  },
+  {
+    "ImagePath": "BT06-030-UR.png",
+    "Name": "อาม่อน No.7",
+    "Type": "Avatar",
+    "Cost": 7,
+    "Gem": 0,
+    "Power": 7,
+    "Symbol": "นรก",
+    "Color": "#9900FF",
+    "Ex": "Only#1",
+    "ซอย": 2,
+    "Print": "BT06-030",
+    "Rare": "UR",
+    "Details": {
+      "Main Effect": "อัตโนมัติ เมื่อ Avatar ใบนี้ถูก ธรณีสูบ อัญเชิญ Avatar ใบนี้ ลงบน Avatar Zone ของฝ่ายเรา \nอัตโนมัติ เมื่อ Avatar ใบนี้ ถูกทำลายจาก Avatar Zone ลงนรก นำ Avatar ใบนี้กลับเข้าใต้สุดของ Deck เราแทนการลงนรก"
+    }
+  },
+  {
+    "ImagePath": "BT06-030-SEC.png",
+    "Name": "อาม่อน No.7",
+    "Type": "Avatar",
+    "Cost": 7,
+    "Gem": 0,
+    "Power": 7,
+    "Symbol": "นรก",
+    "Color": "#9900FF",
+    "Ex": "Only#1",
+    "ซอย": 2,
+    "Print": "BT06-030",
+    "Rare": "SEC",
+    "Details": {
+      "Main Effect": "อัตโนมัติ เมื่อ Avatar ใบนี้ถูก ธรณีสูบ อัญเชิญ Avatar ใบนี้ ลงบน Avatar Zone ของฝ่ายเรา \nอัตโนมัติ เมื่อ Avatar ใบนี้ ถูกทำลายจาก Avatar Zone ลงนรก นำ Avatar ใบนี้กลับเข้าใต้สุดของ Deck เราแทนการลงนรก"
+    }
+  },
+  {
+    "ImagePath": "BT06-031-C.png",
+    "Name": "งี่เง่า และ งอแง",
+    "Type": "Avatar",
+    "Cost": 2,
+    "Gem": 0,
+    "Power": 1,
+    "Symbol": "สัตว์",
+    "Color": "#9900FF",
+    "ซอย": 2,
+    "Print": "BT06-031",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "เทิร์นละครั้ง เลือกปฎิบัติ :\n1) เซ่นไหว้ Avatar ใบนี้ จั่วการ์ด 2 ใบ\n2) ได้รับ ความสามารถ เตะไข่ จนจบเทิร์น จากนั้นทำลาย Avatar ใบนี้ ในช่วง End Phase"
+    }
+  },
+  {
+    "ImagePath": "BT06-032-C.png",
+    "Name": "พีเจี้ยน 3000",
+    "Type": "Avatar",
+    "Cost": 0,
+    "Gem": 4,
+    "Power": 0,
+    "Symbol": "สัตว์",
+    "Color": "#6AA84F",
+    "ซอย": 2,
+    "Print": "BT06-032",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "เทิร์นละครั้ง สั่งใช้ : เลือก Avatar \"เครื่องบิน Super Air\" 1 ใบ บน Avatar Zone ฝ่ายเรา นำการ์ดใบนี้ไปสวมใส่ Avatar ใบนั้น\nAvatar ที่ถูกสวมใส่การ์ดใบนี้ ได้รับ ความสามารถ \"โล่มนุษย์\" และ POWER +1"
+    }
+  },
+  {
+    "ImagePath": "BT06-033-UR.png",
+    "Name": "เสาซินแสมงคล",
+    "Type": "Avatar",
+    "Cost": 7,
+    "Gem": 4,
+    "Power": 5,
+    "Symbol": "ต้นไม้",
+    "Color": "#6AA84F",
+    "Ex": "Only#1",
+    "ซอย": 2,
+    "Print": "BT06-033",
+    "Rare": "UR",
+    "Details": {
+      "Main Effect": "สามารถ ส่ง Avatar \"ซินแส\" และ \"เสามงคล\" อย่างละ 1 ใบ จาก Avatar Zone ฝ่ายเรา ลงนรก และ อัญเชิญ จุติ การ์ดใบนี้จากมือได้\nจุติ : นำ Avatar \"เสามงคล\" ได้สูงสุด 3 ใบจากนรกเรา ไปไว้ที่ Magic Zone ฝ่ายเรา\nต่อเนื่อง Avatar \"เสามงคล\" ฝ่ายเราสามารถใช้ความสามารถจาก Magic Zone ได้\nอัตโนมัติ เมื่อ Avatar ใบนี้ จะออกจากสนาม : สามารถส่ง Avatar \"เสามงคล\" ใบอื่นในสนามเรา 1 ใบ แทนการถูกนำออกจากสนามได้"
+    }
+  },
+  {
+    "ImagePath": "BT06-033-SEC.png",
+    "Name": "เสาซินแสมงคล",
+    "Type": "Avatar",
+    "Cost": 7,
+    "Gem": 4,
+    "Power": 5,
+    "Symbol": "ต้นไม้",
+    "Color": "#6AA84F",
+    "Ex": "Only#1",
+    "ซอย": 2,
+    "Print": "BT06-033",
+    "Rare": "SEC",
+    "Details": {
+      "Main Effect": "สามารถ ส่ง Avatar \"ซินแส\" และ \"เสามงคล\" อย่างละ 1 ใบ จาก Avatar Zone ฝ่ายเรา ลงนรก และ อัญเชิญ จุติ การ์ดใบนี้จากมือได้\nจุติ : นำ Avatar \"เสามงคล\" ได้สูงสุด 3 ใบจากนรกเรา ไปไว้ที่ Magic Zone ฝ่ายเรา\nต่อเนื่อง Avatar \"เสามงคล\" ฝ่ายเราสามารถใช้ความสามารถจาก Magic Zone ได้\nอัตโนมัติ เมื่อ Avatar ใบนี้ จะออกจากสนาม : สามารถส่ง Avatar \"เสามงคล\" ใบอื่นในสนามเรา 1 ใบ แทนการถูกนำออกจากสนามได้"
+    }
+  },
+  {
+    "ImagePath": "BT06-034-R.png",
+    "Name": "เสามงคล ทรงญี่ปุ่น",
+    "Type": "Avatar",
+    "Cost": 4,
+    "Gem": 2,
+    "Power": 3,
+    "Symbol": "ต้นไม้",
+    "Color": "#6AA84F",
+    "ซอย": 2,
+    "Print": "BT06-034",
+    "Rare": "R",
+    "Details": {
+      "Main Effect": "ต่อเนื่อง Avatar ใบนี้โจมตีไม่ได้\nเทิร์นละครั้ง สั่งใช้ : อัญเชิญ Avatar \"ผู้เจริญ\" 1 ใบ จากมือเรา ลงบน Avatar Zone ฝ่ายเรา Avatar ใบนั้นได้รับ POWER +1 ในช่วง End Phase เรา ส่ง Avatar ที่ถูกอัญเชิญด้วยความสามารถนี้ลงนรกเรา"
+    }
+  },
+  {
+    "ImagePath": "BT06-035-C.png",
+    "Name": "จ่านุ้ย ทหารช่าง",
+    "Type": "Avatar",
+    "Cost": 3,
+    "Gem": 2,
+    "Power": 2,
+    "Symbol": "คน",
+    "Color": "#6AA84F",
+    "ซอย": 2,
+    "Print": "BT06-035",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "จุติ : สอดแนม 5 ใบ เลือกการ์ด Construct 1 ใบ จากที่สอดแนม และนำขึ้นมือ จากนั้นนำการ์ดที่เหลือเรียงและนำไว้ใต้ Deck"
+    }
+  },
+  {
+    "ImagePath": "BT06-036-C.png",
+    "Name": "เสนาธิการ อาณาจักรของแพง",
+    "Type": "Avatar",
+    "Cost": 3,
+    "Gem": 2,
+    "Power": 2,
+    "Symbol": "สัตว์",
+    "Color": "#6AA84F",
+    "ซอย": 2,
+    "Print": "BT06-036",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "จุติ เลือก Avatar \"ราชาอาณาจักรของแพง  พระเจ้านิโคไล\" บน Avatar Zone ฝ่ายเรา 1 ใบ : ทำลาย Avatar บนสนามฝ่ายตรงข้าม 1 ใบ ที่มี Cost น้อยกว่า Cost ของการ์ดที่เราเลือก"
+    }
+  },
+  {
+    "ImagePath": "BT06-037-UR.png",
+    "Name": "สว นาโนแมชชีน",
+    "Type": "Avatar",
+    "Cost": 8,
+    "Gem": 1,
+    "Power": 8,
+    "Symbol": "หุ่นยนต์",
+    "Color": "#6AA84F",
+    "Ex": "Only#1",
+    "ซอย": 2,
+    "Print": "BT06-037",
+    "Rare": "UR",
+    "Details": {
+      "Main Effect": "ต่อเนื่อง Avatar ใบนี้ไม่ถูกทำลายจากการต่อสู้จาก Avatar ที่ POWER น้อยกว่า 10 และ ไม่ถูกทำลายจากความสามารถของ Magic Card  \nต่อเนื่อง Avatar ใบนี้ไม่สามารถถูกเปลี่ยนการควบคุมได้ "
+    }
+  },
+  {
+    "ImagePath": "BT06-037-SEC.png",
+    "Name": "สว นาโนแมชชีน",
+    "Type": "Avatar",
+    "Cost": 8,
+    "Gem": 1,
+    "Power": 8,
+    "Symbol": "หุ่นยนต์",
+    "Color": "#6AA84F",
+    "Ex": "Only#1",
+    "ซอย": 2,
+    "Print": "BT06-037",
+    "Rare": "SEC",
+    "Details": {
+      "Main Effect": "ต่อเนื่อง Avatar ใบนี้ไม่ถูกทำลายจากการต่อสู้จาก Avatar ที่ POWER น้อยกว่า 10 และ ไม่ถูกทำลายจากความสามารถของ Magic Card  \nต่อเนื่อง Avatar ใบนี้ไม่สามารถถูกเปลี่ยนการควบคุมได้ "
+    }
+  },
+  {
+    "ImagePath": "BT06-038-R.png",
+    "Name": "แมมมอธแช่แข็ง",
+    "Type": "Avatar",
+    "Cost": 5,
+    "Gem": 1,
+    "Power": 7,
+    "Symbol": "สัตว์",
+    "Color": "#6AA84F",
+    "ซอย": 2,
+    "Print": "BT06-038",
+    "Rare": "R",
+    "Details": {
+      "Main Effect": "ต่อเนื่อง Avatar ใบนี้ไม่สามารถ โจมตีได้\nต่อเนื่อง Avatar ใบนี้ไม่สามารถสวมใส่ Modification Magic ได้"
+    }
+  },
+  {
+    "ImagePath": "BT06-039-SR.png",
+    "Name": "เรนะ นักล่าไดโนเสาร์",
+    "Type": "Avatar",
+    "Cost": 3,
+    "Gem": 2,
+    "Power": 3,
+    "Symbol": "ชาวต่างชาติ",
+    "Color": "#6AA84F",
+    "ซอย": 2,
+    "Print": "BT06-039",
+    "Rare": "SR",
+    "Details": {
+      "Main Effect": "อัตโนมัติ เมื่อการ์ดใบนี้ประกาศโจมตี Avatar symbol กระปอม : ทำลาย Avatar ใบที่เป็นเป้าการโจมตี"
+    }
+  },
+  {
+    "ImagePath": "BT06-039-SEC.png",
+    "Name": "เรนะ นักล่าไดโนเสาร์",
+    "Type": "Avatar",
+    "Cost": 3,
+    "Gem": 2,
+    "Power": 3,
+    "Symbol": "ชาวต่างชาติ",
+    "Color": "#6AA84F",
+    "ซอย": 2,
+    "Print": "BT06-039",
+    "Rare": "SEC",
+    "Details": {
+      "Main Effect": "อัตโนมัติ เมื่อการ์ดใบนี้ประกาศโจมตี Avatar symbol กระปอม : ทำลาย Avatar ใบที่เป็นเป้าการโจมตี"
+    }
+  },
+  {
+    "ImagePath": "BT06-040-C.png",
+    "Name": "แมวเก็นไมฉะ",
+    "Type": "Avatar",
+    "Cost": 4,
+    "Gem": 2,
+    "Power": 3,
+    "Symbol": "สัตว์",
+    "Color": "#6AA84F",
+    "ซอย": 2,
+    "Print": "BT06-040",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "จุติ : เลือกปฏิบัติ \n1) อัญเชิญ Avatar แมวมัทฉะ 1 ใบ จากนรกเรา ลง Avatar Zone ฝ่ายเรา \n2) ถ้าใน Avatar Zone ฝ่ายเรา มี Avatar \"หมา\" หรือ \"แมว\" ใบอื่น 2 ใบขึ้นไป นำ Land Magic คาเฟ่หมาแมว 1 ใบ จาก Deck เราขึ้นมือ จากนั้นสับ Deck"
+    }
+  },
+  {
+    "ImagePath": "BT06-041-R.png",
+    "Name": "น้องมี่ 3.0",
+    "Type": "Avatar",
+    "Cost": 1,
+    "Gem": 0,
+    "Power": 4,
+    "Symbol": "เครื่องจักร",
+    "Color": "#FF0000",
+    "ซอย": 2,
+    "Print": "BT06-041",
+    "Rare": "R",
+    "Details": {
+      "Main Effect": null
+    }
+  },
+  {
+    "ImagePath": "BT06-042-C.png",
+    "Name": "พ่อหนุ่มเทสดี",
+    "Type": "Avatar",
+    "Cost": 0,
+    "Gem": 3,
+    "Power": 1,
+    "Symbol": "คน",
+    "Color": "#00FFFF",
+    "ซอย": 2,
+    "Print": "BT06-042",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": null
+    }
+  },
+  {
+    "ImagePath": "BT06-043-C.png",
+    "Name": "พลเอกปั๊ดโธ่",
+    "Type": "Avatar",
+    "Cost": 4,
+    "Gem": 0,
+    "Power": 2,
+    "Symbol": "คน",
+    "Color": "#6AA84F",
+    "ซอย": 2,
+    "Print": "BT06-043",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": null
+    }
+  },
+  {
+    "ImagePath": "BT06-044-C.png",
+    "Name": "พลเอกปักเป้า",
+    "Type": "Avatar",
+    "Cost": 3,
+    "Gem": 0,
+    "Power": 1,
+    "Symbol": "คน",
+    "Color": "#6AA84F",
+    "ซอย": 2,
+    "Print": "BT06-044",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": null
+    }
+  },
+  {
+    "ImagePath": "BT06-045-R.png",
+    "Name": "งานวิจัยของพระพรหม",
+    "Type": "Magic",
+    "SubType": "Normal",
+    "Gem": 0,
+    "Symbol": "เทพ",
+    "ซอย": 1,
+    "Print": "BT06-045",
+    "Rare": "R",
+    "Details": {
+      "Main Effect": "ทิ้งการ์ดจากบนมือเราทั้งหมด : ถ้าการ์ดที่ทิ้งมี 3 ใบขึ้นไป จั่วการ์ด 5 ใบ \nถ้าเราควบคุม Avatar \"พระพรหม\" ใน Avatar Zone เปลี่ยนความสามารถการ์ดใบนี้เป็น\nทิ้งการ์ดจากบนมือเราทั้งหมด : เลือกการ์ดที่ชอบจาก Deck เรา 1 ใบ และนำขึ้นมือ จากนั้นสับ Deck"
+    }
+  },
+  {
+    "ImagePath": "BT06-046-R.png",
+    "Name": "คำสั่งของพระอิศวร",
+    "Type": "Magic",
+    "SubType": "Normal",
+    "Gem": 1,
+    "Symbol": "เทพ",
+    "ซอย": 1,
+    "Print": "BT06-046",
+    "Rare": "R",
+    "Details": {
+      "Main Effect": "เลือกปฏิบัติ :\n1) เลือก Avatar บน Avatar Zone ฝ่ายตรงข้าม 1 ใบ POWER -2\n2) เลือก Construct บน Construct Zone ฝ่ายตรงข้าม 1 ใบ POWER -2\nถ้าเราควบคุม Avatar \"พระอิศวร\" ใน Avatar Zone สามารถทำความสามารถ 1) และ 2)"
+    }
+  },
+  {
+    "ImagePath": "BT06-047-R.png",
+    "Name": "จิตมุ่งมั่นของพระนารายณ์",
+    "Type": "Magic",
+    "SubType": "Normal",
+    "Gem": 2,
+    "Symbol": "เทพ",
+    "ซอย": 1,
+    "Print": "BT06-047",
+    "Rare": "R",
+    "Details": {
+      "Main Effect": "เลือก Avatar 1 ใบใน Avatar Zone ฝ่ายเราได้รับ : POWER +1 จนจบเทิร์น \nถ้าเราควบคุม Avatar \"พระนารายณ์\" ใน Avatar Zone สามารถเลือก Avatar ได้ สูงสุด 3 ใบ"
+    }
+  },
+  {
+    "ImagePath": "BT06-048-C.png",
+    "Name": "เฮือกสุดท้าย",
+    "Type": "Magic",
+    "SubType": "Normal",
+    "Gem": 2,
+    "Symbol": "จอมเวทย์",
+    "ซอย": 2,
+    "Print": "BT06-048",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "สามารถใช้การ์ดนี้ได้เมื่ออยู่ในสถานะสาหัสเท่านั้น : จั่วการ์ด 4 ใบ จาก Deck เรา และ ในเทิร์นนี้สามารถใช้ Nomal Magic ที่ไม่ใช่ เฮือกสุดท้าย ได้อีก 1 ใบ"
+    }
+  },
+  {
+    "ImagePath": "BT06-049-R.png",
+    "Name": "แผนลับของเหล่าพลเอก",
+    "Type": "Magic",
+    "SubType": "Normal",
+    "Gem": 4,
+    "Symbol": "กลยุททหาร",
+    "ซอย": 2,
+    "Print": "BT06-049",
+    "Rare": "R",
+    "Details": {
+      "Main Effect": "ส่ง Avatar \"พลเอก\" ที่ชื่อไม่ซ้ำกัน 3 ใบ จาก Avatar Zone ฝ่ายเราลงนรก : ส่งการ์ดบนสนามและบนมือของฝ่ายตรงข้ามทั้งหมดลงนรก และอัญเชิญ Avatar \"ทหาร\"  หรือ \"รด.\" ที่ชื่อไม่ซ้ำกัน จาก Deck เรา ได้มากสุด 3 ใบ ลงบน Avatar Zone ฝ่ายเรา จากนั้น สับ Deck"
+    }
+  },
+  {
+    "ImagePath": "BT06-050-C.png",
+    "Name": "ช่างมาแล้วววว",
+    "Type": "Magic",
+    "SubType": "React",
+    "Gem": 3,
+    "Symbol": "จอมเวทย์",
+    "ซอย": 2,
+    "Print": "BT06-050",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "เมื่อ Constuct Card จะถูกทำลาย : Construct ใบนั้น จะไม่ถูกทำลาย"
+    }
+  },
+  {
+    "ImagePath": "BT06-051-C.png",
+    "Name": "ธาตุไฟแตก ๆ",
+    "Type": "Magic",
+    "SubType": "React",
+    "Gem": 1,
+    "Symbol": "เทพ",
+    "ซอย": 2,
+    "Print": "BT06-051",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "ส่ง Avatar บน Avatar Zone ฝ่ายเราลงนรก : ทอยลูกเต๋า 1 ครั้ง จากนั้นแสดงผลตามผลลัพธ์ที่ได้\n- ออกคู่ ทำลาย Avatar ฝ่ายตรงข้าม 2 ใบ\n- ออกคี่ ทำลาย Avatar ฝ่ายเรา 1 ใบ"
+    }
+  },
+  {
+    "ImagePath": "BT06-052-C.png",
+    "Name": "เสียงเรียกแห่งวัลฮัลลา",
+    "Type": "Magic",
+    "SubType": "React",
+    "Gem": 2,
+    "Symbol": "เทพ",
+    "ซอย": 2,
+    "Print": "BT06-052",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "ใช้ได้เมื่ออยู่ในสถานะ สาหัส เท่านั้น \nเมื่อฝ่ายตรงข้ามประกาศโจมตี ธรณีสูบ  5 ใบ : ยกเลิกการโจมตีนั้น และ อัญเชิญ \"เทพธิดาแห่งวัลฮัลลา\" ได้สูงสุด 4 ใบ จากนรกเราลงบน Avatar Zone ฝ่ายเรา\nถ้าการ์ดใบนี้ถูก ธรณีสูบ ด้วยการ์ด Avatar symbol เทพ สีม่วง หรือ Magic Card : นำการ์ดใบนี้ขึ้นมือ "
+    }
+  },
+  {
+    "ImagePath": "BT06-053-R.png",
+    "Name": "พลังแฝง",
+    "Type": "Magic",
+    "SubType": "React",
+    "Gem": 2,
+    "Symbol": "จอมเวทย์",
+    "ซอย": 2,
+    "Print": "BT06-053",
+    "Rare": "R",
+    "Details": {
+      "Main Effect": "เมื่อ Avatar ฝ่ายเราต่อสู้ : Avatar ใบนั้น POWER +2 จนจบเทิร์น"
+    }
+  },
+  {
+    "ImagePath": "BT06-054-C.png",
+    "Name": "ลูกแก้วนาคา",
+    "Type": "Magic",
+    "SubType": "Modification",
+    "Gem": 3,
+    "Symbol": "จอมเวทย์",
+    "ซอย": 2,
+    "Print": "BT06-054",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "สวมใส่ได้เฉพาะ Avatar \"นาค\" ที่เป็น Symbol สัตว์มหัศจรรย์ เท่านั้น\nAvatar ที่สวมใส่การ์ดใบนี้ POWER +2"
+    }
+  },
+  {
+    "ImagePath": "BT06-055-SR.png",
+    "Name": "ไสยเวท ย้อนกลับ",
+    "Type": "Magic",
+    "SubType": "Modification",
+    "Gem": 2,
+    "Symbol": "จอมเวทย์",
+    "ซอย": 2,
+    "Print": "BT06-055",
+    "Rare": "SR",
+    "Details": {
+      "Main Effect": "เมื่อ Avatar ที่สวมใส่การ์ดใบนี้โจมตี : ธรณีสูบ 2 ใบ ถ้า 1 ในนั้น เป็นการ์ด Magic เปลี่ยน สภาพ Avatar ที่สวมใส่การ์ดใบนี้จากนอนเป็นตื่น ความสามารถนี้สามารถใช้ได้ 4 ครั้ง ใน 1 เทิร์น"
+    }
+  },
+  {
+    "ImagePath": "BT06-055-SEC.png",
+    "Name": "ไสยเวท ย้อนกลับ",
+    "Type": "Magic",
+    "SubType": "Normal",
+    "Gem": 2,
+    "Symbol": "จอมเวทย์",
+    "ซอย": 2,
+    "Print": "BT06-055",
+    "Rare": "SEC",
+    "Details": {
+      "Main Effect": "เมื่อ Avatar ที่สวมใส่การ์ดใบนี้โจมตี : ธรณีสูบ 2 ใบ ถ้า 1 ในนั้น เป็นการ์ด Magic เปลี่ยน สภาพ Avatar ที่สวมใส่การ์ดใบนี้จากนอนเป็นตื่น ความสามารถนี้สามารถใช้ได้ 4 ครั้ง ใน 1 เทิร์น"
+    }
+  },
+  {
+    "ImagePath": "BT06-056-C.png",
+    "Name": "เท่ระเบิด !!!!",
+    "Type": "Magic",
+    "SubType": "Modification",
+    "Gem": 2,
+    "Symbol": "กลยุททหาร",
+    "ซอย": 2,
+    "Print": "BT06-056",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "สวมใส่ได้ เฉพาะ Avatar \"ทหาร\" หรือ \"รด.\" เท่านั้น\nเมื่อ Avatar ที่สวมใส่การ์ดใบนี้ สั่งโจมตี : POWER +5 จนจบการต่อสู้ หลังจากนั้นทำลาย Avatar ที่สวมใส่การ์ดใบนี้"
+    }
+  },
+  {
+    "ImagePath": "BT06-057-R.png",
+    "Name": "กองถ่ายฤาษี",
+    "Type": "Magic",
+    "SubType": "Modification",
+    "Gem": 2,
+    "Symbol": "ฤาษี",
+    "ซอย": 2,
+    "Print": "BT06-057",
+    "Rare": "R",
+    "Details": {
+      "Main Effect": "สวมใส่ได้เฉพาะ Avatar Symbol ฤาษี เท่านั้น\nเมื่อ Avatar ที่สวมใส่การ์ดใบนี้ต่อสู้ : Avatar ฝ่ายตรงข้ามที่ต่อสู้ด้วย POWER -1 จนจบการต่อสู้นั้น"
+    }
+  },
+  {
+    "ImagePath": "BT06-058-C.png",
+    "Name": "ดาบศักดิ์สิทธิ์ แกลลาติน ",
+    "Type": "Magic",
+    "SubType": "Modification",
+    "Gem": 2,
+    "Symbol": "จอมเวทย์",
+    "ซอย": 2,
+    "Print": "BT06-058",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "สวมใส่ได้เฉพาะ Avatar \"อัศวินโต๊ะกลม\" เท่านั้น \nAvatar ที่สวมใส่การ์ดใบนี้ จะไม่ถูกทำลายด้วยผลของ Magic Card ถ้าอยู่ในสภาพตื่น\nถ้าในเทิร์นนี้ ยังไม่ได้ใช้ Modification Magic สามารถธรณีสูบ 1 ใบ และนำการ์ดใบนี้ที่อยู่ในนรก ไปสวมใส่ให้ \"อัศวินโต๊ะกลม\" ใน Avatar Zone ฝ่ายเรา และนับว่าเป็นการใช้ Modification Magic"
+    }
+  },
+  {
+    "ImagePath": "BT06-059-C.png",
+    "Name": "นรกในกรง",
+    "Type": "Magic",
+    "SubType": "Land",
+    "Gem": 2,
+    "Symbol": "จอมเวทย์",
+    "ซอย": 2,
+    "Print": "BT06-059",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "ผู้เล่นทุกคนสามารถควบคุม Avatar ใน Avatar Zone ได้เพียง 3 ใบ \nเมื่อการ์ดใบนี้ถูกใช้บน Land Magic Zone ผู้เล่นใดก็ตามที่ควบคุม Avatar บน Avatar Zone มากกว่า 3 ใบ ให้ส่ง Avatar ลงนรก จนเหลือ Avatar บน Avatar Zone แค่ 3 ใบ"
+    }
+  },
+  {
+    "ImagePath": "BT06-060-SR.png",
+    "Name": "คาเฟ่หมาแมว",
+    "Type": "Magic",
+    "SubType": "Land",
+    "Gem": 3,
+    "Symbol": "สัตว์",
+    "ซอย": 2,
+    "Print": "BT06-060",
+    "Rare": "SR",
+    "Details": {
+      "Main Effect": "เทิร์นละครั้ง สั่งใช้ ในช่วง End Phase ของเรา : นำ Avatar \"หมา\" หรือ \"แมว\" ที่เป็น Symbol สัตว์ 1 ใบ ใน Avatar Zone ฝ่ายเรากลับเข้า Deck และ อัญเชิญ Avatar \"หมา\" หรือ \"แมว\" ที่เป็น Symbol สัตว์ 1 ใบ  จาก Deck เรา ที่ชื่อไม่ซ้ำกับ Avatar ที่กลับเข้า Deck ไป ด้วยความสามารถนี้ลงบน Avatar Zone ฝ่ายเรา และ สับ Deck จากนั้น Avatar \"หมา\" หรือ \"แมว\" ที่เป็น Symbol สัตว์ 1 ใบ บน Avatar Zone ฝ่ายเรา POWER +1"
+    }
+  },
+  {
+    "ImagePath": "BT06-060-SEC.png",
+    "Name": "คาเฟ่หมาแมว",
+    "Type": "Magic",
+    "SubType": "Land",
+    "Gem": 3,
+    "Symbol": "สัตว์",
+    "ซอย": 2,
+    "Print": "BT06-060",
+    "Rare": "SEC",
+    "Details": {
+      "Main Effect": "เทิร์นละครั้ง สั่งใช้ ในช่วง End Phase ของเรา : นำ Avatar \"หมา\" หรือ \"แมว\" ที่เป็น Symbol สัตว์ 1 ใบ ใน Avatar Zone ฝ่ายเรากลับเข้า Deck และ อัญเชิญ Avatar \"หมา\" หรือ \"แมว\" ที่เป็น Symbol สัตว์ 1 ใบ  จาก Deck เรา ที่ชื่อไม่ซ้ำกับ Avatar ที่กลับเข้า Deck ไป ด้วยความสามารถนี้ลงบน Avatar Zone ฝ่ายเรา และ สับ Deck จากนั้น Avatar \"หมา\" หรือ \"แมว\" ที่เป็น Symbol สัตว์ 1 ใบ บน Avatar Zone ฝ่ายเรา POWER +1"
+    }
+  },
+  {
+    "ImagePath": "BT06-061-SR.png",
+    "Name": "สภาแบงค์",
+    "Type": "Magic",
+    "SubType": "Land",
+    "Gem": 1,
+    "Symbol": "จอมเวทย์",
+    "ซอย": 2,
+    "Print": "BT06-061",
+    "Rare": "SR",
+    "Details": {
+      "Main Effect": "Avatar \"แบงค์\" ทุกใบบนมือ Cost -1\nGem ของ Avatar \"แบงค์\" ทุกใบบนมือ จะกลายเป็น Gem ไร้สี"
+    }
+  },
+  {
+    "ImagePath": "BT06-061-SEC.png",
+    "Name": "สภาแบงค์",
+    "Type": "Magic",
+    "SubType": "Land",
+    "Gem": 1,
+    "Symbol": "จอมเวทย์",
+    "ซอย": 2,
+    "Print": "BT06-061",
+    "Rare": "SEC",
+    "Details": {
+      "Main Effect": "Avatar \"แบงค์\" ทุกใบบนมือ Cost -1\nGem ของ Avatar \"แบงค์\" ทุกใบบนมือ จะกลายเป็น Gem ไร้สี"
+    }
+  },
+  {
+    "ImagePath": "BT06-062-R.png",
+    "Name": "ถ้ำนาคา",
+    "Type": "Magic",
+    "SubType": "Land",
+    "Gem": 1,
+    "Symbol": "จอมเวทย์",
+    "ซอย": 2,
+    "Print": "BT06-062",
+    "Rare": "R",
+    "Details": {
+      "Main Effect": "Avatar \"นาค\" ที่เป็น Symbol สัตว์มหัศจรรย์ POWER +1"
+    }
+  },
+  {
+    "ImagePath": "BT06-063-R.png",
+    "Name": "ประตูวัลฮัลลา",
+    "Type": "Magic",
+    "SubType": "Land",
+    "Gem": 2,
+    "Symbol": "เทพ",
+    "ซอย": 2,
+    "Print": "BT06-063",
+    "Rare": "R",
+    "Details": {
+      "Main Effect": "เทิร์นละครั้ง สั่งใช้ ธรณีสูบ 2 ใบ : เลือก Avatar \"เทพธิดาแห่งวัลฮัลลา\" 1 ใบ ในนรกฝ่ายเรานำกลับขึ้นมือ"
+    }
+  },
+  {
+    "ImagePath": "BT06-064-C.png",
+    "Name": "เวทีเพื่อชีวิต",
+    "Type": "Construct",
+    "Cost": 3,
+    "Gem": 2,
+    "Power": 3,
+    "Symbol": "สิ่งก่อสร้าง",
+    "Color": "#FF0000",
+    "ซอย": 2,
+    "Print": "BT06-064",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "ต่อเนื่อง ใน Battle Phase ฝ่ายเรา Avatar ทุกใบใน Avatar Zone ฝ่ายเรา POWER +1 "
+    }
+  },
+  {
+    "ImagePath": "BT06-065-SR.png",
+    "Name": "รูปปั้นพระอิศวร",
+    "Type": "Construct",
+    "Cost": 5,
+    "Gem": 1,
+    "Power": 4,
+    "Symbol": "เทพ",
+    "Color": "#FF0000",
+    "ซอย": 2,
+    "Print": "BT06-065",
+    "Rare": "SR",
+    "Details": {
+      "Main Effect": "ในช่วง Draw Phase ของเรา สามารถสอดแนม 2 ใบ และนำการ์ด Symbol เทพ 1 ใบ จากที่สอดแนม ขึ้นมือ แทนการจั่วปกติ การ์ดที่เหลือนำไว้ล่างสุดของ Deck"
+    }
+  },
+  {
+    "ImagePath": "BT06-066-R.png",
+    "Name": "ยานสำรวจ R18 ",
+    "Type": "Construct",
+    "Cost": 4,
+    "Gem": 2,
+    "Power": 4,
+    "Symbol": "สิ่งก่อสร้าง",
+    "Color": "#00FFFF",
+    "ซอย": 2,
+    "Print": "BT06-066",
+    "Rare": "R",
+    "Details": {
+      "Main Effect": " เทิร์นละครั้ง สั่งใช้ ถ้าเราควบคุม Avatar \"มนุษย์ดาว R18\" ใน Avatar Zone : นำการ์ด Avatar 1 ใบ ใน นรกฝ่ายตรงข้าม ที่ Cost 5 หรือมากกว่า มาไว้ที่ Magic Zone ฝ่ายเรา จากนั้น เปลี่ยนชื่อ Avatar ใบนั้นเป็น \"ข้ารับใช้ของ มนุษย์ดาว R18\" และเปลี่ยนเป็น Symbol เอเลี่ยน"
+    }
+  },
+  {
+    "ImagePath": "BT06-067-R.png",
+    "Name": "กองไฟลูกเสือ",
+    "Type": "Construct",
+    "Cost": 4,
+    "Gem": 2,
+    "Power": 3,
+    "Symbol": "สิ่งก่อสร้าง",
+    "Color": "#00FFFF",
+    "ซอย": 2,
+    "Print": "BT06-067",
+    "Rare": "R",
+    "Details": {
+      "Main Effect": "Avatar ที่มี Cost 2 หรือน้อยกว่า ทุกใบใน Avatar Zone ฝ่ายเราได้รับ สามัคคี"
+    }
+  },
+  {
+    "ImagePath": "BT06-068-R.png",
+    "Name": "ป้อมยาม",
+    "Type": "Construct",
+    "Cost": 4,
+    "Gem": 1,
+    "Power": 3,
+    "Symbol": "สิ่งก่อสร้าง",
+    "Color": "#9900FF",
+    "ซอย": 2,
+    "Print": "BT06-068",
+    "Rare": "R",
+    "Details": {
+      "Main Effect": "ต่อเนื่อง ตราบเท่าที่ Construct ใบนี้ อยู่บน Construct Zone ฝ่ายตรงข้ามไม่สามารถโจมตี LIFE Card เราได้"
+    }
+  },
+  {
+    "ImagePath": "BT06-069-C.png",
+    "Name": "หุบเขา 3 พลเอก",
+    "Type": "Construct",
+    "Cost": 3,
+    "Gem": 2,
+    "Power": 4,
+    "Symbol": "กลยุททหาร",
+    "Color": "#6AA84F",
+    "ซอย": 2,
+    "Print": "BT06-069",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "ต่อเนื่อง ตราบเท่าที่อยู่ใน Construct Zone เปลี่ยนความสามารถ Magic Card ใบดำใบแดง เป็น\nสอดแนม 3 ใบ : เลือกการ์ด Avatar {Symbol : คน} Cost ไม่เกิน 4 สีเขียว 1 ใบ จากที่สอดแนม อัญเชิญลงบน Avatar Zone ฝ่ายเรา การ์ดที่เหลือเรียงและนำไว้ใต้ Deck\nต่อเนื่อง ตราบเท่าที่อยู่ใน Construct Zone สามารถใช้ Magic Card ใบดำใบแดง เทิร์นละกี่ใบก็ได้"
+    }
+  },
+  {
+    "ImagePath": "BT06-070-SR.png",
+    "Name": "ตู้วารีบำบัด ",
+    "Type": "Construct",
+    "Cost": 5,
+    "Gem": 1,
+    "Power": 1,
+    "Symbol": "สิ่งก่อสร้าง",
+    "Color": "#6AA84F",
+    "ซอย": 2,
+    "Print": "BT06-070",
+    "Rare": "SR",
+    "Details": {
+      "Main Effect": "สั่งใช้ ในช่วง Draw Phase ฝ่ายเรา สามารถทำลายการ์ดใบนี้ : เลือก LIFE Card 1 ใบของเราที่หงายอยู่ จากนั้นคว่ำการ์ดใบนั้น"
+    }
+  },
+  {
+    "ImagePath": "BT06-070-SEC.png",
+    "Name": "ตู้วารีบำบัด ",
+    "Type": "Construct",
+    "Cost": 5,
+    "Gem": 1,
+    "Power": 1,
+    "Symbol": "สิ่งก่อสร้าง",
+    "Color": "#6AA84F",
+    "ซอย": 2,
+    "Print": "BT06-070",
+    "Rare": "SEC",
+    "Details": {
+      "Main Effect": "สั่งใช้ ในช่วง Draw Phase ฝ่ายเรา สามารถทำลายการ์ดใบนี้ : เลือก LIFE Card 1 ใบของเราที่หงายอยู่ จากนั้นคว่ำการ์ดใบนั้น"
+    }
+  }
+]
