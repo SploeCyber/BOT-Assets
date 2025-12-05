@@ -186,7 +186,7 @@ def process_card_image(idx, image, ws, merged_lookup, args, output_folder, card_
         # Save Image
         if img_obj:
             img_path = os.path.join(output_folder, file_name)
-            img_obj.save(img_path)
+            img_obj.save(img_path, optimize=True)
             
         card_temp["ImagePath"] = file_name
 
