@@ -1,0 +1,400 @@
+[
+  {
+    "ImagePath": "SD07-001-SR.png",
+    "Name": "กวนอู ขุนพลภักดีแห่งจ๊กก๊ก",
+    "Type": "Avatar",
+    "Cost": 4,
+    "Gem": 1,
+    "Power": 4,
+    "Symbol": "ต่างชาติ",
+    "Color": "#00FF00",
+    "ซอย": 2,
+    "Print": "SD07-001",
+    "Rare": "SR",
+    "Details": {
+      "Main Effect": "ลูกฮึด\nต่อเนื่อง Avatar ใบนี้ไม่สามารถเปลี่ยนการควบคุมได้\nต่อเนื่อง ผู้เล่นฝ่ายตรงข้าม ไม่สามารถเลือกเป้าหมายของความสามารถการ์ดไปที่ Avatar \"ขุนพล\" ที่เป็น Symbol ชาวต่างชาติ ฝ่ายเราได้ ยกเว้น \"กวนอู ขุนพลภักดีแห่งจ๊กก๊ก\""
+    }
+  },
+  {
+    "ImagePath": "SD07-002-C.png",
+    "Name": "เตียวหุย ขุนพลจอมบุกแห่งจ๊กก๊ก",
+    "Type": "Avatar",
+    "Cost": 5,
+    "Gem": 2,
+    "Power": 4,
+    "Symbol": "ต่างชาติ",
+    "Color": "#00FF00",
+    "ซอย": 2,
+    "Print": "SD07-002",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "\nอัตโนมัติ เมื่อ Avatar ใบนี้ โจมตี : POWER +1"
+    }
+  },
+  {
+    "ImagePath": "SD07-003-C.png",
+    "Name": "แฮหัวตุ้น ขุนพลตาเดียวแห่งวุยก๊ก",
+    "Type": "Avatar",
+    "Cost": 4,
+    "Gem": 2,
+    "Power": 4,
+    "Symbol": "ต่างชาติ",
+    "Color": "#00FFFF",
+    "ซอย": 2,
+    "Print": "SD07-003",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "อัตโนมัติ เมื่อการ์ดใบนี้ถูกอัญเชิญมาด้วยความสามารถของ Avatar \"ขุนพล\" ที่เป็น Symbol ชาวต่างชาติ : ทำลายการ์ดบนสนาม 1 ใบ"
+    }
+  },
+  {
+    "ImagePath": "SD07-004-C.png",
+    "Name": "แฮหัวเอี๋ยน ขุนพลธนูแห่งวุยก๊ก",
+    "Type": "Avatar",
+    "Cost": 3,
+    "Gem": 3,
+    "Power": 1,
+    "Symbol": "ต่างชาติ",
+    "Color": "#00FFFF",
+    "ซอย": 2,
+    "Print": "SD07-004",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "แทงหลัง (เปลี่ยนการ์ดนี้ที่อยู่บน Avatar Zone ในสภาพตื่นเป็นสภาพนอน และนำ POWER การ์ดนี้ +1 ไปเพิ่มให้กับ  Avatar ที่สั่งโจมตี จนจบการต่อสู้นั้น เมื่อจบการต่อสู้ ถ้า Avatar ที่สั่งโจมตี มีสีต่างกับ Avatar นี้ ทำลาย Avatar ที่สั่งโจมตี)\nอัตโนมัติ เมื่อการ์ดใบนี้ถูกอัญเชิญมาด้วยความสามารถของ Avatar \"ขุนพล\" ที่เป็น Symbol ชาวต่างชาติ : จั่วการ์ด 1 ใบ"
+    }
+  },
+  {
+    "ImagePath": "SD07-005-C.png",
+    "Name": "ซุนเกี๋ยน ขุนพลพยัคฆ์แห่งง่อก๊ก",
+    "Type": "Avatar",
+    "Cost": 4,
+    "Gem": 2,
+    "Power": 3,
+    "Symbol": "ต่างชาติ",
+    "Color": "#FF0000",
+    "ซอย": 2,
+    "Print": "SD07-005",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "โล่มนุษย์ \nคำสั่งเสีย : เลือก Avatar \"ขุนพล\" ที่เป็น Symbol ชาวต่างชาติ 1 ใบ บน Avatar Zone ฝ่ายเรา Avatar ใบที่เลือก POWER +2 จนจบเทิร์นถัดไปของฝ่ายตรงข้าม"
+    }
+  },
+  {
+    "ImagePath": "SD07-006-C.png",
+    "Name": "ซุนเซ็ก ขุนพลไฟแรงแห่งง่อก๊ก",
+    "Type": "Avatar",
+    "Cost": 3,
+    "Gem": 2,
+    "Power": 2,
+    "Symbol": "ต่างชาติ",
+    "Color": "#FF0000",
+    "ซอย": 2,
+    "Print": "SD07-006",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "แทงหลัง (เปลี่ยนการ์ดนี้ที่อยู่บน Avatar Zone ในสภาพตื่นเป็นสภาพนอน และนำ POWER การ์ดนี้ +1 ไปเพิ่มให้กับ  Avatar ที่สั่งโจมตี จนจบการต่อสู้นั้น เมื่อจบการต่อสู้ ถ้า Avatar ที่สั่งโจมตี มีสีต่างกับ Avatar นี้ ทำลาย Avatar ที่สั่งโจมตี)\nอัตโนมัติ เทิร์นละครั้ง เมื่อการ์ดใบนี้ใช้ความสามารถ แทงหลัง ให้ Avatar สีแดง : เปลี่ยน Avatar ใบนี้จากสภาพนอนเป็นสภาพตื่น"
+    }
+  },
+  {
+    "ImagePath": "SD07-007-UR.png",
+    "Name": "ลิโป้ ขุนพลเทพสงคราม",
+    "Type": "Avatar",
+    "Cost": 8,
+    "Gem": 0,
+    "Power": 7,
+    "Symbol": "ต่างชาติ",
+    "Color": "#9900FF",
+    "ซอย": 2,
+    "Print": "SD07-007",
+    "Rare": "UR",
+    "Details": {
+      "Main Effect": "ต่อเนื่อง ในช่วง Battle Phase Avatar ฝ่ายตรงข้ามทุกใบได้รับ โล่มนุษย์\nอัตโนมัติ เมื่อ Avatar ใบนี้โจมตี : ฝ่ายตรงข้ามจะต้องใช้ความสามารถ โล่มนุษย์ เสมอ\nอัตโนมัติ ในเทิร์นฝ่ายเรา เมื่อมีการเปลี่ยนเป้าหมายการโจมตี : สามารถทำลาย Avatar ฝ่ายตรงข้าม 1 ใบ"
+    }
+  },
+  {
+    "ImagePath": "SD07-007-PR.png",
+    "Name": "ลิโป้ ขุนพลเทพสงคราม",
+    "Type": "Avatar",
+    "Cost": 8,
+    "Gem": 0,
+    "Power": 7,
+    "Symbol": "ต่างชาติ",
+    "Color": "#9900FF",
+    "ซอย": 2,
+    "Print": "SD07-007",
+    "Rare": "PR",
+    "Details": {
+      "Main Effect": "ต่อเนื่อง ในช่วง Battle Phase Avatar ฝ่ายตรงข้ามทุกใบได้รับ โล่มนุษย์\nอัตโนมัติ เมื่อ Avatar ใบนี้โจมตี : ฝ่ายตรงข้ามจะต้องใช้ความสามารถ โล่มนุษย์ เสมอ\nอัตโนมัติ ในเทิร์นฝ่ายเรา เมื่อมีการเปลี่ยนเป้าหมายการโจมตี : สามารถทำลาย Avatar ฝ่ายตรงข้าม 1 ใบ"
+    }
+  },
+  {
+    "ImagePath": "SD06-007-CB.png",
+    "Name": "ลิโป้ ขุนพลเทพสงคราม",
+    "Type": "Avatar",
+    "Cost": 8,
+    "Gem": 0,
+    "Power": 7,
+    "Symbol": "ต่างชาติ",
+    "Color": "#9900FF",
+    "ซอย": 2,
+    "Print": "SD06-007",
+    "Rare": "CB",
+    "Details": {
+      "Main Effect": "ต่อเนื่อง ในช่วง Battle Phase Avatar ฝ่ายตรงข้ามทุกใบได้รับ โล่มนุษย์\nอัตโนมัติ เมื่อ Avatar ใบนี้โจมตี : ฝ่ายตรงข้ามจะต้องใช้ความสามารถ โล่มนุษย์ เสมอ\nอัตโนมัติ ในเทิร์นฝ่ายเรา เมื่อมีการเปลี่ยนเป้าหมายการโจมตี : สามารถทำลาย Avatar ฝ่ายตรงข้าม 1 ใบ"
+    }
+  },
+  {
+    "ImagePath": "SD07-008-C.png",
+    "Name": "อ้วนเสี้ยว ผู้นำขุนพล 18 หัวเมือง",
+    "Type": "Avatar",
+    "Cost": 5,
+    "Gem": 2,
+    "Power": 2,
+    "Symbol": "ต่างชาติ",
+    "Color": "#00FFFF",
+    "ซอย": 2,
+    "Print": "SD07-008",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "แทงหลัง (เปลี่ยนการ์ดนี้ที่อยู่บน Avatar Zone ในสภาพตื่นเป็นสภาพนอน และนำ POWER การ์ดนี้ +1 ไปเพิ่มให้กับ  Avatar ที่สั่งโจมตี จนจบการต่อสู้นั้น เมื่อจบการต่อสู้ ถ้า Avatar ที่สั่งโจมตี มีสีต่างกับ Avatar นี้ ทำลาย Avatar ที่สั่งโจมตี) \nจุติ : สอดแนม 3 ใบ เลือก Avatar \"ขุนพล\" ที่เป็น Avatar {Symbol ชาวต่างชาติ} 1 ใบ จากที่สอดแนม และนำขึ้นมือ ถ้า Avatar ใบที่เลือกเป็น Avatar สีฟ้า สามารถอัญเชิญ Avatar ใบนั้น ลงบน Avatar Zone ฝ่ายเราแทนได้ การ์ดที่เหลือนำกลับ Deck แล้วสับ                                     "
+    }
+  },
+  {
+    "ImagePath": "SD07-009-C.png",
+    "Name": "ขุนศึกแบงค์ แซ่อู๋",
+    "Type": "Avatar",
+    "Cost": 4,
+    "Gem": 2,
+    "Power": 2,
+    "Symbol": "ต่างชาติ",
+    "Color": "#9900FF",
+    "ซอย": 2,
+    "Print": "SD07-009",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "แทงหลัง (เปลี่ยนการ์ดนี้ที่อยู่บน Avatar Zone ในสภาพตื่นเป็นสภาพนอนบน และนำ POWER การ์ดนี้ +1 ไปเพิ่มให้กับ  Avatar ที่สั่งโจมตี จนจบการต่อสู้นั้น เมื่อจบการต่อสู้ ถ้า Avatar ที่สั่งโจมตี มีสีต่างกับ Avatar นี้ ทำลาย Avatar ที่สั่งโจมตี)"
+    }
+  },
+  {
+    "ImagePath": "SD07-010-C.png",
+    "Name": "พลเดินทัพ",
+    "Type": "Avatar",
+    "Cost": 2,
+    "Gem": 3,
+    "Power": 2,
+    "Symbol": "ต่างชาติ",
+    "Color": "#FF0000",
+    "ซอย": 2,
+    "Print": "SD07-010",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": null
+    }
+  },
+  {
+    "ImagePath": "SD07-011-C.png",
+    "Name": "พลเสบียง",
+    "Type": "Avatar",
+    "Cost": 0,
+    "Gem": 4,
+    "Power": 0,
+    "Symbol": "สัตว์",
+    "Color": "#00FF00",
+    "ซอย": 2,
+    "Print": "SD07-011",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": null
+    }
+  },
+  {
+    "ImagePath": "SD07-012-C.png",
+    "Name": "ชาวบ้านจ้าน",
+    "Type": "Avatar",
+    "Cost": 0,
+    "Gem": 1,
+    "Power": 1,
+    "Symbol": "ต่างชาติ",
+    "Color": "#00FFFF",
+    "ซอย": 2,
+    "Print": "SD07-012",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": null
+    }
+  },
+  {
+    "ImagePath": "SD07-013-SR.png",
+    "Name": "คำสาบานสวนท้อ",
+    "Type": "Magic",
+    "SubType": "Normal",
+    "Gem": 2,
+    "Symbol": "จอมเวทย์",
+    "ซอย": 2,
+    "Print": "SD07-013",
+    "Rare": "SR",
+    "Details": {
+      "Main Effect": "เลือกปฏิบัติ :\n1) เลือก Avatar \"ขุนพล\" ที่เป็น Symbol ชาวต่างชาติ 1 ใบ บน Avatar Zone ฝ่ายเรา นำ Avatar \"ขุนพล\" ที่เป็น Symbol ชาวต่างชาติ ที่ไม่ใช่ Only#1 1 ใบ จาก Deck เรา ที่มีสีเดียวกันกับ Avatar ที่เลือก แต่คนละชื่อกัน ขึ้นมือ จากนั้นสับ Deck \n2) เลือก Avatar \"ขุนพล\" ที่เป็น Symbol ชาวต่างชาติ 2 ใบ บน Avatar Zone ฝ่ายเรา ที่มีสีเดียวกัน แต่ชื่อไม่ซ้ำกัน นำ Avatar \"ขุนพล\" ที่เป็น Symbol ชาวต่างชาติ และเป็น Only#1 1 ใบ จาก Deck เรา ที่มีสีเดียวกันกับ Avatar ที่เลือก ขึ้นมือ จากนั้นสับ Deck "
+    }
+  },
+  {
+    "ImagePath": "SD07-014-C.png",
+    "Name": "ยืมมือสังหาร",
+    "Type": "Magic",
+    "SubType": "Normal",
+    "Gem": 0,
+    "Symbol": "จอมเวทย์",
+    "ซอย": 1,
+    "Print": "SD07-014",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "สามารถใช้การ์ดใบนี้ได้เมื่อ Avatar Zone ฝ่ายเรามี Avatar \"ขุนพล\" ที่เป็น Symbol ชาวต่างชาติ เท่านั้น\nทิ้งการ์ดบนมือ 1 ใบ เลือก Avatar 1 ใบ ของฝ่ายตรงข้าม ที่มี Modification Magic ของฝ่ายตรงข้ามสวมใส่อยู่ : เปลี่ยนการควบคุม Avatar ใบที่เลือก มาบน Avatar Zone ฝ่ายเรา จนจบเทิร์น และเปลี่ยนเป็นสภาพตื่น Avatar ใบที่เลือก จะไม่สามารถโจมตีไปที่ LIFE Card ได้ "
+    }
+  },
+  {
+    "ImagePath": "SD07-015-C.png",
+    "Name": "เสบียงหลวง",
+    "Type": "Magic",
+    "SubType": "Normal",
+    "Gem": 2,
+    "Symbol": "จอมเวทย์",
+    "ซอย": 2,
+    "Print": "SD07-015",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "ผู้เล่นทุกคน จั่วการ์ด 1 ใบ\nถ้าบน Avatar Zone ฝ่ายเรามี \"ขุนพล\" ที่เป็น Symbol ชาวต่างชาติ ตั้งแต่ 2 ใบขึ้นไป เปลี่ยนความสามารถการ์ดใบนี้เป็น \nจั่วการ์ด 2 ใบ จาก Deck เรา"
+    }
+  },
+  {
+    "ImagePath": "SD07-016-C.png",
+    "Name": "หนีคือยอดกลยุทธ์",
+    "Type": "Magic",
+    "SubType": "React Magic",
+    "Gem": 2,
+    "Symbol": "จอมเวทย์",
+    "ซอย": 2,
+    "Print": "SD07-016",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "เมื่อ Avatar ฝ่ายเรา ถูกโจมตี : นำ Avatar ใบที่ถูกโจมตี กลับขึ้นมือ"
+    }
+  },
+  {
+    "ImagePath": "SD07-017-C.png",
+    "Name": "หมอมาแล้วววว",
+    "Type": "Magic",
+    "SubType": "React Magic",
+    "Gem": 3,
+    "Symbol": "จอมเวทย์",
+    "ซอย": 2,
+    "Print": "SD07-017",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "เมื่อ Avatar บนสนามจะถูกทำลาย : Avatar ใบนั้นจะไม่ถูกทำลาย"
+    }
+  },
+  {
+    "ImagePath": "SD07-018-C.png",
+    "Name": "ง้าวมังกรเขียว",
+    "Type": "Magic",
+    "SubType": "Modification",
+    "Gem": 2,
+    "Symbol": "จอมเวทย์",
+    "ซอย": 2,
+    "Print": "SD07-018",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "สวมใส่ได้เฉพาะ Avatar \"ขุนพล\" ที่เป็น Symbol ชาวต่างชาติ เท่านั้น\nAvatar ที่สวมใส่การ์ดใบนี้ POWER +1 ถ้า Avatar ที่สวมใส่การ์ดใบนี้คือ \"กวนอู\" POWER +2 แทน "
+    }
+  },
+  {
+    "ImagePath": "SD07-019-C.png",
+    "Name": "เมืองลกเอี๋ยง",
+    "Type": "Magic",
+    "SubType": "Land",
+    "Gem": 2,
+    "Symbol": "จอมเวทย์",
+    "ซอย": 2,
+    "Print": "SD07-019",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "หากบน Avatar Zone ฝ่ายเรามี Avatar 4 สี ขึ้นไป Avatar ทุกใบบน Avatar Zone ฝ่ายเรา POWER +2"
+    }
+  },
+  {
+    "ImagePath": "SD07-020-C.png",
+    "Name": "ด่านเฮาโลก๋วน",
+    "Type": "Construct ",
+    "Cost": 4,
+    "Gem": 1,
+    "Power": 3,
+    "Symbol": "สิ่งก่อสร้าง",
+    "Color": "#9900FF",
+    "ซอย": 2,
+    "Print": "SD07-020",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "ต่อเนื่อง ผู้เล่นฝ่ายตรงข้ามไม่สามารถใช้ ความสามารถ สามัคคี ได้\nต่อเนื่อง Avatar \"ขุนพล\" สีม่วง บน Avatar Zone ฝ่ายเรา ทุกใบ POWER +1"
+    }
+  },
+  {
+    "ImagePath": "SD07-021-C.png",
+    "Name": "ไม่นะ เล่าปี่",
+    "Type": "Life",
+    "ซอย": 2,
+    "Print": "SD07-021",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "ใน Main Phase ถัดไป สามารถ อัญเชิญ Avatar สีเขียว ที่ Cost 4 หรือต่ำกว่า 1 ใบ จากมือลงบน Avatar Zone ฝ่ายเรา",
+      "Favor Text": null
+    }
+  },
+  {
+    "ImagePath": "SD07-022-C.png",
+    "Name": "ไม่นะ โจโฉ",
+    "Type": "Life",
+    "ซอย": 2,
+    "Print": "SD07-022",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "ใน Main Phase ถัดไป สามารถ อัญเชิญ Avatar สีฟ้า ที่ Cost 4 หรือต่ำกว่า 1 ใบ จากมือลงบน Avatar Zone ฝ่ายเรา",
+      "Favor Text": null
+    }
+  },
+  {
+    "ImagePath": "SD07-023-C.png",
+    "Name": "ไม่นะ ซุนกวน",
+    "Type": "Life",
+    "ซอย": 2,
+    "Print": "SD07-023",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "ใน Main Phase ถัดไป สามารถ อัญเชิญ Avatar สีแดง ที่ Cost 4 หรือต่ำกว่า 1 ใบ จากมือลงบน Avatar Zone ฝ่ายเรา",
+      "Favor Text": null
+    }
+  },
+  {
+    "ImagePath": "SD07-024-C.png",
+    "Name": "ตั๋งโต๊ะตายแล้วววว",
+    "Type": "Life",
+    "ซอย": 2,
+    "Print": "SD07-024",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "ใน Main Phase ถัดไป จั่วการ์ด 1 ใบ ",
+      "Favor Text": null
+    }
+  },
+  {
+    "ImagePath": "SD07-025-C.png",
+    "Name": "ไม่นะ อาม่า",
+    "Type": "Life",
+    "ซอย": 2,
+    "Print": "SD07-025",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "ใน Main Phase ถัดไป จั่วการ์ด 1 ใบ ",
+      "Favor Text": null
+    }
+  }
+]

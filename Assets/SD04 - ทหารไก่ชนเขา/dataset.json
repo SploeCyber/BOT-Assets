@@ -1,0 +1,403 @@
+[
+  {
+    "ImagePath": "SD04-001-SR.png",
+    "Name": "กัปตันแบงค์ Tank Ranger",
+    "Type": "Avatar",
+    "Cost": 4,
+    "Gem": 1,
+    "Power": 4,
+    "Symbol": "คน",
+    "Color": "#00FF00",
+    "ซอย": 1,
+    "Print": "SD04-001",
+    "Rare": "SR",
+    "Details": {
+      "Main Effect": "จุติ (เมื่อ Avatar ตัวนี้ลงสนามแบบจ่ายCost) : สอดแนม (แสดงการ์ดใบบนสุดของ Deck) 5 ใบ นำ \"จ่ามะนาว\" หรือ \"จ่าแดงเดือด\" จากที่ สอดแนม 1 มาสวมให้ Avatar รถถัง บน Avatar Zone ฝ่ายเรา 1 ใบ การ์ดที่เหลือเรียงและนำไว้ใต้ Deck\nเทิร์นละครั้ง สั่งใช้ : นำ Avatar ใบนี้บน Avatar Zone ไปสวมให้ Avatar \"รถถัง\" ที่อยู่บน Avatar Zone ฝ่ายเรา"
+    }
+  },
+  {
+    "ImagePath": "SD04-002-C.png",
+    "Name": "จ่ามะนาว Tank Ranger",
+    "Type": "Avatar",
+    "Cost": 3,
+    "Gem": 3,
+    "Power": 1,
+    "Symbol": "คน",
+    "Color": "#00FF00",
+    "ซอย": 1,
+    "Print": "SD04-002",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "จุติ (เมื่อ Avatar ตัวนี้ลงสนามแบบจ่ายCost) ถ้ามี Avatar \"รถถัง\" บนสนามฝ่ายเรา สุ่มคว่ำ LIFE Card ฝ่ายเรา 1 ใบ \nเทิร์นละครั้ง สั่งใช้ : นำ Avatar ใบนี้บน Avatar Zone ไปสวมให้ Avatar \"รถถัง\" ที่อยู่บน Avatar Zone ฝ่ายเรา \nเมื่อAvatar \"รถถัง\"ที่สวมใส่การ์ดใบนี้จะถูกทำลาย : ทำลายการ์ดใบนี้แทน"
+    }
+  },
+  {
+    "ImagePath": "SD04-003-C.png",
+    "Name": "จ่าแดงเดือด Tank Ranger",
+    "Type": "Avatar",
+    "Cost": 3,
+    "Gem": 3,
+    "Power": 1,
+    "Symbol": "คน",
+    "Color": "#00FF00",
+    "ซอย": 1,
+    "Print": "SD04-003",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "เทิร์นละครั้ง สั่งใช้ : นำ Avatar ใบนี้บน Avatar Zone ไปสวมให้ Avatar \"รถถัง\" ที่อยู่บน Avatar Zone ฝ่ายเรา\nAvatar รถถังที่สวมใบนี้ POWER +1 \nสั่งใช้ เมื่อ Avatar ที่สวมใส่การ์ดนี้ทำลาย Avatar อีกฝ่ายจากการต่อสู้สำเร็จ ทำลายการ์ดใบนี้ที่สวมใส่อยู่  : Avatar ที่เคยสวมใส่การ์ดใบนี้จะกลับมาในสภาพตื่น"
+    }
+  },
+  {
+    "ImagePath": "SD04-004-C.png",
+    "Name": "รถถัง \"Tank Ranger\"",
+    "Type": "Avatar",
+    "Cost": 4,
+    "Gem": 2,
+    "Power": 4,
+    "Symbol": "เครื่องจักร",
+    "Color": "#00FF00",
+    "ซอย": 1,
+    "Print": "SD04-004",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "ต่อเนื่อง ถ้าไม่มี Avatar สวมใส่ Avatar ใบนี้ จะไม่สามารถโจมตีได้ \nและไม่สามารถใช้ Avatar ชื่อซ้ำกันในการสวมใส่การ์ดใบนี้"
+    }
+  },
+  {
+    "ImagePath": "SD04-005-UR.png",
+    "Name": "MEGA ROR.DOR",
+    "Type": "Avatar",
+    "Cost": 6,
+    "Gem": 3,
+    "Power": 6,
+    "Symbol": "เครื่องจักร",
+    "Color": "#00FF00",
+    "Ex": "Only #1",
+    "ซอย": 1,
+    "Print": "SD04-005",
+    "Rare": "UR",
+    "Details": {
+      "Main Effect": "\nจุติ (เมื่อ Avatar ตัวนี้ลงสนามแบบจ่ายCost) : นำ Avatar \"Tank Ranger\" จากใน Deck เรา 1 ใบ มาสวมใส่ให้กับ Avatar ใบนี้\n#Avatar ใบนี้ถือว่ามีชื่อ \"รถถัง\" "
+    }
+  },
+  {
+    "ImagePath": "SD04-005-PR.png",
+    "Name": "MEGA ROR.DOR",
+    "Type": "Avatar",
+    "Cost": 6,
+    "Gem": 3,
+    "Power": 6,
+    "Symbol": "เครื่องจักร",
+    "Color": "#00FF00",
+    "Ex": "Only #1",
+    "ซอย": 1,
+    "Print": "SD04-005",
+    "Rare": "PR",
+    "Details": {
+      "Main Effect": "\nจุติ (เมื่อ Avatar ตัวนี้ลงสนามแบบจ่ายCost) : นำ Avatar \"Tank Ranger\" จากใน Deck เรา 1 ใบ มาสวมใส่ให้กับ Avatar ใบนี้\n#Avatar ใบนี้ถือว่ามีชื่อ \"รถถัง\" "
+    }
+  },
+  {
+    "ImagePath": "SD04-005-CBR.png",
+    "Name": "MEGA ROR.DOR",
+    "Type": "Avatar",
+    "Cost": 6,
+    "Gem": 3,
+    "Power": 6,
+    "Symbol": "เครื่องจักร",
+    "Color": "#00FF00",
+    "Ex": "Only #1",
+    "ซอย": 1,
+    "Print": "SD04-005",
+    "Rare": "CBR",
+    "Details": {
+      "Main Effect": "\nจุติ (เมื่อ Avatar ตัวนี้ลงสนามแบบจ่ายCost) : นำ Avatar \"Tank Ranger\" จากใน Deck เรา 1 ใบ มาสวมใส่ให้กับ Avatar ใบนี้\n#Avatar ใบนี้ถือว่ามีชื่อ \"รถถัง\" "
+    }
+  },
+  {
+    "ImagePath": "SD04-006-C.png",
+    "Name": "พลเอกปุ้มปุ้ย",
+    "Type": "Avatar",
+    "Cost": 4,
+    "Gem": 0,
+    "Power": 0,
+    "Symbol": "คน",
+    "Color": "#00FF00",
+    "ซอย": 1,
+    "Print": "SD04-006",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": null
+    }
+  },
+  {
+    "ImagePath": "SD04-007-C.png",
+    "Name": "สห ไล่จับเด็ก",
+    "Type": "Avatar",
+    "Cost": 2,
+    "Gem": 3,
+    "Power": 2,
+    "Symbol": "คน",
+    "Color": "#00FF00",
+    "ซอย": 1,
+    "Print": "SD04-007",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": null
+    }
+  },
+  {
+    "ImagePath": "SD04-008-C.png",
+    "Name": "อรุณีย์ ข้าวมันไก่เมียจ่า",
+    "Type": "Avatar",
+    "Cost": 0,
+    "Gem": 4,
+    "Power": 0,
+    "Symbol": "คน",
+    "Color": "#00FF00",
+    "ซอย": 1,
+    "Print": "SD04-008",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": null
+    }
+  },
+  {
+    "ImagePath": "SD04-009-C.png",
+    "Name": "พลทหาร",
+    "Type": "Avatar",
+    "Cost": 3,
+    "Gem": 1,
+    "Power": 2,
+    "Symbol": "คน",
+    "Color": "#00FF00",
+    "ซอย": 1,
+    "Print": "SD04-009",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": null
+    }
+  },
+  {
+    "ImagePath": "SD04-010-C.png",
+    "Name": "ทหารฝูงบินต่ำ",
+    "Type": "Avatar",
+    "Cost": 1,
+    "Gem": 3,
+    "Power": 1,
+    "Symbol": "คน",
+    "Color": "#00FF00",
+    "ซอย": 1,
+    "Print": "SD04-010",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": null
+    }
+  },
+  {
+    "ImagePath": "SD04-011-C.png",
+    "Name": "คนจับใบดำ",
+    "Type": "Avatar",
+    "Cost": 2,
+    "Gem": 1,
+    "Power": 1,
+    "Symbol": "คน",
+    "Color": "#00FF00",
+    "ซอย": 1,
+    "Print": "SD04-011",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": null
+    }
+  },
+  {
+    "ImagePath": "SD04-012-C.png",
+    "Name": "คนจับใบแดง",
+    "Type": "Avatar",
+    "Cost": 2,
+    "Gem": 1,
+    "Power": 1,
+    "Symbol": "คน",
+    "Color": "#00FF00",
+    "ซอย": 1,
+    "Print": "SD04-012",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": null
+    }
+  },
+  {
+    "ImagePath": "SD04-013-C.png",
+    "Name": "ไอ้หนุ่มรด.",
+    "Type": "Avatar",
+    "Cost": 1,
+    "Gem": 3,
+    "Power": 0,
+    "Symbol": "คน",
+    "Color": "#00FF00",
+    "ซอย": 1,
+    "Print": "SD04-013",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": null
+    }
+  },
+  {
+    "ImagePath": "SD04-014-SR.png",
+    "Name": "รถถังลงถนน",
+    "Type": "Magic",
+    "SubType": "Normal",
+    "Gem": 2,
+    "Symbol": "กลยุทธ์",
+    "ซอย": 1,
+    "Print": "SD04-014",
+    "Rare": "SR",
+    "Details": {
+      "Main Effect": "อัญเชิญ Avatar \"รถถัง\" ที่มีค่า Cost ไม่เกิน 5 จาก Deck เราลงสนามฝั่งเรา 1 ตัว และ อีกฝ่ายอัญเชิญ Avatar ที่มีค่า Cost ไม่เกิน 5 จาก Deck อีกฝ่ายลงสนามอีกฝ่าย 1 ตัว"
+    }
+  },
+  {
+    "ImagePath": "SD04-015-C.png",
+    "Name": "ไอ นีด เมดิก",
+    "Type": "Magic",
+    "SubType": "Normal",
+    "Gem": 4,
+    "Symbol": null,
+    "ซอย": 1,
+    "Print": "SD04-015",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "สุ่มคว่ำ LIFE Card ของฝ่ายเราได้ 1 ใบ "
+    }
+  },
+  {
+    "ImagePath": "SD04-016-C.png",
+    "Name": "ใบดำใบแดง",
+    "Type": "Magic",
+    "SubType": "Normal",
+    "Gem": 1,
+    "Symbol": null,
+    "ซอย": 1,
+    "Print": "SD04-016",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "สอดแนม 1 ใบ : ถ้าเป็น Avatar {Symbol : คน} Cost ไม่เกิน 3 ให้นำลงบน Avatar Zone ฝ่ายเรา แต่ถ้าไม่ใช่ให้ใส่ไว้ใต้ Deck"
+    }
+  },
+  {
+    "ImagePath": "SD04-017-C.png",
+    "Name": "เพื่อชาติ",
+    "Type": "Magic",
+    "SubType": "React",
+    "Gem": 3,
+    "Symbol": null,
+    "ซอย": 1,
+    "Print": "SD04-017",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "เมื่ออีกฝ่ายประกาศโจมตี ทำลาย Avatar \"รถถัง\" บนสนามฝ่ายเรา 1 ใบ : ทำลาย Avatar ทั้งหมดบนสนามอีกฝ่าย"
+    }
+  },
+  {
+    "ImagePath": "SD04-018-C.png",
+    "Name": "ขึ้นมาเร็ว ไอ้ลูกลิง !!",
+    "Type": "Magic",
+    "SubType": "React",
+    "Gem": 3,
+    "Symbol": null,
+    "ซอย": 1,
+    "Print": "SD04-018",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "เมื่อ Avatar รถถังเป็นเป้าโจมตี : สอดแนม (ดูการ์ดใบบนสุดของเด็ค) 5 ใบ เลือก Avatar Symbol {คน} ที่ติดชื่อ \"Tank Ranger\" 1 ใบจากในนั้น ไปสวมใส่ให้ Avatar \"รถถัง\" บนสนามฝ่ายเรา และถ้านำการ์ดมาสวมใส่สำเร็จทำลาย Avatar ที่สั่งโจมตีนั้น"
+    }
+  },
+  {
+    "ImagePath": "SD04-019-C.png",
+    "Name": "ถาดหลุม",
+    "Type": "Magic",
+    "SubType": "Modification",
+    "Gem": 2,
+    "Symbol": null,
+    "ซอย": 1,
+    "Print": "SD04-019",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "อัตโนมัติ เทิร์นละครั้ง ใน Main phase เรา : ทอยเหรียญ ถ้าออกหัว Avatar ที่สวมใส่การ์ดใบนี้ POWER +2  , ถ้าออกก้อย Avatar ที่สวมการ์ดใบนี้ POWER -2 "
+    }
+  },
+  {
+    "ImagePath": "SD04-020-C.png",
+    "Name": "เขาชนไก่",
+    "Type": "Magic",
+    "SubType": "Land",
+    "Gem": 1,
+    "Symbol": null,
+    "ซอย": 1,
+    "Print": "SD04-020",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "เทิร์นละครั้ง สั่งใช้ ใน Main Phase สามารถเลือก Avatar {Symbol คน} บนสนามฝ่ายเรา 1 ใบ : เปลี่ยน Avatar ใบนั้นเป็นสภาพนอน หลังจากนั้น สอดแนม 1 ใบ และสามารถนำการ์ดใบนั้นไว้บนสุด หรือ ล่างสุด ของ Deckได้ "
+    }
+  },
+  {
+    "ImagePath": "SD04-021-C.png",
+    "Name": "ไม่นะ มะนาว !",
+    "Type": "Life",
+    "ซอย": 1,
+    "Print": "SD04-021",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "เมื่อการ์ดใบนี้ถูกหงายจากการโจมตี : ใน main phase ถัดไป จั่วการ์ด 1 ใบ",
+      "Favor Text": "จ่ามะนาวคือตัวอย่างของสิ่งหายากในโลกที่เรียกว่าคนดี และคุณเพิ่งเลือกที่จะปล่อยคนดีสูญพันธุ์ไปต่อหน้าต่อต่อตา วันหลังมึงเอาปืนไปยิงเสือดำเหอะถ้ามึงจะมาลดประชากรคนดีในโลกเล่นๆอ่ะ\n"
+    }
+  },
+  {
+    "ImagePath": "SD04-022-C.png",
+    "Name": "ไม่นะ แดงเดือด !",
+    "Type": "Life",
+    "ซอย": 1,
+    "Print": "SD04-022",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "เมื่อการ์ดใบนี้ถูกหงายจากการโจมตี : ใน main phase ถัดไป จั่วการ์ด 1 ใบ",
+      "Favor Text": "จ่าแดงเดือดไม่ได้ต้องการอะไรมากในชีวิต ขอแค่ประเทศชาติสงบเพื่อที่เพื่อนๆและครอบครัวของเขาจะมีกิน เขาก็พร้อมจะตายเพื่อชาติและพวกพ้องของเขา แต่แย่หน่อยที่แดงเดือดพลาดเองที่คิดว่าคุณเป็นเพื่อน"
+    }
+  },
+  {
+    "ImagePath": "SD04-023-C.png",
+    "Name": "ไม่นะ เจี๊ยบ !",
+    "Type": "Life",
+    "ซอย": 1,
+    "Print": "SD04-023",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "เมื่อการ์ดใบนี้ถูกหงายจากการโจมตี : ใน main phase ถัดไป จั่วการ์ด 1 ใบ",
+      "Favor Text": "หลังจากที่เคยตัดยางโดดแฟนตัวเองสมัยเด็ก เจี๊ยบก็ได้เก็บความเจ็บปวดนี้มาตลอดและพอถึงเวลาที่เจี๊ยบรวมความกล้าจะไปบอกขอโทษ เขาก็ถูกเรียกตัวไปประจำการทหารบกและถูกครูฝึกซ้อมแต่ไม่ตาย….จนกระทั่งวันนี้"
+    }
+  },
+  {
+    "ImagePath": "SD04-024-C.png",
+    "Name": "อ๋อ...ปุ้มปุ้ยตาย ! ",
+    "Type": "Life",
+    "ซอย": 1,
+    "Print": "SD04-024",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "เมื่อการ์ดใบนี้ถูกหงายจากการโจมตี : ใน main phase ถัดไป จั่วการ์ด 1 ใบ",
+      "Favor Text": "ก็  ตามที่เขียนอ่ะ… ปุ้มปุ้ยตายไง มามัวอ่านไร เล่นต่อดิวะเสียเวลาคนอื่น"
+    }
+  },
+  {
+    "ImagePath": "SD02-025-C.png",
+    "Name": "ไม่นะ พระอินทร์ !",
+    "Type": "Life",
+    "ซอย": 1,
+    "Print": "SD02-025",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "เมื่อการ์ดใบนี้ถูกหงายจากการโจมตี : ใน main phase ถัดไป จั่วการ์ด 1 ใบ",
+      "Favor Text": "พระอินทร์คือเทพที่ถูกลืม เขาทำงาน เขาเก็บกวาดปัญหาบนโลกและสวรรค์นับไม่ถ้วน แต่สุดท้าย ก็ถูกจดจำว่าเป็นกระสอบทรายและตัวตลก นี้แหละปัญหาของการทำดีเป็นประจำ เพราะอะไรที่เป็นประจำ จะไม่มีใครเห็นค่ามัน"
+    }
+  }
+]

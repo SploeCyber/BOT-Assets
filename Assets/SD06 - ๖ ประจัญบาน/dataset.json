@@ -1,0 +1,371 @@
+[
+  {
+    "ImagePath": "SD06-001-UR.png",
+    "Name": "จัน หนวดเขี้ยว",
+    "Type": "Avatar",
+    "Cost": 6,
+    "Gem": 3,
+    "Power": 6,
+    "Symbol": "คน",
+    "Color": "#FF0000",
+    "Ex": "Only #1",
+    "ซอย": 2,
+    "Print": "SD06-001",
+    "Rare": "UR",
+    "Details": {
+      "Main Effect": "ลูกฮึด \nถ้าอยู่ใน สถานะสาหัส Avatar ใบนี้ POWER +1\nต่อเนื่อง Avatar ใบนี้ไม่สามารถถูกเปลี่ยนการควบคุมได้ \nอัตโนมัติ ถ้าเราควบคุม \"ค่ายบางระจัน\" เมื่อ Avatar ใบนี้ถูกทำลาย : นำ Avatar ใบนี้กลับเข้า Deck แล้วสับ จากนั้นจั่วการ์ดจาก Deck 1 ใบ"
+    }
+  },
+  {
+    "ImagePath": "SD06-002-C.png",
+    "Name": "อิน สไนเปอร์",
+    "Type": "Avatar",
+    "Cost": 3,
+    "Gem": 2,
+    "Power": 2,
+    "Symbol": "คน",
+    "Color": "#FF0000",
+    "ซอย": 2,
+    "Print": "SD06-002",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "เตะไข่\nต่อเนื่อง เมื่อ Avatar ใบนี้ใช้ความสามารถ เตะไข่ : ทำลาย Avatar 1 ใบบน Avatar Zone ฝ่ายเรา\nต่อเนื่อง ตราบเท่าที่เราควบคุม \"ค่ายบางระจัน\" Avatar ใบนี้ POWER +2"
+    }
+  },
+  {
+    "ImagePath": "SD06-003-SR.png",
+    "Name": "ทองเหม็น ขวานคลั่ง",
+    "Type": "Avatar",
+    "Cost": 4,
+    "Gem": 2,
+    "Power": 4,
+    "Symbol": "คน",
+    "Color": "#FF0000",
+    "ซอย": 2,
+    "Print": "SD06-003",
+    "Rare": "SR",
+    "Details": {
+      "Main Effect": "อัตโนมัติ เมื่อ Avatar ใบนี้โจมตี : POWER +2 จนจบเทิร์น\nต่อเนื่อง ตราบเท่าที่เราไม่ได้ควบคุม \"ค่ายบางระจัน\" บน Construct Zone Avatar ใบนี้ไม่สามารถโจมตี LIFE Card ได้ "
+    }
+  },
+  {
+    "ImagePath": "SD06-004-C.png",
+    "Name": "เมือง ช่างใหญ่",
+    "Type": "Avatar",
+    "Cost": 4,
+    "Gem": 2,
+    "Power": 2,
+    "Symbol": "คน",
+    "Color": "#FF0000",
+    "ซอย": 2,
+    "Print": "SD06-004",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "จุติ ทิ้งการ์ดบนมือ 2 ใบ : ก่อสร้าง Construct Card \"ค่ายบางระจัน\" 1 ใบ จาก Deck เรา จากนั้นสับ Deck"
+    }
+  },
+  {
+    "ImagePath": "SD06-005-C.png",
+    "Name": "พันเรือง ผู้พิทักษ์ไร้พ่าย",
+    "Type": "Avatar",
+    "Cost": 4,
+    "Gem": 3,
+    "Power": 2,
+    "Symbol": "คน",
+    "Color": "#FF0000",
+    "ซอย": 2,
+    "Print": "SD06-005",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "โล่มนุษย์ \nต่อเนื่อง POWER +2 ในเทิร์นฝ่ายตรงข้าม\nต่อเนื่อง ตราบเท่าที่เราควบคุม \"ค่ายบางระจัน\" เมื่อ Avatar ที่มี \"ค่ายบางระจัน\" อยู่ใน Text Box ใบอื่นบน Avatar Zone จะถูกทำลาย สามารถทำลายการ์ดใบนี้จากบนสนามแทนได้"
+    }
+  },
+  {
+    "ImagePath": "SD06-006-C.png",
+    "Name": "พ่อแท่น ผู้นำอาวุโส",
+    "Type": "Avatar",
+    "Cost": 3,
+    "Gem": 1,
+    "Power": 2,
+    "Symbol": "คน",
+    "Color": "#FF0000",
+    "ซอย": 2,
+    "Print": "SD06-006",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "คำสั่งเสีย : สอดแนม 5 ใบ เลือก Avatar ที่มี \"ค่ายบางระจัน\" อยู่ใน Text Box 1 ใบ ยกเว้น พ่อแท่น ผู้นำอาวุโส ขึ้นมือ การ์ดที่เหลือนำกลับเข้า Deck แล้วสับ "
+    }
+  },
+  {
+    "ImagePath": "SD06-007-C.png",
+    "Name": "อาจารย์ธรรมโชติ",
+    "Type": "Avatar",
+    "Cost": 1,
+    "Gem": 3,
+    "Power": 1,
+    "Symbol": "คน",
+    "Color": "#FF0000",
+    "ซอย": 2,
+    "Print": "SD06-007",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "เทิร์นละครั้ง สั่งใช้ เมื่อ Construct \"ค่ายบางระจัน\" จะถูกทำลายจากความสามารถของ Avatar หรือ การ์ด Magic ส่งการ์ดใบนี้จากบนมือหรือ Avatar Zone กลับเข้าใต้ Deck : \"ค่ายบางระจัน\" จะไม่ถูกทำลายจาก ความสามารถของ Avatar หรือ การ์ด Magic"
+    }
+  },
+  {
+    "ImagePath": "SD06-008-C.png",
+    "Name": "บุญช่วย ควายรักชาติ",
+    "Type": "Avatar",
+    "Cost": 2,
+    "Gem": 2,
+    "Power": 2,
+    "Symbol": "สัตว์",
+    "Color": "#FF0000",
+    "ซอย": 2,
+    "Print": "SD06-008",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "เทิร์นละครั้ง สั่งใช้ : นำ Avatar ใบนี้ ไปสวมใส่ให้ Avatar ใบอื่นบน Avatar Zone ฝ่ายเรา Avatar ที่สวมใส่การ์ดใบนี้ POWER +1\nตราบเท่าที่เราควบคุม \"ค่ายบางระจัน\" Avatar ที่สวมใส่ การ์ดใบนี้ POWER +2 แทนการ POWER +1"
+    }
+  },
+  {
+    "ImagePath": "SD06-009-C.png",
+    "Name": "พม่าข้าศึก 2310",
+    "Type": "Avatar",
+    "Cost": 1,
+    "Gem": 0,
+    "Power": 4,
+    "Symbol": "ต่างชาติ",
+    "Color": "#FF0000",
+    "ซอย": 2,
+    "Print": "SD06-009",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": null
+    }
+  },
+  {
+    "ImagePath": "SD06-010-C.png",
+    "Name": "วีรชน แบงค์",
+    "Type": "Avatar",
+    "Cost": 0,
+    "Gem": 0,
+    "Power": 3,
+    "Symbol": "คน",
+    "Color": "#FF0000",
+    "ซอย": 2,
+    "Print": "SD06-010",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": null
+    }
+  },
+  {
+    "ImagePath": "SD06-011-C.png",
+    "Name": "ลูก เมีย",
+    "Type": "Avatar",
+    "Cost": 1,
+    "Gem": 4,
+    "Power": 1,
+    "Symbol": "คน",
+    "Color": "#FF0000",
+    "ซอย": 2,
+    "Print": "SD06-011",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": null
+    }
+  },
+  {
+    "ImagePath": "SD06-012-C.png",
+    "Name": "ผู้นำของเหล่าวีรชน",
+    "Type": "Magic",
+    "SubType": "Normal",
+    "Gem": 4,
+    "Symbol": "จอมเวทย์",
+    "ซอย": 2,
+    "Print": "SD06-012",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "ทิ้งการ์ดบนมือ 2 ใบ : เลือก Avatar ที่มี \"ค่ายบางระจัน\" อยู่ใน Text Box จากใน Deck เรา 1 ใบ ขึ้นมือ จากนั้นสับ Deck"
+    }
+  },
+  {
+    "ImagePath": "SD06-013-C.png",
+    "Name": "วิญญาณวีรชน",
+    "Type": "Magic",
+    "SubType": "Normal",
+    "Gem": 2,
+    "Symbol": "จอมเวทย์",
+    "ซอย": 2,
+    "Print": "SD06-013",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "ทิ้งการ์ดบนมือ 1 ใบ : อัญเชิญ จุติ Avatar ที่มี \"ค่ายบางระจัน\" อยู่ใน Text Box จากในนรกเรา 1 ใบ ลงบน Avatar Zone ฝ่ายเรา\nเมื่อจบเทิร์นถัดไปของฝ่ายตรงข้าม ส่ง Avatar ที่อัญเชิญด้วยความสามารถนี้ลงนรก"
+    }
+  },
+  {
+    "ImagePath": "SD06-014-C.png",
+    "Name": "ไปเลยมอนตี้",
+    "Type": "Magic",
+    "SubType": "React",
+    "Gem": 1,
+    "Symbol": "สัตว์",
+    "ซอย": 1,
+    "Print": "SD06-014",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "เมื่อ Avatar อีกฝ่ายประกาศโจมตี : Avatar ที่โจมตี POWER ลดลงตามจำนวนการ์ดบนสนามและบนมือฝั่งเราใบละ 2"
+    }
+  },
+  {
+    "ImagePath": "SD06-015-C.png",
+    "Name": "ปืนใหญ่ไทยประดิษฐ์",
+    "Type": "Magic",
+    "SubType": "React",
+    "Gem": 2,
+    "Symbol": "จอมเวทย์",
+    "ซอย": 2,
+    "Print": "SD06-015",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "เมื่อฝ่ายตรงข้ามอัญเชิญ Avatar และเราควบคุม Avatar ที่มี \"ค่ายบางระจัน\" อยู่ใน Text Box \nเลือก Avatar ที่มี \"ค่ายบางระจัน\" อยู่ใน Text Box ของเรา 1 ใบ และ Avatar ของฝ่ายตรงข้าม 1 ใบ : ทำลาย Avatar ที่เลือกทั้ง 2 ใบ"
+    }
+  },
+  {
+    "ImagePath": "SD06-016-C.png",
+    "Name": "ยันต์ผ้าประเจียด",
+    "Type": "Magic",
+    "SubType": "Modification",
+    "Gem": 3,
+    "Symbol": "จอมเวทย์",
+    "ซอย": 2,
+    "Print": "SD06-016",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "สวมใส่ได้เฉพาะ Avatar ที่มี \"ค่ายบางระจัน\" อยู่ใน Text Box เท่านั้น\nAvatar ที่สวมใส่การ์ดใบนี้ได้รับความสามารถ ลูกฮึด "
+    }
+  },
+  {
+    "ImagePath": "SD06-017-C.png",
+    "Name": "ดาบใบข้าว X",
+    "Type": "Magic",
+    "SubType": "Modification",
+    "Gem": 3,
+    "Symbol": "ต้นไม้",
+    "ซอย": 2,
+    "Print": "SD06-017",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "สวมใส่ได้เฉพาะ Avatar ที่มี \"ค่ายบางระจัน\" อยู่ใน Text Box  เท่านั้น \nเมื่อ Avatar ที่สวมใส่การ์ดใบนี้ทำลาย Avatar ฝ่ายตรงข้ามสำเร็จ : จั่วการ์ด 1 ใบ"
+    }
+  },
+  {
+    "ImagePath": "SD06-018-SR.png",
+    "Name": "ค่ายบางระจัน",
+    "Type": "Construct ",
+    "Cost": 4,
+    "Gem": 0,
+    "Power": 6,
+    "Symbol": "สิ่งก่อสร้าง",
+    "Color": "#FF0000",
+    "ซอย": 2,
+    "Print": "SD06-018",
+    "Rare": "SR",
+    "Details": {
+      "Main Effect": "ต่อเนื่อง ตราบเท่าที่การ์ดใบนี้อยู่บน Construct Zone ฝ่ายเรา Avatar ที่มี \"ค่ายบางระจัน\" อยู่ใน Text Box ทุกใบ POWER +1 และได้รับความสามารถ \"โล่มนุษย์\" และ \"สามัคคี\"\nเมื่อการ์ดใบนี้ถูกทำลาย ส่ง Avatar ทุกใบบน Avatar Zone ฝ่ายเรา ลงนรก"
+    }
+  },
+  {
+    "ImagePath": "SD06-019-C.png",
+    "Name": "วัดคู่บ้านคู่เมือง",
+    "Type": "Construct ",
+    "Cost": 2,
+    "Gem": 3,
+    "Power": 2,
+    "Symbol": "สิ่งก่อสร้าง",
+    "Color": "#FF0000",
+    "ซอย": 2,
+    "Print": "SD06-019",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "ต่อเนื่อง ตราบเท่าที่การ์ดใบนี้อยู่บน Construct Zone ฝ่ายเรา ความสามารถ สอดแนม ของ Construct ฝ่ายเรา เพิ่มขึ้น 2 ใบ"
+    }
+  },
+  {
+    "ImagePath": "SD06-020-C.png",
+    "Name": "กำแพงด่านสุดท้าย",
+    "Type": "Construct ",
+    "Cost": 4,
+    "Gem": 1,
+    "Power": 4,
+    "Symbol": "สิ่งก่อสร้าง",
+    "Color": "#FF0000",
+    "ซอย": 2,
+    "Print": "SD06-020",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "อัตโนมัติ เทิร์นละครั้ง เมื่อ LIFE Card ของเราถูกหงาย และบน Avatar Zone ฝ่ายเรา ไม่มี Avatar อยู่ ทิ้งการ์ดบนมือ 1 ใบ : สอดแนม 1 ใบ ถ้าการ์ดเหล่านั้นเป็น Avatar ที่มี \"ค่ายบางระจัน\" อยู่ใน Text Box และ Cost ไม่เกิน 4 อัญเชิญ Avatar เหล่านั้น ลงบน Avatar Zone ฝ่ายเรา ถ้าไม่ใช่นำการ์ดเหล่านั้นขึ้นมือ"
+    }
+  },
+  {
+    "ImagePath": "SD06-021-C.png",
+    "Name": "ไม่นะ จัน!",
+    "Type": "Life",
+    "ซอย": 2,
+    "Print": "SD06-021",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "ใน main phase ถัดไป จั่วการ์ด 1 ใบ",
+      "Favor Text": null
+    }
+  },
+  {
+    "ImagePath": "SD06-022-C.png",
+    "Name": "ไม่นะ ทองเหม็น!",
+    "Type": "Life",
+    "ซอย": 2,
+    "Print": "SD06-022",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "ในช่วงเริ่มต้น Battle Phase ถัดไป Construct ทุกใบ บน Construct Zone ฝ่ายเรา POWER+1",
+      "Favor Text": null
+    }
+  },
+  {
+    "ImagePath": "SD06-023-C.png",
+    "Name": "ไม่นะ บุญช่วย!",
+    "Type": "Life",
+    "ซอย": 2,
+    "Print": "SD06-023",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "ใน Main Phase ถัดไป นำ Construct 1 ใบ จาก นรกฝ่ายเราขึ้นมือ",
+      "Favor Text": null
+    }
+  },
+  {
+    "ImagePath": "SD06-024-C.png",
+    "Name": "ท่านผู้นำตายแล้ว!",
+    "Type": "Life",
+    "ซอย": 2,
+    "Print": "SD06-024",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "ใน Main Phase ถัดไป สอดแนม 5 ใบ นำ Construct 1 ใบ จากที่สอดแนม ขึ้นมือ นำการ์ดที่เหลือเรียงแล้วนำไปไว้ใต้ Deck  ",
+      "Favor Text": null
+    }
+  },
+  {
+    "ImagePath": "SD06-025-C.png",
+    "Name": "ลูก เมีย กู!!!",
+    "Type": "Life",
+    "ซอย": 2,
+    "Print": "SD06-025",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "ใน main phase ถัดไป จั่วการ์ด 1 ใบ",
+      "Favor Text": null
+    }
+  }
+]

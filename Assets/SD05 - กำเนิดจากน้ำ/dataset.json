@@ -1,0 +1,403 @@
+[
+  {
+    "ImagePath": "SD05-001-SR.png",
+    "Name": "บึงทมิฬ  People - CEO คุณจิระ ",
+    "Type": "Avatar",
+    "Cost": 4,
+    "Gem": 3,
+    "Power": 2,
+    "Symbol": "ปลา",
+    "Color": "#00FFFF",
+    "ซอย": 1,
+    "Print": "SD05-001",
+    "Rare": "SR",
+    "Details": {
+      "Main Effect": "อัติโนมัติ เมื่อการ์ดใบนี้สั่งโจมตีหรือตกเป็นเป้าหมายการโจมตี : POWER ของการ์ดใบนี้จะเพิ่มขึ้นตาม Avatar ที่อยู่ในสภาพนอนบนสนามทั้ง 2 ฝ่าย ใบละ 1 จนจบเทิร์น "
+    }
+  },
+  {
+    "ImagePath": "SD05-002-C.png",
+    "Name": "บึงทมิฬ  People - คุณเค้นท์ ",
+    "Type": "Avatar",
+    "Cost": 3,
+    "Gem": 2,
+    "Power": 3,
+    "Symbol": "ปลา",
+    "Color": "#00FFFF",
+    "ซอย": 1,
+    "Print": "SD05-002",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "เทิร์นละครั้ง สั่งใช้ เมื่อ Avatar ใบนี้สั่งโจมตีและไม่ถูกทำลายจากการต่อสู้ \nถ้าบน Avatar Zone ฝ่ายเรา มี Avatar \"บึงทมิฬ People\" ใบอื่น : ทอยลูกเต๋า 1 ครั้ง \nถ้าผลออกมาเป็นเลขคี่ หลังจากจบการต่อสู้ของการ์ดใบนี้ นำการ์ดใบนี้ที่อยู่สภาพนอนเปลี่ยนเป็นสภาพตื่น"
+    }
+  },
+  {
+    "ImagePath": "SD05-003-C.png",
+    "Name": "บึงทมิฬ  People - คุณฮาร์วี่ ",
+    "Type": "Avatar",
+    "Cost": 1,
+    "Gem": 1,
+    "Power": 1,
+    "Symbol": "ปลา",
+    "Color": "#00FFFF",
+    "ซอย": 1,
+    "Print": "SD05-003",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "จุติ : แสดงการ์ดจากล่างสุดของ Deck ตามจำนวน Avatar ที่อยู่ในสภาพนอนทั้งสนาม เลือก Avatar Symbol {ปลา} 1 ใบจากที่แสดงนำขึ้นมือ จากนั้นนำการ์ดที่เหลือกลับ Deck แล้วสับ"
+    }
+  },
+  {
+    "ImagePath": "SD05-004-C.png",
+    "Name": "บึงทมิฬ  People - คุณอังคณา",
+    "Type": "Avatar",
+    "Cost": 2,
+    "Gem": 1,
+    "Power": 1,
+    "Symbol": "ปลา",
+    "Color": "#00FFFF",
+    "ซอย": 1,
+    "Print": "SD05-004",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "โล่มนุษย์\" \nอัติโนมัติ เมื่อการ์ดใบนี้ใช้ความสามารถ \"โล่มนุษย์\" POWER+2 จนจบการต่อสู้นั้น"
+    }
+  },
+  {
+    "ImagePath": "SD05-005-None.png",
+    "Name": "บึงทมิฬ  People - คุณพยาบาล",
+    "Type": "Avatar",
+    "Cost": 1,
+    "Gem": 1,
+    "Power": 1,
+    "Symbol": "ปลา",
+    "Color": "#00FFFF",
+    "ซอย": 1,
+    "Print": "SD05-005",
+    "Rare": null,
+    "Details": {
+      "Main Effect": "เทิร์นละครั้ง สั่งใช้ เปลี่ยนการ์ดใบนี้จากสภาพตื่นเป็นสภาพนอน เลือก Avatar \"บึงทมิฬ People\" ใบอื่นบนสนามฝ่ายเรา 1 ใบ : Avatar ใบที่เลือก จะไม่ถูกทำลาย 1 ครั้ง จนจบเทิร์นถัดไปของฝ่ายตรงข้าม"
+    }
+  },
+  {
+    "ImagePath": "SD05-006-UR.png",
+    "Name": "วอเตอร์แมน",
+    "Type": "Avatar",
+    "Cost": 5,
+    "Gem": 2,
+    "Power": 4,
+    "Symbol": "คน",
+    "Color": "#00FFFF",
+    "Ex": "Only #1",
+    "ซอย": 1,
+    "Print": "SD05-006",
+    "Rare": "UR",
+    "Details": {
+      "Main Effect": "จุติ : อัญเชิญ \"บึงทมิฬ  People\" จากใน Deck เรา 2 ใบ ในสภาพนอน แต่ถ้า Land Magic Zone มี \"บึงทมิฬ\" ให้เปลี่ยนเป็นสภาพตื่นแทน จากนั้นสับ Deck\nต่อเนื่อง ตราบเท่าที่ Avatar ใบนี้อยู่ในสนาม จะนับว่าเป็น \"บึงทมิฬ People\" ด้วย\n#Avatar ใบนี้นับเป็น Symbol ปลา"
+    }
+  },
+  {
+    "ImagePath": "SD05-006-PR.png",
+    "Name": "วอเตอร์แมน",
+    "Type": "Avatar",
+    "Cost": 5,
+    "Gem": 2,
+    "Power": 4,
+    "Symbol": "คน",
+    "Color": "#00FFFF",
+    "Ex": "Only #1",
+    "ซอย": 1,
+    "Print": "SD05-006",
+    "Rare": "PR",
+    "Details": {
+      "Main Effect": "จุติ : อัญเชิญ \"บึงทมิฬ  People\" จากใน Deck เรา 2 ใบ ในสภาพนอน แต่ถ้า Land Magic Zone มี \"บึงทมิฬ\" ให้เปลี่ยนเป็นสภาพตื่นแทน จากนั้นสับ Deck\nต่อเนื่อง ตราบเท่าที่ Avatar ใบนี้อยู่ในสนาม จะนับว่าเป็น \"บึงทมิฬ People\" ด้วย\n#Avatar ใบนี้นับเป็น Symbol ปลา"
+    }
+  },
+  {
+    "ImagePath": "SD05-006-CBR.png",
+    "Name": "วอเตอร์แมน",
+    "Type": "Avatar",
+    "Cost": 5,
+    "Gem": 2,
+    "Power": 4,
+    "Symbol": "คน",
+    "Color": "#00FFFF",
+    "Ex": "Only #1",
+    "ซอย": 1,
+    "Print": "SD05-006",
+    "Rare": "CBR",
+    "Details": {
+      "Main Effect": "จุติ : อัญเชิญ \"บึงทมิฬ  People\" จากใน Deck เรา 2 ใบ ในสภาพนอน แต่ถ้า Land Magic Zone มี \"บึงทมิฬ\" ให้เปลี่ยนเป็นสภาพตื่นแทน จากนั้นสับ Deck\nต่อเนื่อง ตราบเท่าที่ Avatar ใบนี้อยู่ในสนาม จะนับว่าเป็น \"บึงทมิฬ People\" ด้วย\n#Avatar ใบนี้นับเป็น Symbol ปลา"
+    }
+  },
+  {
+    "ImagePath": "SD05-007-C.png",
+    "Name": "บึงทมิฬ People - คุณบึกบึน",
+    "Type": "Avatar",
+    "Cost": 5,
+    "Gem": 3,
+    "Power": 5,
+    "Symbol": "ปลา",
+    "Color": "#00FFFF",
+    "ซอย": 1,
+    "Print": "SD05-007",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": null
+    }
+  },
+  {
+    "ImagePath": "SD05-008-C.png",
+    "Name": "ปลาชโด กรามกุด",
+    "Type": "Avatar",
+    "Cost": 4,
+    "Gem": 2,
+    "Power": 4,
+    "Symbol": "ปลา",
+    "Color": "#00FFFF",
+    "ซอย": 1,
+    "Print": "SD05-008",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": null
+    }
+  },
+  {
+    "ImagePath": "SD05-009-C.png",
+    "Name": "ปลาดาวกระจาย",
+    "Type": "Avatar",
+    "Cost": 1,
+    "Gem": 3,
+    "Power": 1,
+    "Symbol": "ปลา",
+    "Color": "#00FFFF",
+    "ซอย": 1,
+    "Print": "SD05-009",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": null
+    }
+  },
+  {
+    "ImagePath": "SD05-010-C.png",
+    "Name": "กระเบนหางแหลมมาก",
+    "Type": "Avatar",
+    "Cost": 1,
+    "Gem": 0,
+    "Power": 4,
+    "Symbol": "ปลา",
+    "Color": "#00FFFF",
+    "ซอย": 1,
+    "Print": "SD05-010",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": null
+    }
+  },
+  {
+    "ImagePath": "SD05-011-C.png",
+    "Name": "พิธีกรสารคดีดวงโบ๋",
+    "Type": "Avatar",
+    "Cost": 1,
+    "Gem": 1,
+    "Power": 2,
+    "Symbol": "ปลา",
+    "Color": "#00FFFF",
+    "ซอย": 1,
+    "Print": "SD05-011",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": null
+    }
+  },
+  {
+    "ImagePath": "SD05-012-C.png",
+    "Name": "ปลาแบงค์",
+    "Type": "Avatar",
+    "Cost": 2,
+    "Gem": 2,
+    "Power": 2,
+    "Symbol": "ปลา",
+    "Color": "#00FFFF",
+    "ซอย": 1,
+    "Print": "SD05-012",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": null
+    }
+  },
+  {
+    "ImagePath": "SD05-013-C.png",
+    "Name": "เหยื่อปลอม",
+    "Type": "Avatar",
+    "Cost": 0,
+    "Gem": 4,
+    "Power": 0,
+    "Symbol": "หุ่นยนต์",
+    "Color": "#00FFFF",
+    "ซอย": 1,
+    "Print": "SD05-013",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": null
+    }
+  },
+  {
+    "ImagePath": "SD05-014-SR.png",
+    "Name": "บึงทมิฬ ",
+    "Type": "Magic",
+    "SubType": "Normal",
+    "Gem": 1,
+    "Symbol": "ปลา",
+    "ซอย": 1,
+    "Print": "SD05-014",
+    "Rare": "SR",
+    "Details": {
+      "Main Effect": "เทิร์นละครั้ง สั่งใช้ เลือก Avatar 1 ใบ ใน Avatar Zone ฝ่ายเรา เปลี่ยนสภาพ Avatar ใบนั้นเป็นสภาพนอน : จั่วการ์ด 1 ใบ"
+    }
+  },
+  {
+    "ImagePath": "SD05-015-C.png",
+    "Name": "กำเนิดจากน้ำ",
+    "Type": "Magic",
+    "SubType": "Normal",
+    "Gem": 2,
+    "Symbol": "ปลา",
+    "ซอย": 1,
+    "Print": "SD05-015",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "เลือก Avatar Symbol ปลาในนรกเรา 1 ใบ  : อัญเชิญลงบน Avatar Zone ฝ่ายเราในสภาพนอน\nถ้าบนสนามมี Land Magic \"บึงทมิฬ\" อัญเชิญลงบนสนามในสภาพตื่น"
+    }
+  },
+  {
+    "ImagePath": "SD05-016-C.png",
+    "Name": "น้ำวนชักโครก",
+    "Type": "Magic",
+    "SubType": "React",
+    "Gem": 0,
+    "Symbol": "ปลา",
+    "ซอย": 1,
+    "Print": "SD05-016",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "เมื่อ Avatar \"บึงทมิฬ People\" เป็นเป้าหมายการโจมตี : ยกเลิกการโจมตีนั้น และเปลี่ยน สภาพ Avatar ทุกใบบนสนาม ยกเว้น Avatar ใบที่สั่งโจมตี"
+    }
+  },
+  {
+    "ImagePath": "SD05-017-C.png",
+    "Name": "ปืนฉมวก",
+    "Type": "Magic",
+    "SubType": "Modification",
+    "Gem": 2,
+    "Symbol": "ปลา",
+    "ซอย": 1,
+    "Print": "SD05-017",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "สวมใส่ได้เฉพาะ Avatar \"บึงทมิฬ People\" เท่านั้น \nเมื่อ Avatar ที่สวมใส่การ์ดใบนี้ โจมตีใส่ Avatar ที่อยู่ในสภาพนอน : เพิ่ม POWER ให้ Avatar ที่สวมใส่การ์ดใบนี้ 1 และ ลด POWER ของ Avatar ตัวที่เป็นเป้าหมายโจมตี 1 "
+    }
+  },
+  {
+    "ImagePath": "SD05-018-C.png",
+    "Name": "ตรีศูล ไตรตัน",
+    "Type": "Magic",
+    "SubType": "Modification",
+    "Gem": 1,
+    "Symbol": "ปลา",
+    "ซอย": 1,
+    "Print": "SD05-018",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "สวมใส่ได้เฉพาะ Avatar \"บึงทมิฬ People\" เท่านั้น \nสั่งใช้ ถ้าในเทิร์นนี้ยังไม่ได้ใช้การ์ด Land Magic ส่งการ์ดใบนี้ในสภาพสวมใส่ลงนรก : เลือก Land Magic \"บึงทมิฬ\" จากใน Deck 1 ใบ มาวางไว้บน Land Magic Zone ความสามารถนี้นับเป็นการใช้ Land Magic"
+    }
+  },
+  {
+    "ImagePath": "SD05-019-C.png",
+    "Name": "ประมาทร่วม",
+    "Type": "Magic",
+    "SubType": "Normal",
+    "Gem": 1,
+    "Symbol": "จอมเวทย์",
+    "ซอย": 1,
+    "Print": "SD05-019",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "ผู้เล่นทุกคน ธรณีสูบ (ส่งการ์ดใบบนสุดจาก Deck ตกนรก) 3 ใบ"
+    }
+  },
+  {
+    "ImagePath": "SD05-020-C.png",
+    "Name": "ชายจากอนาคต",
+    "Type": "Magic",
+    "SubType": "Normal",
+    "Gem": 0,
+    "Symbol": "จอมเวทย์",
+    "ซอย": 1,
+    "Print": "SD05-020",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "เมื่อมีการใช้ Magic Card : ยกเลิกการใช้ Magic Card ใบนั้น"
+    }
+  },
+  {
+    "ImagePath": "SD05-021-C.png",
+    "Name": "ไม่นะ กัปตันไกร !",
+    "Type": "Life",
+    "ซอย": 1,
+    "Print": "SD05-021",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "เมื่อการ์ดใบนี้ถูกหงายจากการโจมตี : ใน main phase ถัดไป จั่วการ์ด 1 ใบ",
+      "Favor Text": "กัปตันไกร ชายผู้เสียแทบจะทุอย่างในชีวิตให้กับเจ้าปลาชะโดกรามกุดที่ชั่วร้าย แต่ต่อให้ต้องสูญเสียมากแค่ไหนสิ่งที่ชะโดไม่เคยเอาไปจากกัปตันไกรก็คือ \" ชีวิต \" \nสรุปง่ายๆคือ คุณเลวกว่าไอ้ชะโดที่แดกขาคนแก่พิการอีก"
+    }
+  },
+  {
+    "ImagePath": "SD05-022-C.png",
+    "Name": "ไม่นะ มาวิน !",
+    "Type": "Life",
+    "ซอย": 1,
+    "Print": "SD05-022",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "เมื่อการ์ดใบนี้ถูกหงายจากการโจมตี : ใน main phase ถัดไป จั่วการ์ด 1 ใบ",
+      "Favor Text": "มาวินเป็นแค่ชาวประมงที่โหยหาความรัก เขาอยู่ทะเลมาครึ่งชีวิตและ ได้พบกับนางเงือกสาวแสนสวย พวกเขากำลังจะแต่งงานกันในวันพุธนี้ และทายซืใครจะไม่ได้ไปสวมแหวนให้เจ้าสาวในวันแต่งงาน ชื่อของเขาคือ \" มาวิน \""
+    }
+  },
+  {
+    "ImagePath": "SD05-023-C.png",
+    "Name": "ไม่นะ วอเตอร์แมน !",
+    "Type": "Life",
+    "ซอย": 1,
+    "Print": "SD05-023",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "เมื่อการ์ดใบนี้ถูกหงายจากการโจมตี : ใน main phase ถัดไป จั่วการ์ด 1 ใบ",
+      "Favor Text": "\" ไม่นะวอเตอร์แมน \" นี่ไม่ใช่คำพูดที่ใช้แสดงความเสียใจ แต่เป็นคำที่พูดด้วยความหวาดกลัวตอนวอเตอร์แมนบุกเข้าห้องนอนคุณตอนตีสอง เพราะคุณกำลังจะซวยที่หงายการ์ดวอเตอร์แมน\nและวอเตอร์แมนจะไปเล่นคุณตอนมึงหลับ"
+    }
+  },
+  {
+    "ImagePath": "SD05-024-C.png",
+    "Name": "ไม่นะ คุณจิระ !",
+    "Type": "Life",
+    "ซอย": 1,
+    "Print": "SD05-024",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "เมื่อการ์ดใบนี้ถูกหงายจากการโจมตี : ใน main phase ถัดไป จั่วการ์ด 1 ใบ",
+      "Favor Text": "คุณพึ่งปล่อยคุณจิระ วาฬที่ซื่อสัตว์ สวยงามซึ่งก็มีไม่มากแล้วบนน่านน้ำมหาสมุทรอันกว้างใหญ่ นับเป็นเรื่องน่าเศร้ามากจริงๆ อ้อใช่ อ่ะนี่คำถามประจำวัน รู้หรือไม่\nวาฬไม่ใช่ปลา แต่เป็นสัตว์เลี้ยงลูกด้วยนม และ รู้ไหมอะไรเลี้ยงลูกด้วยนมอีก? แม่มึง.."
+    }
+  },
+  {
+    "ImagePath": "SD05-025-C.png",
+    "Name": "ไม่นะ ไตรตั้น !",
+    "Type": "Life",
+    "ซอย": 1,
+    "Print": "SD05-025",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "เมื่อการ์ดใบนี้ถูกหงายจากการโจมตี : ใน main phase ถัดไป จั่วการ์ด 1 ใบ",
+      "Favor Text": "ไตรตั้นคือราชาแห่งท้องทะเล และเมื่อไม่มีเขา พวกสัตว์ทะเลทุกตัวก็บ้าคลั่งแย่งกันเป็นราชาคนต่อไป จนสุดท้ายปลาก็จะฆ่ากันเองจนตายหมดทะเลแล้วก็ไม่มีซีฟู้ดแดกอีกต่อไป...และกูไม่ชอบเลย"
+    }
+  }
+]
