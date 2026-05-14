@@ -68,6 +68,10 @@
     "path": "assets/ODY1 - Odenya/card-data.json"
   },
   {
+    "name": "PromoCard",
+    "path": "assets/PromoCard/card-data.json"
+  },
+  {
     "name": "SD01 - ตัวตึงไกรลาส",
     "path": "assets/SD01 - ตัวตึงไกรลาส/card-data.json"
   },
