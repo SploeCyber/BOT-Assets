@@ -10,5 +10,9 @@
   {
     "name": "SD03 - นรกก็แค่น้ำพริก",
     "path": "assets/SD03 - นรกก็แค่น้ำพริก/card-data.json"
+  },
+  {
+    "name": "SD04 - ทหารไก่ชนเขา",
+    "path": "assets/SD04 - ทหารไก่ชนเขา/card-data.json"
   }
 ]
