@@ -68,6 +68,10 @@
     "path": "assets/ODY1 - Odenya/card-data.json"
   },
   {
+    "name": "PRE0",
+    "path": "assets/PRE0/card-data.json"
+  },
+  {
     "name": "PromoCard",
     "path": "assets/PromoCard/card-data.json"
   },
