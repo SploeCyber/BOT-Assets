@@ -6,5 +6,9 @@
   {
     "name": "SD02 - วีรบุรุษปากซอย",
     "path": "assets/SD02 - วีรบุรุษปากซอย/card-data.json"
+  },
+  {
+    "name": "SD03 - นรกก็แค่น้ำพริก",
+    "path": "assets/SD03 - นรกก็แค่น้ำพริก/card-data.json"
   }
 ]
