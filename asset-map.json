@@ -18,5 +18,9 @@
   {
     "name": "SD05 - กำเนิดจากน้ำ",
     "path": "assets/SD05 - กำเนิดจากน้ำ/card-data.json"
+  },
+  {
+    "name": "SD06 - ๖ ประจัญบาน",
+    "path": "assets/SD06 - ๖ ประจัญบาน/card-data.json"
   }
 ]
