@@ -1,0 +1,70 @@
+name: Optimize All Assets
+
+on:
+  workflow_dispatch:
+    inputs:
+      force_rebuild:
+        description: 'Re-optimize all images even if they have _optimized version?'
+        type: boolean
+        default: false
+
+jobs:
+  optimize:
+    name: 🎨 Optimize All Images
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    
+    steps:
+      - name: 📥 Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # Full checkout to see all images
+
+      - name: 🐍 Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+          cache: 'pip'
+
+      - name: 📦 Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: 🖼️ Run Optimization
+        env:
+          PYTHONUNBUFFERED: 1
+        run: |
+          echo "🚀 Starting full optimization pass..."
+          if [ "${{ github.event.inputs.force_rebuild }}" == "true" ]; then
+            echo "🧹 Force rebuild enabled. Removing existing optimized files..."
+            find assets -name "*_original.png" -delete
+            find assets -name "*_optimize.png" -delete
+          fi
+          # Also clean up any old-format _optimized files if they exist
+          find assets -name "*_optimized.png" -delete
+          python scripts/optimize_images.py
+          echo "✅ Optimization complete."
+
+      - name: 📊 Rebuild Merged Datasets
+        run: |
+          echo "🔄 Rebuilding asset map and all-cards.json..."
+          # Rebuild asset-map.json
+          python -c "import sys; sys.path.append('scripts'); from generate_info_json import generate_assets_index; generate_assets_index('assets')"
+          # Rebuild all-cards.json
+          python scripts/merge_datasets.py
+          echo "✅ Datasets rebuilt."
+
+      - name: 📤 Commit and Push Changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add .
+          
+          if git diff --staged --quiet; then
+            echo "✨ No changes to commit"
+          else
+            git commit -m "🖼️ Optimized all repository assets [skip ci]"
+            git push origin main
+          fi
