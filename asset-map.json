@@ -94,5 +94,9 @@
   {
     "name": "SD07 - VS 18 หัวเมือง",
     "path": "assets/SD07 - VS 18 หัวเมือง/card-data.json"
+  },
+  {
+    "name": "SL01 - Selection",
+    "path": "assets/SL01 - Selection/card-data.json"
   }
 ]
