@@ -12,6 +12,10 @@
     "path": "assets/BT03 - อมนุษย์ Invasion/card-data.json"
   },
   {
+    "name": "BT04 - ความจริง Today",
+    "path": "assets/BT04 - ความจริง Today/card-data.json"
+  },
+  {
     "name": "SD01 - ตัวตึงไกรลาส",
     "path": "assets/SD01 - ตัวตึงไกรลาส/card-data.json"
   },
