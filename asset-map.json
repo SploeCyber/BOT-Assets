@@ -44,6 +44,10 @@
     "path": "assets/CC01 - Community Collection/card-data.json"
   },
   {
+    "name": "CC02 - Community Collection",
+    "path": "assets/CC02 - Community Collection/card-data.json"
+  },
+  {
     "name": "SD01 - ตัวตึงไกรลาส",
     "path": "assets/SD01 - ตัวตึงไกรลาส/card-data.json"
   },
