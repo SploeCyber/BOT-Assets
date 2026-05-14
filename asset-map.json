@@ -14,5 +14,9 @@
   {
     "name": "SD04 - ทหารไก่ชนเขา",
     "path": "assets/SD04 - ทหารไก่ชนเขา/card-data.json"
+  },
+  {
+    "name": "SD05 - กำเนิดจากน้ำ",
+    "path": "assets/SD05 - กำเนิดจากน้ำ/card-data.json"
   }
 ]
