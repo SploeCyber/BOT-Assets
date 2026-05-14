@@ -52,6 +52,10 @@
     "path": "assets/KD01 อวตารลงทัณฑ์/card-data.json"
   },
   {
+    "name": "KD02 พันธสัญญาโลหิต",
+    "path": "assets/KD02 พันธสัญญาโลหิต/card-data.json"
+  },
+  {
     "name": "SD01 - ตัวตึงไกรลาส",
     "path": "assets/SD01 - ตัวตึงไกรลาส/card-data.json"
   },

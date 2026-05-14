@@ -1,0 +1,520 @@
+[
+  {
+    "ImagePath": "KD02-001-UR.png",
+    "Name": "ปีศาจแห่งพันธะเลือด เมฟิสโตเฟเลส",
+    "Type": "Avatar",
+    "Cost": 8,
+    "Gem": 2,
+    "Power": 7,
+    "Symbol": "นรก",
+    "Color": "#9900FF",
+    "Ex": "Only#1",
+    "ซอย": 3,
+    "Print": "KD02-001",
+    "Rare": "UR",
+    "Details": {
+      "Main Effect": "สั่งใช้ จากมือ ถ้าในนรกฝ่ายเรา มี Avatar Symbol นรก ที่ชื่อไม่ซ้ำกันตั้งแต่ 7 ชื่อขึ้นไป ทิ้งการ์ดจากบนมือ 2 ใบ : อัญเชิญ Avatar ใบนี้ ลง Avatar Zone \nเทิร์นละครั้ง สั่งใช้ ธรณีสูบ 5 ใบ : ทำลาย Avatar ทุกใบบนสนามของผู้เล่นทุกคน ยกเว้นการ์ดใบนี้\nอัตโนมัติ ถ้าการ์ดใบนี้ ถูก สอดแนมด้วย ความสามารถของ \"สุวรรณ\" : สามารถนำการ์ดใบนี้ขึ้นมือได้\n#Avatar ใบนี้ไม่สามารถ อัญเชิญ ได้นอกจาก ความสามารถ ของ Avatar ใบนี้"
+    }
+  },
+  {
+    "ImagePath": "KD02-001-2-SEC.png",
+    "Name": "พระนารายณ์ เทพผดุงธรรม",
+    "Type": "Avatar",
+    "Cost": 8,
+    "Gem": 2,
+    "Power": 7,
+    "Symbol": "นรก",
+    "Color": "#9900FF",
+    "Ex": "Only#1",
+    "ซอย": 3,
+    "Print": "KD02-001-2",
+    "Rare": "SEC",
+    "Details": {
+      "Main Effect": "สั่งใช้ จากมือ ถ้าในนรกฝ่ายเรา มี Avatar Symbol นรก ที่ชื่อไม่ซ้ำกันตั้งแต่ 7 ชื่อขึ้นไป ทิ้งการ์ดจากบนมือ 2 ใบ : อัญเชิญ Avatar ใบนี้ ลง Avatar Zone \nเทิร์นละครั้ง สั่งใช้ ธรณีสูบ 5 ใบ : ทำลาย Avatar ทุกใบบนสนามของผู้เล่นทุกคน ยกเว้นการ์ดใบนี้\nอัตโนมัติ ถ้าการ์ดใบนี้ ถูก สอดแนมด้วย ความสามารถของ \"สุวรรณ\" : สามารถนำการ์ดใบนี้ขึ้นมือได้\n#Avatar ใบนี้ไม่สามารถ อัญเชิญ ได้นอกจาก ความสามารถ ของ Avatar ใบนี้"
+    }
+  },
+  {
+    "ImagePath": "KD02-001-3-PR.png",
+    "Name": "พระนารายณ์ เทพผดุงธรรม",
+    "Type": "Avatar",
+    "Cost": 8,
+    "Gem": 2,
+    "Power": 7,
+    "Symbol": "นรก",
+    "Color": "#9900FF",
+    "Ex": "Only#1",
+    "ซอย": 3,
+    "Print": "KD02-001-3",
+    "Rare": "PR",
+    "Details": {
+      "Main Effect": "สั่งใช้ จากมือ ถ้าในนรกฝ่ายเรา มี Avatar Symbol นรก ที่ชื่อไม่ซ้ำกันตั้งแต่ 7 ชื่อขึ้นไป ทิ้งการ์ดจากบนมือ 2 ใบ : อัญเชิญ Avatar ใบนี้ ลง Avatar Zone \nเทิร์นละครั้ง สั่งใช้ ธรณีสูบ 5 ใบ : ทำลาย Avatar ทุกใบบนสนามของผู้เล่นทุกคน ยกเว้นการ์ดใบนี้\nอัตโนมัติ ถ้าการ์ดใบนี้ ถูก สอดแนมด้วย ความสามารถของ \"สุวรรณ\" : สามารถนำการ์ดใบนี้ขึ้นมือได้\n#Avatar ใบนี้ไม่สามารถ อัญเชิญ ได้นอกจาก ความสามารถ ของ Avatar ใบนี้"
+    }
+  },
+  {
+    "ImagePath": "KD02-001-4-CBR.png",
+    "Name": "พระนารายณ์ เทพผดุงธรรม",
+    "Type": "Avatar",
+    "Cost": 8,
+    "Gem": 2,
+    "Power": 7,
+    "Symbol": "นรก",
+    "Color": "#9900FF",
+    "Ex": "Only#1",
+    "ซอย": 3,
+    "Print": "KD02-001-4",
+    "Rare": "CBR",
+    "Details": {
+      "Main Effect": "สั่งใช้ จากมือ ถ้าในนรกฝ่ายเรา มี Avatar Symbol นรก ที่ชื่อไม่ซ้ำกันตั้งแต่ 7 ชื่อขึ้นไป ทิ้งการ์ดจากบนมือ 2 ใบ : อัญเชิญ Avatar ใบนี้ ลง Avatar Zone \nเทิร์นละครั้ง สั่งใช้ ธรณีสูบ 5 ใบ : ทำลาย Avatar ทุกใบบนสนามของผู้เล่นทุกคน ยกเว้นการ์ดใบนี้\nอัตโนมัติ ถ้าการ์ดใบนี้ ถูก สอดแนมด้วย ความสามารถของ \"สุวรรณ\" : สามารถนำการ์ดใบนี้ขึ้นมือได้\n#Avatar ใบนี้ไม่สามารถ อัญเชิญ ได้นอกจาก ความสามารถ ของ Avatar ใบนี้"
+    }
+  },
+  {
+    "ImagePath": "KD02-002-SR.png",
+    "Name": "ลิลิธ ปีศาจสาวตนแรก",
+    "Type": "Avatar",
+    "Cost": 4,
+    "Gem": 2,
+    "Power": 3,
+    "Symbol": "นรก",
+    "Color": "#9900FF",
+    "ซอย": 3,
+    "Print": "KD02-002",
+    "Rare": "SR",
+    "Details": {
+      "Main Effect": "เทิร์นละครั้ง สั่งใช้ ถ้าในนรกฝ่ายเรามี Avatar Symbol นรก ที่ชื่อไม่ซ้ำกันตั้งแต่ 4 ใบขึ้นไป  เนรเทศ การ์ดในนรกฝ่ายเรา 2 ใบ : เลือกการ์ด Symbol นรก จากในนรก 1 ใบ และนำขึ้นมือ \n#Avatar ใบนี้ นับเป็นชื่อ \"นายนิรยบาล\" "
+    }
+  },
+  {
+    "ImagePath": "KD02-002-2-SEC.png",
+    "Name": "ลิลิธ ปีศาจสาวตนแรก",
+    "Type": "Avatar",
+    "Cost": 4,
+    "Gem": 2,
+    "Power": 3,
+    "Symbol": "นรก",
+    "Color": "#9900FF",
+    "ซอย": 3,
+    "Print": "KD02-002-2",
+    "Rare": "SEC",
+    "Details": {
+      "Main Effect": "เทิร์นละครั้ง สั่งใช้ ถ้าในนรกฝ่ายเรามี Avatar Symbol นรก ที่ชื่อไม่ซ้ำกันตั้งแต่ 4 ใบขึ้นไป  เนรเทศ การ์ดในนรกฝ่ายเรา 2 ใบ : เลือกการ์ด Symbol นรก จากในนรก 1 ใบ และนำขึ้นมือ \n#Avatar ใบนี้ นับเป็นชื่อ \"นายนิรยบาล\" "
+    }
+  },
+  {
+    "ImagePath": "KD02-003-SR.png",
+    "Name": "พญายม",
+    "Type": "Avatar",
+    "Cost": 5,
+    "Gem": 1,
+    "Power": 5,
+    "Symbol": "นรก",
+    "Color": "#9900FF",
+    "ซอย": 3,
+    "Print": "KD02-003",
+    "Rare": "SR",
+    "Details": {
+      "Main Effect": "จุติ : เลือก Avatar \"นายนิรยบาล\" ในนรกเรา 1 ใบ อัญเชิญลง Avatar Zone ฝ่ายเรา"
+    }
+  },
+  {
+    "ImagePath": "KD02-004-C.png",
+    "Name": "สุวรรณ",
+    "Type": "Avatar",
+    "Cost": 3,
+    "Gem": 2,
+    "Power": 2,
+    "Symbol": "นรก",
+    "Color": "#9900FF",
+    "ซอย": 3,
+    "Print": "KD02-004",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "จุติ : สอดแนม 5 ใบ  นำ Avatar \"พญายม\" หรือ \"นายนิรยบาล\" 1 ใบ จากที่ สอดแนม ขึ้นมือ การ์ดที่เหลือเรียงและนำไปไว้ใต้ Deck"
+    }
+  },
+  {
+    "ImagePath": "KD02-005-C.png",
+    "Name": "นายนิรยบาล หมอ",
+    "Type": "Avatar",
+    "Cost": 4,
+    "Gem": 1,
+    "Power": 2,
+    "Symbol": "นรก",
+    "Color": "#9900FF",
+    "ซอย": 3,
+    "Print": "KD02-005",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "จุติ ทิ้งการ์ดจากบนมือ 1 ใบ : ธรณีสูบ 3 ใบ จากนั้น อัญเชิญ Avatar ที่มี {Symbol นรก} ค่า Cost ไม่เกิน 4 จากในนรกเรา 1 ใบ ลง Avatar Zone ฝ่ายเรา"
+    }
+  },
+  {
+    "ImagePath": "KD01-006-C.png",
+    "Name": "นายนิรยบาล พ่อจีจ้า",
+    "Type": "Avatar",
+    "Cost": 4,
+    "Gem": 1,
+    "Power": 3,
+    "Symbol": "นรก",
+    "Color": "#9900FF",
+    "ซอย": 3,
+    "Print": "KD01-006",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "อัตโนมัติ เมื่อ Avatar ใบนี้เป็นเป้าหมายการโจมตีหรือโจมตี : ธรณีสูบ 1 ใบ POWER +1 จนจบเทิร์น"
+    }
+  },
+  {
+    "ImagePath": "KD01-006-2-SEC.png",
+    "Name": "นายนิรยบาล พ่อจีจ้า",
+    "Type": "Avatar",
+    "Cost": 4,
+    "Gem": 1,
+    "Power": 3,
+    "Symbol": "นรก",
+    "Color": "#9900FF",
+    "ซอย": 3,
+    "Print": "KD01-006-2",
+    "Rare": "SEC",
+    "Details": {
+      "Main Effect": "อัตโนมัติ เมื่อ Avatar ใบนี้เป็นเป้าหมายการโจมตีหรือโจมตี : ธรณีสูบ 1 ใบ POWER +1 จนจบเทิร์น"
+    }
+  },
+  {
+    "ImagePath": "KD02-007-C.png",
+    "Name": "นายนิรยบาล แว่น",
+    "Type": "Avatar",
+    "Cost": 0,
+    "Gem": 1,
+    "Power": 4,
+    "Symbol": "นรก",
+    "Color": "#9900FF",
+    "ซอย": 3,
+    "Print": "KD02-007",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "อัตโนมัติ ถ้าการ์ดใบนี้ถูกส่งลงนรกด้วยผลของ ธรณีสูบ : สามารถอัญเชิญการ์ดใบนี้ลง Avatar Zone จากนรกได้\n#การ์ดใบนี้ไม่สามารถลงสนามจากบนมือได้"
+    }
+  },
+  {
+    "ImagePath": "KD02-008-C.png",
+    "Name": "นายนิรยบาล อ้วน",
+    "Type": "Avatar",
+    "Cost": 2,
+    "Gem": 2,
+    "Power": 2,
+    "Symbol": "นรก",
+    "Color": "#9900FF",
+    "ซอย": 3,
+    "Print": "KD02-008",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "ต่อเนื่อง เมื่อมีการ ธรณีสูบ จากความสามารถของการ์ดฝ่ายเรา ยกเว้น \"นายนิรยบาล อ้วน\" ธรณีสูบ เพิ่ม 2 ใบ"
+    }
+  },
+  {
+    "ImagePath": "KD02-009-C.png",
+    "Name": "นายนิรยบาล \"เต๋า\"",
+    "Type": "Avatar",
+    "Cost": 3,
+    "Gem": 2,
+    "Power": 3,
+    "Symbol": "นรก",
+    "Color": "#9900FF",
+    "ซอย": 3,
+    "Print": "KD02-009",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "เมื่อการ์ดใบนี้ถูกส่งลงนรกด้วยผลของ ธรณีสูบ : ทั้งสองฝ่าย ธรณีสูบ 2ใบ"
+    }
+  },
+  {
+    "ImagePath": "KD02-010-C.png",
+    "Name": "นายนิรยบาล กล้าม",
+    "Type": "Avatar",
+    "Cost": 4,
+    "Gem": 3,
+    "Power": 4,
+    "Symbol": "นรก",
+    "Color": "#9900FF",
+    "ซอย": 3,
+    "Print": "KD02-010",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": null
+    }
+  },
+  {
+    "ImagePath": "KD02-011-C.png",
+    "Name": "นายนิรยบาล ปฎิรูป",
+    "Type": "Avatar",
+    "Cost": 1,
+    "Gem": 4,
+    "Power": 1,
+    "Symbol": "นรก",
+    "Color": "#9900FF",
+    "ซอย": 3,
+    "Print": "KD02-011",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": null
+    }
+  },
+  {
+    "ImagePath": "KD02-012-C.png",
+    "Name": "นายนิรยบาล ตัวใหญ่พิเศษ",
+    "Type": "Avatar",
+    "Cost": 9,
+    "Gem": 4,
+    "Power": 3,
+    "Symbol": "นรก",
+    "Color": "#9900FF",
+    "ซอย": 3,
+    "Print": "KD02-012",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": null
+    }
+  },
+  {
+    "ImagePath": "KD02-013-C.png",
+    "Name": "นายนิรยบาล ชาวนา",
+    "Type": "Avatar",
+    "Cost": 2,
+    "Gem": 3,
+    "Power": 3,
+    "Symbol": "นรก",
+    "Color": "#9900FF",
+    "ซอย": 3,
+    "Print": "KD02-013",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": null
+    }
+  },
+  {
+    "ImagePath": "KD02-014-SR.png",
+    "Name": "สัญญาเลือด",
+    "Type": "Normal",
+    "Cost": null,
+    "Gem": 2,
+    "Power": null,
+    "Symbol": "นรก",
+    "Color": null,
+    "ซอย": 3,
+    "Print": "KD02-014",
+    "Rare": "SR",
+    "Details": {
+      "Main Effect": "ธรณีสูบ 3 ใบ หลังจากนั้น จั่วการ์ด 1 ใบ ถ้าในนรกของเรามี Avatar Symbol นรก ที่ชื่อไม่ซ้ำกันตั้งแต่ 5 ใบขึ้นไป จั่วการ์ด 2 ใบ แทน\nถ้าการ์ดใบนี้ถูก ธรณีสูบ : สามารถ เนรเทศ การ์ดใบนี้ อัญเชิญ \"นายนิรยบาล\" 1 ใบ จากนรก ลง Avatar Zone ฝ่ายเรา"
+    }
+  },
+  {
+    "ImagePath": "KD02-014-2-SEC.png",
+    "Name": "สัญญาเลือด",
+    "Type": "Normal",
+    "Cost": null,
+    "Gem": 2,
+    "Power": null,
+    "Symbol": "นรก",
+    "Color": null,
+    "ซอย": 3,
+    "Print": "KD02-014-2",
+    "Rare": "SEC",
+    "Details": {
+      "Main Effect": "ธรณีสูบ 3 ใบ หลังจากนั้น จั่วการ์ด 1 ใบ ถ้าในนรกของเรามี Avatar Symbol นรก ที่ชื่อไม่ซ้ำกันตั้งแต่ 5 ใบขึ้นไป จั่วการ์ด 2 ใบ แทน\nถ้าการ์ดใบนี้ถูก ธรณีสูบ : สามารถ เนรเทศ การ์ดใบนี้ อัญเชิญ \"นายนิรยบาล\" 1 ใบ จากนรก ลง Avatar Zone ฝ่ายเรา"
+    }
+  },
+  {
+    "ImagePath": "KD02-015-C.png",
+    "Name": "ร้อนมากก็เปิดหน้าต่างสิว๊ากกกก",
+    "Type": "Normal",
+    "Cost": null,
+    "Gem": 2,
+    "Power": null,
+    "Symbol": "จอมเวทย์",
+    "Color": null,
+    "ซอย": null,
+    "Print": "KD02-015",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "เลือก Avatar อีกฝ่าย 1 ใบ : นำการ์ดใบนั้นขึ้นมือ"
+    }
+  },
+  {
+    "ImagePath": "KD02-016-C.png",
+    "Name": "เลือกมันสำหรับพวก จน !!!",
+    "Type": "Normal",
+    "Cost": null,
+    "Gem": 1,
+    "Power": null,
+    "Symbol": "จอมเวทย์",
+    "Color": null,
+    "ซอย": 3,
+    "Print": "KD02-016",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "เลือกปฏิบัติ :\n1) นำ Avatar Cost 5 หรือต่ำกว่า จาก นรก ฝ่ายเรา  ขึ้นมือ 1 ใบ ยกเว้นการ์ด Only 1 \n2) นำ Avatar ที่มี Cost 5 หรือต่ำกว่า จาก Deck ฝ่ายเรา ขึ้นมือ 1 ใบ ยกเว้นการ์ด  Only 1 แล้วสับ Deck \nถ้า Life Card ของเราถูกหงายตั้งแต่ 4 ใบขึ้นไปและหงายมากกว่าฝ่ายตรงข้าม ทำความสามารถ 1) และ 2)"
+    }
+  },
+  {
+    "ImagePath": "KD02-017-C.png",
+    "Name": "อย่าให้มีครั้งที่ 2 ",
+    "Type": "React",
+    "Cost": null,
+    "Gem": 1,
+    "Power": null,
+    "Symbol": "จอมเวทย์",
+    "Color": null,
+    "ซอย": null,
+    "Print": "KD02-017",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "เมื่อฝ่ายตรงข้ามใช้ React Magic : ยกเลิกผลของการ์ดใบนั้น \nการ์ดใบนี้สามารถใช้ได้แม้ว่าในเทิร์นนี้เราใช้ การ์ด React Magic ไปแล้ว\nสามารถใช้การ์ด อย่าให้มีครั้งที่ 2 ได้ 1 ใบ ต่อเทิร์น เท่านั้น"
+    }
+  },
+  {
+    "ImagePath": "KD02-018-C.png",
+    "Name": "ชายจากอนาคต",
+    "Type": "React",
+    "Cost": null,
+    "Gem": 0,
+    "Power": null,
+    "Symbol": "จอมเวทย์",
+    "Color": null,
+    "ซอย": null,
+    "Print": "KD02-018",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "เมื่อมีการสั่งใช้ Magic : ยกเลิกความสามารถ Magic ใบนั้น"
+    }
+  },
+  {
+    "ImagePath": "KD02-019-C.png",
+    "Name": "หอกแหลมแทง ทุกวันทุกวัน",
+    "Type": "Modification",
+    "Cost": null,
+    "Gem": 1,
+    "Power": null,
+    "Symbol": "นรก",
+    "Color": null,
+    "ซอย": null,
+    "Print": "KD02-019",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "POWER +1 ให้ Avatar {รูป Symbol นรก} ที่สวมใส่\nถ้าการ์ดใบนี้ถูกส่งลงนรกด้วยผลของ ธรณีสูบ (ส่งการ์ดใบบนสุดจาก Deck ตกนรก) และในเทิร์นนี้ยังไม่ได้ใช้ Modification Magic : สามารถใช้งานการ์ดใบนี้จากนรกได้"
+    }
+  },
+  {
+    "ImagePath": "KD02-020-C.png",
+    "Name": "ประตูนรก",
+    "Type": "Land",
+    "Cost": null,
+    "Gem": 1,
+    "Power": null,
+    "Symbol": "นรก",
+    "Color": null,
+    "ซอย": null,
+    "Print": "KD02-020",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "เทิร์นละครั้ง สั่งใช้ ทิ้ง Avatar {Symbol นรก} 1 ใบจากบนมือ : อัญเชิญ Avatar \"นายนิรยบาล\" ค่า Cost ไม่เกิน 4 จาก นรกเรา 1 ใบ ลงบน Avatar Zone ฝ่ายเรา"
+    }
+  },
+  {
+    "ImagePath": "KD02-020-2-SEC.png",
+    "Name": "ประตูนรก",
+    "Type": "Land",
+    "Cost": null,
+    "Gem": 1,
+    "Power": null,
+    "Symbol": "นรก",
+    "Color": null,
+    "ซอย": 3,
+    "Print": "KD02-020-2",
+    "Rare": "SEC",
+    "Details": {
+      "Main Effect": "เทิร์นละครั้ง สั่งใช้ ทิ้ง Avatar {Symbol นรก} 1 ใบจากบนมือ : อัญเชิญ Avatar \"นายนิรยบาล\" ค่า Cost ไม่เกิน 4 จาก นรกเรา 1 ใบ ลงบน Avatar Zone ฝ่ายเรา"
+    }
+  },
+  {
+    "ImagePath": "KD00-00C-C.png",
+    "Name": "โอน้อยออกแห่งโชคชะตา",
+    "Type": "Normal",
+    "Cost": null,
+    "Gem": 1,
+    "Power": null,
+    "Symbol": "จอมเวทย์",
+    "Color": null,
+    "ซอย": null,
+    "Print": "KD00-00C",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "ผู้เล่นทุกคนทำการโอน้อยออก จนกว่าจะเหลือผู้เล่นเพียง 2 คน จากนั้นให้ ผู้เล่นทั้ง 2 คนทำการเป่ายิงฉุบ ผู้ที่แพ้จะต้องหงาย LIFE Card ใบบนสุด 1 ใบ หากอยู่ในสถานะ สาหัส แล้ว จะถือว่าแพ้เกมทันที"
+    }
+  },
+  {
+    "ImagePath": "KD00-00D-C.png",
+    "Name": "ขอมือเธอหน่อย~",
+    "Type": "Normal",
+    "Cost": null,
+    "Gem": 2,
+    "Power": null,
+    "Symbol": "จอมเวทย์",
+    "Color": "#FFFFFF",
+    "ซอย": 3,
+    "Print": "KD00-00D",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "ผู้เล่นที่มีการ์ดบนมือมีเยอะที่สุดทิ้งการ์ดบนมือ 2 ใบ : ผู้เล่นทุกคนจั่วการ์ดให้เท่ากับผู้เล่นที่มีการ์ดบนมือเยอะที่สุด"
+    }
+  },
+  {
+    "ImagePath": "KD02-021.png",
+    "Name": "ไม่นะ พญายม",
+    "Type": "Life",
+    "ซอย": 3,
+    "Print": "KD02-021",
+    "Details": {
+      "Main Effect": "เมื่อการ์ดใบนี้ถูกหงายจากการโจมตี : ใน Main Phase ถัดไป จั่วการ์ด 1 ใบ"
+    }
+  },
+  {
+    "ImagePath": "KD02-022.png",
+    "Name": "ไม่นะ โดม !",
+    "Type": "Life",
+    "ซอย": 3,
+    "Print": "KD02-022",
+    "Details": {
+      "Main Effect": "ใน Main Phase ถัดไป นำ Avatar 1 ใบจาก นรกฝ่ายเรา ที่มี GEM 3 หรือมากกว่า ขึ้นมือ"
+    }
+  },
+  {
+    "ImagePath": "KD02-023.png",
+    "Name": "ไม่นะ มีมมิจัง !",
+    "Type": "Life",
+    "ซอย": 3,
+    "Print": "KD02-023",
+    "Details": {
+      "Main Effect": "ใน Main Phase ถัดไป สอดแนม 5 ใบ นำ Avatar 1 ใบ จากที่สอดแนม ขึ้นมือ นำการ์ดที่เหลือเรียงแล้วนำไปไว้ใต้ Deck "
+    }
+  },
+  {
+    "ImagePath": "KD02-024.png",
+    "Name": "ไม่นะ อู๊ด !",
+    "Type": "Life",
+    "ซอย": 3,
+    "Print": "KD02-024",
+    "Details": {
+      "Main Effect": "ใน Main Phase ถัดไป นำ Normal Magic 1 ใบ จาก นรกฝ่ายเราขึ้นมือ"
+    }
+  },
+  {
+    "ImagePath": "KD02-025.png",
+    "Name": "ไม่นะ ลูก",
+    "Type": "Life",
+    "ซอย": 1,
+    "Print": "KD02-025",
+    "Details": {
+      "Main Effect": "เมื่อการ์ดใบนี้ถูกหงายจากการโจมตี : ใน Main Phase ถัดไป จั่วการ์ด 1 ใบ"
+    }
+  }
+]
