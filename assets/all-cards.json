@@ -24607,6 +24607,436 @@
     "_source": "SD07 - VS 18 หัวเมือง"
   },
   {
+    "ImagePath": "assets/SD08 - กองทัพตัวจี๊ดหัวใจยึดโลก/SD08-001-UR.png",
+    "Name": "ไพรมอล รัททาทุย",
+    "Type": "Avatar",
+    "Cost": 6,
+    "Gem": 2,
+    "Power": 6,
+    "Symbol": "รัททาทุย",
+    "Color": "#00FFFF",
+    "Ex": "Only #1",
+    "ซอย": 3,
+    "Print": "SD08-001",
+    "Rare": "UR",
+    "Details": {
+      "Main Effect": "เทิร์นละครั้ง สั่งใช้ : อัญเชิญ Avatar Symbol รัททาทุย ที่มี Cost 1 Gem 1 POWER 1 จำนวน 1 ใบ จากใน Deck หรือ นรก เรา ลงบน Avatar Zone ฝ่ายเรา ถ้า อัญเชิญ จาก Deck ให้สับ Deck \nเทิร์นละครั้ง สั่งใช้ เมื่อ Avatar ใบนี้จะออกจากสนาม เนรเทศ การ์ด Symbol รัททาทุย ในนรกเรา 5 ใบ : Avatar ใบนี้จะไม่ออกจากสนาม\nสั่งใช้ เมื่อ Avatar ใบนี้โจมตี เซ่นไหว้ Avatar Symbol รัททาทุย ฝ่ายเรา 1 ใบ : เปลื่ยนสภาพ Avatar ใบนี้เป็นสภาพตื่น"
+    },
+    "_source": "SD08 - กองทัพตัวจี๊ดหัวใจยึดโลก"
+  },
+  {
+    "ImagePath": "assets/SD08 - กองทัพตัวจี๊ดหัวใจยึดโลก/SD08-001-2-PR.png",
+    "Name": "ไพรมอล รัททาทุย",
+    "Type": "Avatar",
+    "Cost": 6,
+    "Gem": 2,
+    "Power": 6,
+    "Symbol": "รัททาทุย",
+    "Color": "#00FFFF",
+    "Ex": "Only #1",
+    "ซอย": 3,
+    "Print": "SD08-001-2",
+    "Rare": "PR",
+    "Details": {
+      "Main Effect": "เทิร์นละครั้ง สั่งใช้ : อัญเชิญ Avatar Symbol รัททาทุย ที่มี Cost 1 Gem 1 POWER 1 จำนวน 1 ใบ จากใน Deck หรือ นรก เรา ลงบน Avatar Zone ฝ่ายเรา ถ้า อัญเชิญ จาก Deck ให้สับ Deck \nเทิร์นละครั้ง สั่งใช้ เมื่อ Avatar ใบนี้จะออกจากสนาม เนรเทศ การ์ด Symbol รัททาทุย ในนรกเรา 5 ใบ : Avatar ใบนี้จะไม่ออกจากสนาม\nสั่งใช้ เมื่อ Avatar ใบนี้โจมตี เซ่นไหว้ Avatar Symbol รัททาทุย ฝ่ายเรา 1 ใบ : เปลื่ยนสภาพ Avatar ใบนี้เป็นสภาพตื่น"
+    },
+    "_source": "SD08 - กองทัพตัวจี๊ดหัวใจยึดโลก"
+  },
+  {
+    "ImagePath": "assets/SD08 - กองทัพตัวจี๊ดหัวใจยึดโลก/SD08-001-3-CB.png",
+    "Name": "ไพรมอล รัททาทุย",
+    "Type": "Avatar",
+    "Cost": 6,
+    "Gem": 2,
+    "Power": 6,
+    "Symbol": "รัททาทุย",
+    "Color": "#00FFFF",
+    "Ex": "Only #1",
+    "ซอย": 3,
+    "Print": "SD08-001-3",
+    "Rare": "CB",
+    "Details": {
+      "Main Effect": "เทิร์นละครั้ง สั่งใช้ : อัญเชิญ Avatar Symbol รัททาทุย ที่มี Cost 1 Gem 1 POWER 1 จำนวน 1 ใบ จากใน Deck หรือ นรก เรา ลงบน Avatar Zone ฝ่ายเรา ถ้า อัญเชิญ จาก Deck ให้สับ Deck \nเทิร์นละครั้ง สั่งใช้ เมื่อ Avatar ใบนี้จะออกจากสนาม เนรเทศ การ์ด Symbol รัททาทุย ในนรกเรา 5 ใบ : Avatar ใบนี้จะไม่ออกจากสนาม\nสั่งใช้ เมื่อ Avatar ใบนี้โจมตี เซ่นไหว้ Avatar Symbol รัททาทุย ฝ่ายเรา 1 ใบ : เปลื่ยนสภาพ Avatar ใบนี้เป็นสภาพตื่น"
+    },
+    "_source": "SD08 - กองทัพตัวจี๊ดหัวใจยึดโลก"
+  },
+  {
+    "ImagePath": "assets/SD08 - กองทัพตัวจี๊ดหัวใจยึดโลก/SD08-002-C.png",
+    "Name": "รัททาทุย พาหะ",
+    "Type": "Avatar",
+    "Cost": 1,
+    "Gem": 1,
+    "Power": 1,
+    "Symbol": "รัททาทุย",
+    "Color": "#00FFFF",
+    "ซอย": 3,
+    "Print": "SD08-002",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "อัตโนมัติ เมื่อ Avatar ใบนี้ต่อสู้ : Avatar ที่ต่อสู้กับ Avatar ใบนี้ POWER -1\n#สามารถใส่การ์ดใบนี้ใน Deck ได้มากสุด 50 ใบ"
+    },
+    "_source": "SD08 - กองทัพตัวจี๊ดหัวใจยึดโลก"
+  },
+  {
+    "ImagePath": "assets/SD08 - กองทัพตัวจี๊ดหัวใจยึดโลก/SD08-003-SR.png",
+    "Name": "โดมรัททาทุย ",
+    "Type": "Avatar",
+    "Cost": 3,
+    "Gem": 1,
+    "Power": 1,
+    "Symbol": "รัททาทุย",
+    "Color": "#00FFFF",
+    "ซอย": 3,
+    "Print": "SD08-003",
+    "Rare": "SR",
+    "Details": {
+      "Main Effect": "สั่งใช้ เซ่นไหว้ Avatar ใบนี้ และแสดง Construct Symbol รัททาทุย 1 ใบ จากมือ : ก่อสร้าง การ์ดใบที่แสดง"
+    },
+    "_source": "SD08 - กองทัพตัวจี๊ดหัวใจยึดโลก"
+  },
+  {
+    "ImagePath": "assets/SD08 - กองทัพตัวจี๊ดหัวใจยึดโลก/SD08-004-C.png",
+    "Name": "รัททาทุย 2 แสนโวลต์",
+    "Type": "Avatar",
+    "Cost": 2,
+    "Gem": 3,
+    "Power": 2,
+    "Symbol": "รัททาทุย",
+    "Color": "#00FFFF",
+    "ซอย": 3,
+    "Print": "SD08-004",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "สามัคคี (เปลี่ยนการ์ดนี้ที่อยู่บน Avatar Zone ในสภาพตื่นเป็นสภาพนอนบน และนำ POWER การ์ดนี้ไปเพิ่มให้กับ  Avatar เรา ที่โจมตี จนจบการต่อสู้นั้น)"
+    },
+    "_source": "SD08 - กองทัพตัวจี๊ดหัวใจยึดโลก"
+  },
+  {
+    "ImagePath": "assets/SD08 - กองทัพตัวจี๊ดหัวใจยึดโลก/SD08-005-C.png",
+    "Name": "รัททาทุยกินซาก",
+    "Type": "Avatar",
+    "Cost": 5,
+    "Gem": 1,
+    "Power": 0,
+    "Symbol": "รัททาทุย",
+    "Color": "#00FFFF",
+    "ซอย": 3,
+    "Print": "SD08-005",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "เทิร์นละครั้ง สั่งใช้ เนรเทศ Avatar Symbol รัททาทุย ชื่อแตกต่างกันกี่ใบก็ได้ : ต่อจำนวนที่เนรเทศ Avatar ใบนี้ POWER+1 จนจบเทิร์น"
+    },
+    "_source": "SD08 - กองทัพตัวจี๊ดหัวใจยึดโลก"
+  },
+  {
+    "ImagePath": "assets/SD08 - กองทัพตัวจี๊ดหัวใจยึดโลก/SD08-006-C.png",
+    "Name": "รัททาทุย พาราไซท์",
+    "Type": "Avatar",
+    "Cost": null,
+    "Gem": null,
+    "Power": null,
+    "Symbol": "รัททาทุย",
+    "Color": "#00FFFF",
+    "ซอย": 3,
+    "Print": "SD08-006",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "คำสั่งเสีย : อัญเชิญ Avatar Symbol รัททาทุย ที่มี Cost 1 Gem 1 POWER 1 จำนวน 1 ใบ จากใน Deck เรา ลงบน Avatar Zone ฝ่ายเรา จากนั้นสับ Deck"
+    },
+    "_source": "SD08 - กองทัพตัวจี๊ดหัวใจยึดโลก"
+  },
+  {
+    "ImagePath": "assets/SD08 - กองทัพตัวจี๊ดหัวใจยึดโลก/SD08-007-C.png",
+    "Name": "รัทาทุย หัวค้อน",
+    "Type": "Avatar",
+    "Cost": 3,
+    "Gem": 1,
+    "Power": 1,
+    "Symbol": "รัททาทุย",
+    "Color": "#00FFFF",
+    "ซอย": 3,
+    "Print": "SD08-007",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "จุติ (เมื่อ Avatar ใบนี้ถูกอัญเชิญลง Avatar Zone แบบจ่าย Cost ด้วยตัวผู้เล่นเอง) : นำ  Construct  Symbol รัททาทุย 1 ใบจากนรกขึ้นมือ"
+    },
+    "_source": "SD08 - กองทัพตัวจี๊ดหัวใจยึดโลก"
+  },
+  {
+    "ImagePath": "assets/SD08 - กองทัพตัวจี๊ดหัวใจยึดโลก/SD08-008-C.png",
+    "Name": "รัททาทุยโป๊",
+    "Type": "Avatar",
+    "Cost": 1,
+    "Gem": 1,
+    "Power": 1,
+    "Symbol": "รัททาทุย",
+    "Color": "#00FFFF",
+    "ซอย": 3,
+    "Print": "SD08-008",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "โล่มนุษย์ (เมื่อฝ่ายตรงข้ามเลือกเป้าหมายการโจมตี และทำการโจมตี เปลี่ยนการ์ดนี้ที่อยู่บน Avatar Zone ในสภาพตื่นเป็นสภาพนอน และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้แทน )"
+    },
+    "_source": "SD08 - กองทัพตัวจี๊ดหัวใจยึดโลก"
+  },
+  {
+    "ImagePath": "assets/SD08 - กองทัพตัวจี๊ดหัวใจยึดโลก/SD08-009-C.png",
+    "Name": "รัททาทุย แบงค์",
+    "Type": "Avatar",
+    "Cost": 2,
+    "Gem": 4,
+    "Power": 2,
+    "Symbol": "รัททาทุย",
+    "Color": "#00FFFF",
+    "ซอย": 3,
+    "Print": "SD08-009",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": null
+    },
+    "_source": "SD08 - กองทัพตัวจี๊ดหัวใจยึดโลก"
+  },
+  {
+    "ImagePath": "assets/SD08 - กองทัพตัวจี๊ดหัวใจยึดโลก/SD08-010-C.png",
+    "Name": "ตุ๊กตารัททาทุย",
+    "Type": "Avatar",
+    "Cost": 1,
+    "Gem": 3,
+    "Power": 0,
+    "Symbol": "รัททาทุย",
+    "Color": "#00FFFF",
+    "ซอย": 3,
+    "Print": "SD08-010",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "การ์ดใบนี้ใช้เป็น Cost การอัญเชิญได้เฉพาะ Avatar {symbol รัททาทุย} เท่านั้น\nเมื่อการ์ดใบนี้ถูกทิ้งเป็นค่า Cost ให้กับ Avatar \"รัททาทุย\" : อัญเชิญ Avatar รัททาทุย ที่มี Cost 1 GEM 1 POWER 1 1ใบ จากใน Deck ลงบน Avatar Zone ฝ่ายเรา"
+    },
+    "_source": "SD08 - กองทัพตัวจี๊ดหัวใจยึดโลก"
+  },
+  {
+    "ImagePath": "assets/SD08 - กองทัพตัวจี๊ดหัวใจยึดโลก/SD08-011-C.png",
+    "Name": "รัททาทุย เฝ้าทวาร",
+    "Type": "Avatar",
+    "Cost": 0,
+    "Gem": 3,
+    "Power": 1,
+    "Symbol": "รัททาทุย",
+    "Color": "#00FFFF",
+    "ซอย": 3,
+    "Print": "SD08-011",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": null
+    },
+    "_source": "SD08 - กองทัพตัวจี๊ดหัวใจยึดโลก"
+  },
+  {
+    "ImagePath": "assets/SD08 - กองทัพตัวจี๊ดหัวใจยึดโลก/SD08-012-C.png",
+    "Name": "กรุงโรมใน 1 วัน",
+    "Type": "Magic",
+    "SubType": "Normal",
+    "Gem": 1,
+    "Symbol": "จอมเวทย์",
+    "ซอย": 3,
+    "Print": "SD08-012",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "เลือกการ์ด Construct ที่ไม่ใช่ Only#1 สูงสุดไม่เกิน 2 ใบจากนรกเราที่ Cost รวมกันไม่เกิน 5 ก่อสร้าง Construct นั้น"
+    },
+    "_source": "SD08 - กองทัพตัวจี๊ดหัวใจยึดโลก"
+  },
+  {
+    "ImagePath": "assets/SD08 - กองทัพตัวจี๊ดหัวใจยึดโลก/SD08-013-C.png",
+    "Name": "เลือกมันสำหรับพวก จน !!!",
+    "Type": "Magic",
+    "SubType": "Normal",
+    "Gem": 1,
+    "Symbol": "จอมเวทย์",
+    "ซอย": 3,
+    "Print": "SD08-013",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "เลือกปฏิบัติ :\n1) นำ Avatar Cost 5 หรือต่ำกว่า จาก นรก ฝ่ายเรา  ขึ้นมือ 1 ใบ ยกเว้นการ์ด Only 1 \n2) นำ Avatar ที่มี Cost 5 หรือต่ำกว่า จาก Deck ฝ่ายเรา ขึ้นมือ 1 ใบ ยกเว้นการ์ด  Only 1 แล้วสับ Deck \nถ้า Life Card ของเราถูกหงายตั้งแต่ 4 ใบขึ้นไปและหงายมากกว่าฝ่ายตรงข้าม ทำความสามารถ 1) และ 2)"
+    },
+    "_source": "SD08 - กองทัพตัวจี๊ดหัวใจยึดโลก"
+  },
+  {
+    "ImagePath": "assets/SD08 - กองทัพตัวจี๊ดหัวใจยึดโลก/SD08-014-C.png",
+    "Name": "แพร่พันธ์ุทันใจ",
+    "Type": "Magic",
+    "SubType": "Normal",
+    "Gem": 1,
+    "Symbol": "รัททาทุย",
+    "ซอย": 3,
+    "Print": "SD08-014",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "ทิ้ง Avatar Symbol รัททาทุย จากบนมือตั้งแต่ 2 ใบขึ้นไป จากนั้นอัญเชิญ Avatar Symbol รัททาทุย 1 ใบ จาก Deck ที่มี Cost ที่รวมกันไม่เกินจาก Cost ของการ์ดที่ทิ้งด้วยความสามารถการ์ดใบนี้"
+    },
+    "_source": "SD08 - กองทัพตัวจี๊ดหัวใจยึดโลก"
+  },
+  {
+    "ImagePath": "assets/SD08 - กองทัพตัวจี๊ดหัวใจยึดโลก/SD08-015-C.png",
+    "Name": "รัททาท่วม",
+    "Type": "Magic",
+    "SubType": "React",
+    "Gem": 1,
+    "Symbol": "รัททาทุย",
+    "ซอย": 3,
+    "Print": "SD08-015",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "เมื่อ Avatar Symbol รัททาทุย ฝ่ายเราถูกทำลาย : อัญเชิญ Avatar Symbol รัททาทุย ที่มี Cost 1 Gem 1 POWER 1 มากสุด 2 ใบ (อย่างน้อย 1) จากใน Deck เรา ลงบน Avatar Zone ฝ่ายเรา จากนั้นสับ Deck"
+    },
+    "_source": "SD08 - กองทัพตัวจี๊ดหัวใจยึดโลก"
+  },
+  {
+    "ImagePath": "assets/SD08 - กองทัพตัวจี๊ดหัวใจยึดโลก/SD08-016-C.png",
+    "Name": "นวมรัททาทุย",
+    "Type": "Magic",
+    "SubType": "Modification",
+    "Gem": 3,
+    "Symbol": "รัททาทุย",
+    "ซอย": 3,
+    "Print": "SD08-016",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "สวมใส่ได้แค่ Avatar Symbol รัททาทุย \nAvatar ที่สวมใส่ POWER+1 ตาม Avatar Symbol รัททาทุย บนสนามฝ่ายเรา"
+    },
+    "_source": "SD08 - กองทัพตัวจี๊ดหัวใจยึดโลก"
+  },
+  {
+    "ImagePath": "assets/SD08 - กองทัพตัวจี๊ดหัวใจยึดโลก/SD08-017-C.png",
+    "Name": "พิภพรัททาทุย",
+    "Type": "Magic",
+    "SubType": "Land",
+    "Gem": 3,
+    "Symbol": "รัททาทุย",
+    "ซอย": 3,
+    "Print": "SD08-017",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "ถ้าบน Avatar Zone ของฝ่ายเรา เป็น Avatar Symbol รัททาทุย ทั้งหมด เราจะสามารถควบคุม Avatar Symbol รัททาทุย บน Avatar Zone ได้ 6 ใบ\n POWER +2 ให้ Avatar {Symbol รัททาทุย} ที่สั่งโจมตีจนจบการต่อสู้นั้น"
+    },
+    "_source": "SD08 - กองทัพตัวจี๊ดหัวใจยึดโลก"
+  },
+  {
+    "ImagePath": "assets/SD08 - กองทัพตัวจี๊ดหัวใจยึดโลก/SD08-018-C.png",
+    "Name": "รังรักรัททาทุย",
+    "Type": "Construct ",
+    "Cost": 3,
+    "Gem": 2,
+    "Power": 3,
+    "Symbol": "รัททาทุย",
+    "Color": null,
+    "ซอย": 3,
+    "Print": "SD08-018",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "เมื่อการ์ดใบนี้ก่อสร้าง : อัญเชิญ Avatar Symbol รัททาทุย ที่มี Cost 1 Gem 1 POWER 1 จำนวน 1 ใบ จากใน Deck เรา ลงบน Avatar Zone ฝ่ายเรา จากนั้นสับ Deck\n เทิร์นละครั้ง สั่งใช้ : อัญเชิญ Avatar Symbol รัททาทุย ที่มี Cost 1 Gem 1 POWER 1 จำนวน 1 ใบ จากใน Deck เรา ลงบน Avatar Zone ฝ่ายเรา จากนั้นสับ Deck"
+    },
+    "_source": "SD08 - กองทัพตัวจี๊ดหัวใจยึดโลก"
+  },
+  {
+    "ImagePath": "assets/SD08 - กองทัพตัวจี๊ดหัวใจยึดโลก/SD08-019-C.png",
+    "Name": "วงล้อรัททาทุย",
+    "Type": "Construct ",
+    "Cost": 2,
+    "Gem": 1,
+    "Power": 2,
+    "Symbol": "รัททาทุย",
+    "Color": "#00FFFF",
+    "ซอย": 3,
+    "Print": "SD08-019",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "ต่อเนื่อง Avatar Symbol รัททาทุย ที่มี Cost 1 Gem 1 POWER 1 บน Avatar Zone ฝ่ายเราทุกใบ POWER+1"
+    },
+    "_source": "SD08 - กองทัพตัวจี๊ดหัวใจยึดโลก"
+  },
+  {
+    "ImagePath": "assets/SD08 - กองทัพตัวจี๊ดหัวใจยึดโลก/SD08-020-C.png",
+    "Name": "บ่อหมัก รัททาทุย",
+    "Type": null,
+    "Cost": 5,
+    "Gem": 4,
+    "Power": 1,
+    "Symbol": "รัททาทุย",
+    "Color": "#00FFFF",
+    "ซอย": 3,
+    "Print": "SD08-020",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "เมื่อการ์ดใบนี้ถูกทิ้งเป็นค่า Cost เพื่ออัญเชิญ Avatar รัททาทุย  : ก่อสร้าง Construct ใบนี้\n เทิร์นละครั้ง อัตโนมัติ เมื่อ Avatar Symbol รัททาทุย ฝ่ายเราถูกทำลาย : จั่วการ์ด 1 ใบ"
+    },
+    "_source": "SD08 - กองทัพตัวจี๊ดหัวใจยึดโลก"
+  },
+  {
+    "ImagePath": "assets/SD08 - กองทัพตัวจี๊ดหัวใจยึดโลก/SD08-021-C.png",
+    "Name": "เฮ้ย รัททาทุย ตาย !",
+    "Type": "Life",
+    "ซอย": 2,
+    "Print": "SD08-021",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "ใน Main Phase ถัดไป สามารถ อัญเชิญ Avatar ที่ Cost 4 หรือต่ำกว่า 1 ใบ จากมือลงบน Avatar Zone ฝ่ายเรา",
+      "Favor Text": null
+    },
+    "_source": "SD08 - กองทัพตัวจี๊ดหัวใจยึดโลก"
+  },
+  {
+    "ImagePath": "assets/SD08 - กองทัพตัวจี๊ดหัวใจยึดโลก/SD08-022-C.png",
+    "Name": "ไม่นะ มณโท !",
+    "Type": "Life",
+    "ซอย": 2,
+    "Print": "SD08-022",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "ใน Main Phase ถัดไป อัญเชิญ Avatar 1 ใบ จากนรก ที่มี Cost ไม่เกิน 2 ลงบน Avatar Zone ฝ่ายเรา",
+      "Favor Text": null
+    },
+    "_source": "SD08 - กองทัพตัวจี๊ดหัวใจยึดโลก"
+  },
+  {
+    "ImagePath": "assets/SD08 - กองทัพตัวจี๊ดหัวใจยึดโลก/SD08-023-C.png",
+    "Name": "เฮ้ย นางพญา ตาย !",
+    "Type": "Life",
+    "ซอย": 2,
+    "Print": "SD08-023",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "ใน Main Phase ถัดไป จั่วการ์ด 1 ใบ",
+      "Favor Text": null
+    },
+    "_source": "SD08 - กองทัพตัวจี๊ดหัวใจยึดโลก"
+  },
+  {
+    "ImagePath": "assets/SD08 - กองทัพตัวจี๊ดหัวใจยึดโลก/SD08-024-C.png",
+    "Name": "เฮ้ย พ่อพันธุ์ ตาย !",
+    "Type": "Life",
+    "ซอย": 2,
+    "Print": "SD08-024",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "ใน Main Phase ถัดไป จั่วการ์ด 1 ใบ ",
+      "Favor Text": null
+    },
+    "_source": "SD08 - กองทัพตัวจี๊ดหัวใจยึดโลก"
+  },
+  {
+    "ImagePath": "assets/SD08 - กองทัพตัวจี๊ดหัวใจยึดโลก/SD08-025-C.png",
+    "Name": "เฮ้ย รัททาทุย โป๊ !",
+    "Type": "Life",
+    "ซอย": 2,
+    "Print": "SD08-025",
+    "Rare": "C",
+    "Details": {
+      "Main Effect": "ใน Main Phase ถัดไป จั่วการ์ด 1 ใบ",
+      "Favor Text": null
+    },
+    "_source": "SD08 - กองทัพตัวจี๊ดหัวใจยึดโลก"
+  },
+  {
     "ImagePath": "assets/SL01 - Selection/SL01-001-USEC.png",
     "Name": "นางมณโฑ",
     "Type": "Avatar",
