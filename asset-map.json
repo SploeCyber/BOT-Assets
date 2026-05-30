@@ -1,5 +1,9 @@
 [
   {
+    "name": "All Cards",
+    "path": "assets/all-cards.json"
+  },
+  {
     "name": "BT01 - Welcome ตลิ่งชัน",
     "path": "assets/BT01 - Welcome ตลิ่งชัน/card-data.json"
   },
@@ -102,6 +106,10 @@
   {
     "name": "SD07 - VS 18 หัวเมือง",
     "path": "assets/SD07 - VS 18 หัวเมือง/card-data.json"
+  },
+  {
+    "name": "SD08 - กองทัพตัวจี๊ดหัวใจยึดโลก",
+    "path": "assets/SD08 - กองทัพตัวจี๊ดหัวใจยึดโลก/card-data.json"
   },
   {
     "name": "SL01 - Selection",
